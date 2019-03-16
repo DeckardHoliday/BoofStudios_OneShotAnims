@@ -1,0 +1,3 @@
+E:\Deckard\Game Development\BoofStudios\CoreSystem\BoofStudios_BaseSystem\Boof_Core\Source\Boof_Core\Boof_Core.Build.cs
+E:\Deckard\Game Development\BoofStudios\CoreSystem\BoofStudios_BaseSystem\Boof_Core\Source\Boof_Core.Target.cs
+E:\Deckard\Game Development\BoofStudios\CoreSystem\BoofStudios_BaseSystem\Boof_Core\Source\Boof_CoreEditor.Target.cs

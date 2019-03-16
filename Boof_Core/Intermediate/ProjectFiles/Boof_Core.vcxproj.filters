@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\Boof_Core.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{F7063389-09B5-453B-846B-0A93895F693D}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\Boof_Core.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\Boof_CoreEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{A9F7340B-CCB6-478C-9D7B-614AE20CA0CB}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\Boof_Core">
+			<UniqueIdentifier>{92B450D0-D997-4E45-A3B2-DCF4AA9798DB}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\Source\Boof_Core\Boof_Actors.cpp">
+			<Filter>Source\Boof_Core</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Boof_Core\Boof_Actors.h">
+			<Filter>Source\Boof_Core</Filter>
+		</ClInclude >
+		<None Include="..\..\Source\Boof_Core\Boof_Core.Build.cs">
+			<Filter>Source\Boof_Core</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\Boof_Core\Boof_Core.cpp">
+			<Filter>Source\Boof_Core</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Boof_Core\Boof_Core.h">
+			<Filter>Source\Boof_Core</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\Boof_Core\Boof_CoreGameModeBase.cpp">
+			<Filter>Source\Boof_Core</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Boof_Core\Boof_CoreGameModeBase.h">
+			<Filter>Source\Boof_Core</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\Boof_Core\Boof_Player.cpp">
+			<Filter>Source\Boof_Core</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Boof_Core\Boof_Player.h">
+			<Filter>Source\Boof_Core</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\Boof_Core\InteractableObject.cpp">
+			<Filter>Source\Boof_Core</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Boof_Core\InteractableObject.h">
+			<Filter>Source\Boof_Core</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>

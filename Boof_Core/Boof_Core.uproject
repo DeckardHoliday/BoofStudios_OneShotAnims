@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{BE744090-4A6B-0139-7703-7C9E2D5F043A}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Boof_Core",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}

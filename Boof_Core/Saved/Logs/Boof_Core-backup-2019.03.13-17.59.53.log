@@ -1,0 +1,1572 @@
+﻿Log file open, 03/11/19 13:11:23
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Boof_Core
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1025401428) SRandInit(-1025401428).
+LogInit: Read version file with build ID '5a2211ab-bfd2-4245-b7b2-4b2d347cfe1d'
+LogInit: Registered custom module enumerator with build ID '5a2211ab-bfd2-4245-b7b2-4b2d347cfe1d'
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.934006
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin Flex
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/GameWorks/Flex/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/GameWorks/Flex/Shaders to virtual directory /Plugin/Flex
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.478s to configure plugins.
+LogModuleManager: Display: Found up-to-date module file E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/Binaries/Win64/UE4Editor-Boof_Core-5574.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/GameWorks/Flex/Binaries/Win64/UE4Editor-Flex.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/GameWorks/Flex/Binaries/Win64/UE4Editor-FlexEditor.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 0).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am Nic-Workstation (10.0.0.215:0)
+LogInit: Build: ++UE4+Release-4.19-CL-0
+LogInit: Engine Version: 4.19.2-0+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-0+++UE4+Release-4.19
+LogInit: Net CL: 0
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Mar 10 2019 16:31:01
+LogInit: Compiled with Visual C++: 19.00.24234.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UnrealEngine-FleX-4.19.2/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 0
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.03.11-19.11.29:265][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.11-19.11.29:265][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.03.11-19.11.29:310][  0]LogInit: Computer: NIC-WORKSTATION
+[2019.03.11-19.11.29:310][  0]LogInit: User: Dominic
+[2019.03.11-19.11.29:310][  0]LogInit: CPU Page size=4096, Cores=8
+[2019.03.11-19.11.29:310][  0]LogInit: High frequency timer resolution =3.320310 MHz
+[2019.03.11-19.11.29:310][  0]LogMemory: Memory total: Physical=32.0GB (32GB approx)
+[2019.03.11-19.11.29:310][  0]LogMemory: Platform Memory Stats for Windows
+[2019.03.11-19.11.29:310][  0]LogMemory: Process Physical Memory: 275.66 MB used, 275.66 MB peak
+[2019.03.11-19.11.29:310][  0]LogMemory: Process Virtual Memory: 272.61 MB used, 272.61 MB peak
+[2019.03.11-19.11.29:310][  0]LogMemory: Physical Memory: 8377.80 MB used,  24342.46 MB free, 32720.26 MB total
+[2019.03.11-19.11.29:310][  0]LogMemory: Virtual Memory: 4828.21 MB used,  24342.46 MB free, 134217728.00 MB total
+[2019.03.11-19.11.29:424][  0]LogInit: Using OS detected language (en-US).
+[2019.03.11-19.11.29:424][  0]LogInit: Using OS detected locale (en-US).
+[2019.03.11-19.11.29:490][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.03.11-19.11.30:047][  0]LogStreaming: Display: Took  0.623s to EndInitTextLocalization.
+[2019.03.11-19.11.30:048][  0]LogInit: Setting process to per monitor DPI aware
+[2019.03.11-19.11.30:151][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.03.11-19.11.30:151][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.03.11-19.11.32:917][  0]LogD3D11RHI: D3D11 adapters:
+[2019.03.11-19.11.32:992][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 780 Ti' (Feature Level 11_0)
+[2019.03.11-19.11.32:992][  0]LogD3D11RHI:       3029/0/16360 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.03.11-19.11.32:995][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.03.11-19.11.32:995][  0]LogD3D11RHI:       0/0/16360 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.03.11-19.11.32:995][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.03.11-19.11.33:007][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.03.11-19.11.33:008][  0]LogD3D11RHI:     GPU DeviceId: 0x100a (for the marketing name, search the web for "GPU Device Id")
+[2019.03.11-19.11.33:008][  0]LogWindows: EnumDisplayDevices:
+[2019.03.11-19.11.33:008][  0]LogWindows:    0. 'NVIDIA GeForce GTX 780 Ti' (P:0 D:1)
+[2019.03.11-19.11.33:008][  0]LogWindows:    1. 'NVIDIA GeForce GTX 780 Ti' (P:1 D:1)
+[2019.03.11-19.11.33:008][  0]LogWindows:    2. 'NVIDIA GeForce GTX 780 Ti' (P:0 D:0)
+[2019.03.11-19.11.33:008][  0]LogWindows:    3. 'NVIDIA GeForce GTX 780 Ti' (P:0 D:0)
+[2019.03.11-19.11.33:008][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.03.11-19.11.33:008][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 780 Ti
+[2019.03.11-19.11.33:008][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.03.11-19.11.33:008][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.03.11-19.11.33:008][  0]LogRHI: Texture pool is 2120 MB (70% of 3029 MB)
+[2019.03.11-19.11.33:061][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2019.03.11-19.11.33:061][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2019.03.11-19.11.33:061][  0]LogD3D11RHI: Async texture creation enabled
+[2019.03.11-19.11.33:091][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.03.11-19.11.33:255][  0]LogFlex: Display: Initialized Flex with GPU: NVIDIA GeForce GTX 780 Ti
+[2019.03.11-19.11.33:255][  0]LogShaderCompilers: Guid format shader working directory is -37 characters bigger than the processId version (E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/Intermediate/Shaders/WorkingDirectory/2960/).
+[2019.03.11-19.11.33:256][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/mesht/AppData/Local/Temp/UnrealShaderWorkingDir/DA905D534269552239E4BAA18883B011/'.
+[2019.03.11-19.11.33:940][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.03.11-19.11.33:966][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.03.11-19.11.33:984][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.03.11-19.11.34:000][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.03.11-19.11.34:022][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.03.11-19.11.34:039][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.03.11-19.11.34:057][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.03.11-19.11.34:078][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.03.11-19.11.34:087][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.03.11-19.11.34:100][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2019.03.11-19.11.34:114][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2019.03.11-19.11.34:127][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2019.03.11-19.11.34:140][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2019.03.11-19.11.34:153][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2019.03.11-19.11.34:166][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2019.03.11-19.11.34:193][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2019.03.11-19.11.34:193][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2019.03.11-19.11.34:214][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.11-19.11.34:216][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.03.11-19.11.34:292][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.03.11-19.11.34:304][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.03.11-19.11.34:304][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.03.11-19.11.34:794][  0]LogXGEController: Cleaning working directory: C:/Users/mesht/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.03.11-19.11.34:794][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.03.11-19.11.34:795][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.03.11-19.11.34:795][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.03.11-19.11.37:197][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.03.11-19.11.37:783][  0]LogDerivedDataCache: Loaded boot cache 0.59s 77MB E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/DerivedDataCache/Boot.ddc.
+[2019.03.11-19.11.37:783][  0]LogDerivedDataCache: Display: Loaded Boot cache: E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/DerivedDataCache/Boot.ddc
+[2019.03.11-19.11.37:783][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.03.11-19.11.37:783][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.03.11-19.11.37:783][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnginePak pak cache file ../../../Engine/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.03.11-19.11.37:783][  0]LogDerivedDataCache: Unable to find inner node EnginePak for hierarchical cache Hierarchy.
+[2019.03.11-19.11.37:795][  0]LogDerivedDataCache: Using Local data cache path ../../../Engine/DerivedDataCache: Writable
+[2019.03.11-19.11.37:795][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.03.11-19.11.37:795][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.03.11-19.11.37:814][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.03.11-19.11.37:818][  0]LogSlate: Using Freetype 2.6.0
+[2019.03.11-19.11.37:840][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.03.11-19.11.37:840][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.03.11-19.11.40:623][  0]LogAssetRegistry: FAssetRegistry took 0.0283 seconds to start up
+[2019.03.11-19.11.41:066][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.11-19.11.41:467][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.03.11-19.11.41:467][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.03.11-19.11.41:467][  0]LogMeshReduction: No automatic mesh merging module available
+[2019.03.11-19.11.41:467][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.03.11-19.11.41:467][  0]LogMeshMerging: No automatic mesh merging module available
+[2019.03.11-19.11.41:467][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.03.11-19.11.41:562][  0]LogNetVersion: Boof_Core , NetCL: 0, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2265089696)
+[2019.03.11-19.11.43:069][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.114527 seconds
+[2019.03.11-19.11.43:078][  0]LogUObjectArray: 36945 objects as part of root set at end of initial load.
+[2019.03.11-19.11.43:078][  0]LogUObjectAllocator: 7383288 out of 0 bytes used by permanent object pool.
+[2019.03.11-19.11.43:078][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.03.11-19.11.46:031][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png' error.
+[2019.03.11-19.11.46:032][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png
+[2019.03.11-19.11.46:032][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2019.03.11-19.11.46:032][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2019.03.11-19.11.46:032][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2019.03.11-19.11.46:032][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2019.03.11-19.11.46:032][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png' error.
+[2019.03.11-19.11.46:032][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png
+[2019.03.11-19.11.46:032][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2019.03.11-19.11.46:032][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2019.03.11-19.11.46:032][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2019.03.11-19.11.46:032][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2019.03.11-19.11.46:032][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png' error.
+[2019.03.11-19.11.46:032][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png
+[2019.03.11-19.11.46:032][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2019.03.11-19.11.46:032][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2019.03.11-19.11.46:032][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2019.03.11-19.11.46:032][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2019.03.11-19.11.46:032][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png' error.
+[2019.03.11-19.11.46:032][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png
+[2019.03.11-19.11.46:032][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2019.03.11-19.11.46:032][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2019.03.11-19.11.46:032][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2019.03.11-19.11.46:032][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2019.03.11-19.11.46:032][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png' error.
+[2019.03.11-19.11.46:032][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png
+[2019.03.11-19.11.46:032][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2019.03.11-19.11.46:032][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2019.03.11-19.11.46:032][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2019.03.11-19.11.46:032][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2019.03.11-19.11.46:032][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png' error.
+[2019.03.11-19.11.46:032][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png
+[2019.03.11-19.11.46:032][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2019.03.11-19.11.46:032][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2019.03.11-19.11.46:032][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2019.03.11-19.11.46:032][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2019.03.11-19.11.46:032][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png' error.
+[2019.03.11-19.11.46:032][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png
+[2019.03.11-19.11.46:033][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2019.03.11-19.11.46:033][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2019.03.11-19.11.46:033][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2019.03.11-19.11.46:033][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2019.03.11-19.11.46:033][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png' error.
+[2019.03.11-19.11.46:033][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png
+[2019.03.11-19.11.46:033][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2019.03.11-19.11.46:033][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2019.03.11-19.11.46:033][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2019.03.11-19.11.46:033][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2019.03.11-19.11.46:035][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_24x.png' error.
+[2019.03.11-19.11.46:035][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_24x.png
+[2019.03.11-19.11.46:035][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2019.03.11-19.11.46:035][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2019.03.11-19.11.46:036][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2019.03.11-19.11.46:036][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2019.03.11-19.11.46:036][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_24x.png' error.
+[2019.03.11-19.11.46:036][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_24x.png
+[2019.03.11-19.11.46:036][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2019.03.11-19.11.46:036][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2019.03.11-19.11.46:036][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2019.03.11-19.11.46:036][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2019.03.11-19.11.46:036][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ATC_24x.png' error.
+[2019.03.11-19.11.46:036][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ATC_24x.png
+[2019.03.11-19.11.46:036][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2019.03.11-19.11.46:036][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2019.03.11-19.11.46:036][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2019.03.11-19.11.46:036][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2019.03.11-19.11.46:036][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_DXT_24x.png' error.
+[2019.03.11-19.11.46:036][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_DXT_24x.png
+[2019.03.11-19.11.46:036][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2019.03.11-19.11.46:036][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2019.03.11-19.11.46:036][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2019.03.11-19.11.46:036][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2019.03.11-19.11.46:036][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC1_24x.png' error.
+[2019.03.11-19.11.46:036][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC1_24x.png
+[2019.03.11-19.11.46:036][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2019.03.11-19.11.46:036][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2019.03.11-19.11.46:036][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2019.03.11-19.11.46:036][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2019.03.11-19.11.46:036][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC2_24x.png' error.
+[2019.03.11-19.11.46:036][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC2_24x.png
+[2019.03.11-19.11.46:036][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2019.03.11-19.11.46:036][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2019.03.11-19.11.46:036][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2019.03.11-19.11.46:036][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2019.03.11-19.11.46:036][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC2_24x.png' error.
+[2019.03.11-19.11.46:036][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC2_24x.png
+[2019.03.11-19.11.46:036][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2019.03.11-19.11.46:036][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2019.03.11-19.11.46:036][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2019.03.11-19.11.46:037][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2019.03.11-19.11.46:037][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_PVRTC_24x.png' error.
+[2019.03.11-19.11.46:037][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_PVRTC_24x.png
+[2019.03.11-19.11.46:037][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2019.03.11-19.11.46:037][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2019.03.11-19.11.46:037][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2019.03.11-19.11.46:037][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2019.03.11-19.11.46:037][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ASTC_24x.png' error.
+[2019.03.11-19.11.46:037][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ASTC_24x.png
+[2019.03.11-19.11.46:037][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2019.03.11-19.11.46:037][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2019.03.11-19.11.46:037][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2019.03.11-19.11.46:037][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2019.03.11-19.11.48:898][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.03.11-19.11.48:953][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.03.11-19.11.49:681][  0]SourceControl: Source control is disabled
+[2019.03.11-19.11.49:681][  0]SourceControl: Source control is disabled
+[2019.03.11-19.11.49:712][  0]SourceControl: Source control is disabled
+[2019.03.11-19.11.49:750][  0]SourceControl: Source control is disabled
+[2019.03.11-19.11.50:686][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.03.11-19.11.50:960][  0]LogOcInput: OculusInput pre-init called
+[2019.03.11-19.11.51:161][  0]LogEngine: Initializing Engine...
+[2019.03.11-19.11.51:165][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.03.11-19.11.51:168][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.11-19.11.51:168][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.11-19.11.51:682][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.03.11-19.11.51:710][  0]LogInit: XAudio2 using 'Speakers (VB-Audio VoiceMeeter VAIO)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2019.03.11-19.11.51:720][  0]LogInit: FAudioDevice initialized.
+[2019.03.11-19.11.51:832][  0]LogDerivedDataCache: Saved boot cache 0.11s 77MB E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/DerivedDataCache/Boot.ddc.
+[2019.03.11-19.11.51:863][  0]LogInit: Texture streaming: Enabled
+[2019.03.11-19.11.51:894][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.03.11-19.11.51:929][  0]LogInit: Transaction tracking system initialized
+[2019.03.11-19.11.51:994][  0]BlueprintLog: New page: Editor Load
+[2019.03.11-19.11.52:217][  0]LocalizationService: Localization service is disabled
+[2019.03.11-19.11.52:428][  0]LogConsoleResponse: Display: 
+[2019.03.11-19.11.53:129][  0]LogFileCache: Scanning file cache for directory 'E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/Content/' took 0.02s
+[2019.03.11-19.11.53:129][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.03.11-19.11.53:129][  0]LogCook: Display: Mobile HDR setting 1
+[2019.03.11-19.11.53:129][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.03.11-19.11.53:129][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.11-19.11.53:129][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.11-19.11.53:960][  0]SourceControl: Source control is disabled
+[2019.03.11-19.11.53:962][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.03.11-19.11.53:969][  0]LightingResults: New page: Lighting Build
+[2019.03.11-19.11.53:978][  0]MapCheck: New page: Map Check
+[2019.03.11-19.11.53:978][  0]LightingResults: New page: Lighting Build
+[2019.03.11-19.11.54:342][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2019.03.11-19.11.54:460][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.03.11-19.11.54:473][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.03.11-19.11.54:532][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 57.981ms to complete.
+[2019.03.11-19.11.54:532][  0]LogFileHelpers: Loading map 'Template_Default' took 0.571
+[2019.03.11-19.11.54:759][  0]LogCollectionManager: Loaded 0 collections in 0.004110 seconds
+[2019.03.11-19.11.54:822][  0]LogFileCache: Scanning file cache for directory 'E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/Saved/Collections/' took 0.01s
+[2019.03.11-19.11.54:822][  0]LogFileCache: Scanning file cache for directory 'E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/Content/Developers/Dominic/Collections/' took 0.01s
+[2019.03.11-19.11.54:822][  0]LogFileCache: Scanning file cache for directory 'E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/Content/Collections/' took 0.01s
+[2019.03.11-19.11.54:822][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.03.11-19.11.54:836][  0]LogContentBrowser: Native class hierarchy populated in 0.0132 seconds. Added 2480 classes and 564 folders.
+[2019.03.11-19.11.54:852][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2019.03.11-19.11.55:482][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0009 seconds. Added 0 classes and 0 folders.
+[2019.03.11-19.11.55:497][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0009 seconds. Added 1 classes and 2 folders.
+[2019.03.11-19.11.55:571][  0]LogSlate: Took 0.007064 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.03.11-19.11.55:582][  0]LogSlate: Took 0.007982 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.03.11-19.11.55:604][  0]LogSlate: Took 0.009546 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.03.11-19.11.55:847][  0]LogRenderer: Reallocating scene render targets to support 1168x600 Format 10 NumSamples 1 (Frame:1).
+[2019.03.11-19.11.55:929][  0]LogSlate: Took 0.006048 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.11-19.11.56:036][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.11-19.11.56:258][  0]LogSlate: Window 'Tutorials' being destroyed
+[2019.03.11-19.11.56:294][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2019.03.11-19.11.56:294][  0]LogLoad: (Engine Initialization) Total time: 36.65 seconds
+[2019.03.11-19.11.56:294][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.03.11-19.11.56:657][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.03.11-19.11.56:988][  1]LogAssetRegistry: Asset discovery search completed in 16.3880 seconds
+[2019.03.11-19.11.56:991][  1]LogFlexEditor: FFlexEditorModule::OnFilesLoaded() ProjectFilePath = 'E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/Boof_Core.uproject'
+[2019.03.11-19.11.56:991][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.03.11-19.11.56:991][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000053 seconds (updated 0 objects)
+[2019.03.11-19.32.16:954][854]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-19.32.17:049][864]Candidate modules for hot reload:
+[2019.03.11-19.32.17:049][864]  Boof_Core
+[2019.03.11-19.32.17:049][864]Building UnrealBuildTool...
+[2019.03.11-19.32.17:049][864]Building UnrealBuildTool in C:/Program Files/Epic Games/UnrealEngine-FleX-4.19.2/...
+[2019.03.11-19.32.17:050][864]Running: C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\MSBuild.exe /nologo /verbosity:quiet "C:/Program Files/Epic Games/UnrealEngine-FleX-4.19.2/Engine/Source/Programs/UnrealBuildTool/UnrealBuildTool.csproj" /property:Configuration=Development /property:Platform=AnyCPU
+[2019.03.11-19.32.17:664][864]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UnrealEngine-FleX-4.19.2/Engine/Binaries/DotNET/UnrealBuildTool.exe Boof_Core -ModuleWithSuffix=Boof_Core,2011 Win64 Development -editorrecompile -canskiplink "E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/Boof_Core.uproject" ]
+[2019.03.11-19.32.17:667][864]Warning: Starting HotReload took  0.6s.
+[2019.03.11-19.33.25:775][794]CompilerResultsLog: New page: Compilation - Mar 11, 2019, 7:33:25 AM
+[2019.03.11-19.33.25:775][794]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2019.03.11-19.33.25:775][794]CompilerResultsLog: Compiling game modules for hot reload
+[2019.03.11-19.33.25:775][794]CompilerResultsLog: Parsing headers for Boof_CoreEditor
+[2019.03.11-19.33.25:775][794]CompilerResultsLog:   Running UnrealHeaderTool "E:\Deckard\Game Development\BoofStudios\CoreSystem\BoofStudios_BaseSystem\Boof_Core\Boof_Core.uproject" "E:\Deckard\Game Development\BoofStudios\CoreSystem\BoofStudios_BaseSystem\Boof_Core\Intermediate\Build\Win64\Boof_CoreEditor\Development\Boof_CoreEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors
+[2019.03.11-19.33.25:775][794]CompilerResultsLog: Reflection code generated for Boof_CoreEditor in 58.7377169 seconds
+[2019.03.11-19.33.25:775][794]CompilerResultsLog: Performing 5 actions (12 in parallel)
+[2019.03.11-19.33.25:775][794]CompilerResultsLog: Boof_Player.cpp
+[2019.03.11-19.33.25:775][794]CompilerResultsLog: Boof_Player.gen.cpp
+[2019.03.11-19.33.25:775][794]CompilerResultsLog: Boof_Core.init.gen.cpp
+[2019.03.11-19.33.25:775][794]CompilerResultsLog: Error: E:\Deckard\Game Development\BoofStudios\CoreSystem\BoofStudios_BaseSystem\Boof_Core\Source\Boof_Core\Boof_Player.cpp(50) : error C2672: 'UInputComponent::BindAction': no matching overloaded function found
+[2019.03.11-19.33.25:775][794]CompilerResultsLog: Error: E:\Deckard\Game Development\BoofStudios\CoreSystem\BoofStudios_BaseSystem\Boof_Core\Source\Boof_Core\Boof_Player.cpp(50) : error C2780: 'FInputActionBinding &UInputComponent::BindAction(const FName,const EInputEvent,UserClass *,DelegateType::TUObjectMethodDelegate<UserClass>::FMethodPtr,VarTypes...)': expects 5 arguments - 1 provided
+[2019.03.11-19.33.25:775][794]CompilerResultsLog: Error: C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Source\Runtime\Engine\Classes\Components/InputComponent.h(688) : note: see declaration of 'UInputComponent::BindAction'
+[2019.03.11-19.33.25:775][794]CompilerResultsLog: Error: E:\Deckard\Game Development\BoofStudios\CoreSystem\BoofStudios_BaseSystem\Boof_Core\Source\Boof_Core\Boof_Player.cpp(50) : error C2780: 'FInputActionBinding &UInputComponent::BindAction(const FName,const EInputEvent,UserClass *,TBaseDelegate<void,FKey>::TBaseDelegate<TTypeWrapper<void>,FKey>::TUObjectMethodDelegate<UserClass>::FMethodPtr)': expects 4 arguments - 1 provided
+[2019.03.11-19.33.25:775][794]CompilerResultsLog: Error: C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Source\Runtime\Engine\Classes\Components/InputComponent.h(676) : note: see declaration of 'UInputComponent::BindAction'
+[2019.03.11-19.33.25:776][794]CompilerResultsLog: Error: E:\Deckard\Game Development\BoofStudios\CoreSystem\BoofStudios_BaseSystem\Boof_Core\Source\Boof_Core\Boof_Player.cpp(50) : error C2780: 'FInputActionBinding &UInputComponent::BindAction(const FName,const EInputEvent,UserClass *,TBaseDelegate<void>::TBaseDelegate<TTypeWrapper<void>>::TUObjectMethodDelegate<UserClass>::FMethodPtr)': expects 4 arguments - 1 provided
+[2019.03.11-19.33.25:776][794]CompilerResultsLog: Error: C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Source\Runtime\Engine\Classes\Components/InputComponent.h(664) : note: see declaration of 'UInputComponent::BindAction'
+[2019.03.11-19.33.25:776][794]CompilerResultsLog: Error: E:\Deckard\Game Development\BoofStudios\CoreSystem\BoofStudios_BaseSystem\Boof_Core\Source\Boof_Core\Boof_Player.cpp(50) : error C2059: syntax error: ')'
+[2019.03.11-19.33.25:776][794]CompilerResultsLog: ERROR: UBT ERROR: Failed to produce item: E:\Deckard\Game Development\BoofStudios\CoreSystem\BoofStudios_BaseSystem\Boof_Core\Binaries\Win64\UE4Editor-Boof_Core-2011.dll
+[2019.03.11-19.33.25:776][794]CompilerResultsLog: Total build time: 67.69 seconds (Local executor: 0.00 seconds)
+[2019.03.11-19.33.25:776][794]LogMainFrame: MainFrame: Module compiling took 68.736 seconds
+[2019.03.11-19.33.25:776][794]Warning: HotReload failed, recompile failed
+[2019.03.11-19.33.37:106][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:106][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:106][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:106][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:106][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:106][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:106][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:106][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:107][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:107][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:107][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:107][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:107][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:107][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:107][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:107][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:108][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:108][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:108][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:108][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:108][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:108][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:108][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:108][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:109][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:109][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:109][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:109][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:109][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:109][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:109][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:109][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:110][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:110][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:110][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:110][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:110][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:110][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:110][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:110][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:111][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:111][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:111][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:111][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:111][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:111][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:111][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:111][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:112][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:112][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:112][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:112][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:112][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:112][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:112][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:112][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:113][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:113][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:113][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:113][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:113][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:113][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:113][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:113][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:113][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:114][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:114][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:114][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:114][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:114][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:114][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:114][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:114][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:115][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:115][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:115][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:115][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:115][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:115][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:115][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:115][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:116][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:116][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:116][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:116][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:116][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:116][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:116][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:116][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:117][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:117][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:117][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:117][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:117][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:117][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:117][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:117][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:118][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:118][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:118][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:118][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:118][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:118][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:118][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:118][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:119][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:119][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:119][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:119][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:119][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:119][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:119][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:119][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:120][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:120][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:120][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:121][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:125][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:125][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:125][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:125][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:125][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:153][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:155][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.33.37:161][393]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.11-19.34.02:352][ 82]LogSlate: Window 'Message Log' being destroyed
+[2019.03.11-19.34.02:355][ 82]LogSlate: Window 'Message Log' being destroyed
+[2019.03.11-19.34.38:556][404]Candidate modules for hot reload:
+[2019.03.11-19.34.38:556][404]  Boof_Core
+[2019.03.11-19.34.38:556][404]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UnrealEngine-FleX-4.19.2/Engine/Binaries/DotNET/UnrealBuildTool.exe Boof_Core -ModuleWithSuffix=Boof_Core,7222 Win64 Development -editorrecompile -canskiplink "E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/Boof_Core.uproject" ]
+[2019.03.11-19.34.38:558][404]Warning: Starting HotReload took  0.0s.
+[2019.03.11-19.34.41:869][521]CompilerResultsLog: New page: Compilation - Mar 11, 2019, 7:34:41 AM
+[2019.03.11-19.34.41:869][521]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2019.03.11-19.34.41:869][521]CompilerResultsLog: Compiling game modules for hot reload
+[2019.03.11-19.34.41:870][521]CompilerResultsLog: Performing 3 actions (12 in parallel)
+[2019.03.11-19.34.41:870][521]CompilerResultsLog: Boof_Player.cpp
+[2019.03.11-19.34.41:870][521]CompilerResultsLog: Error: E:\Deckard\Game Development\BoofStudios\CoreSystem\BoofStudios_BaseSystem\Boof_Core\Source\Boof_Core\Boof_Player.cpp(50) : error C2664: 'FInputActionBinding &UInputComponent::BindAction<ABoof_Player>(const FName,const EInputEvent,UserClass *,void (__cdecl ABoof_Player::* )(FKey))': cannot convert argument 4 from 'void (__cdecl ABoof_Player::* )(int)' to 'void (__cdecl ABoof_Player::* )(void)'
+[2019.03.11-19.34.41:870][521]CompilerResultsLog:         with
+[2019.03.11-19.34.41:870][521]CompilerResultsLog:         [
+[2019.03.11-19.34.41:870][521]CompilerResultsLog:             UserClass=ABoof_Player
+[2019.03.11-19.34.41:870][521]CompilerResultsLog:         ]
+[2019.03.11-19.34.41:870][521]CompilerResultsLog: Error: E:\Deckard\Game Development\BoofStudios\CoreSystem\BoofStudios_BaseSystem\Boof_Core\Source\Boof_Core\Boof_Player.cpp(50) : note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+[2019.03.11-19.34.41:870][521]CompilerResultsLog: ERROR: UBT ERROR: Failed to produce item: E:\Deckard\Game Development\BoofStudios\CoreSystem\BoofStudios_BaseSystem\Boof_Core\Binaries\Win64\UE4Editor-Boof_Core-7222.dll
+[2019.03.11-19.34.41:870][521]CompilerResultsLog: Total build time: 3.00 seconds (Local executor: 0.00 seconds)
+[2019.03.11-19.34.41:870][521]LogMainFrame: MainFrame: Module compiling took 3.322 seconds
+[2019.03.11-19.34.41:870][521]Warning: HotReload failed, recompile failed
+[2019.03.11-19.35.04:778][884]LogSlate: Took 0.006162 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2019.03.11-19.35.17:754][223]Candidate modules for hot reload:
+[2019.03.11-19.35.17:754][223]  Boof_Core
+[2019.03.11-19.35.17:754][223]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UnrealEngine-FleX-4.19.2/Engine/Binaries/DotNET/UnrealBuildTool.exe Boof_Core -ModuleWithSuffix=Boof_Core,6656 Win64 Development -editorrecompile -canskiplink "E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/Boof_Core.uproject" ]
+[2019.03.11-19.35.17:757][223]Warning: Starting HotReload took  0.0s.
+[2019.03.11-19.35.20:584][522]CompilerResultsLog: New page: Compilation - Mar 11, 2019, 7:35:20 AM
+[2019.03.11-19.35.20:585][522]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2019.03.11-19.35.20:585][522]CompilerResultsLog: Compiling game modules for hot reload
+[2019.03.11-19.35.20:585][522]CompilerResultsLog: Performing 3 actions (12 in parallel)
+[2019.03.11-19.35.20:585][522]CompilerResultsLog: Boof_Player.cpp
+[2019.03.11-19.35.20:585][522]CompilerResultsLog: Error: E:\Deckard\Game Development\BoofStudios\CoreSystem\BoofStudios_BaseSystem\Boof_Core\Source\Boof_Core\Boof_Player.cpp(50) : error C2664: 'FInputActionBinding &UInputComponent::BindAction<ABoof_Player>(const FName,const EInputEvent,UserClass *,void (__cdecl ABoof_Player::* )(FKey))': cannot convert argument 4 from 'void (__cdecl ABoof_Player::* )(int)' to 'void (__cdecl ABoof_Player::* )(void)'
+[2019.03.11-19.35.20:587][522]CompilerResultsLog:         with
+[2019.03.11-19.35.20:587][522]CompilerResultsLog:         [
+[2019.03.11-19.35.20:587][522]CompilerResultsLog:             UserClass=ABoof_Player
+[2019.03.11-19.35.20:587][522]CompilerResultsLog:         ]
+[2019.03.11-19.35.20:587][522]CompilerResultsLog: Error: E:\Deckard\Game Development\BoofStudios\CoreSystem\BoofStudios_BaseSystem\Boof_Core\Source\Boof_Core\Boof_Player.cpp(50) : note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+[2019.03.11-19.35.20:587][522]CompilerResultsLog: ERROR: UBT ERROR: Failed to produce item: E:\Deckard\Game Development\BoofStudios\CoreSystem\BoofStudios_BaseSystem\Boof_Core\Binaries\Win64\UE4Editor-Boof_Core-6656.dll
+[2019.03.11-19.35.20:588][522]CompilerResultsLog: Total build time: 2.64 seconds (Local executor: 0.00 seconds)
+[2019.03.11-19.35.20:588][522]LogMainFrame: MainFrame: Module compiling took 2.844 seconds
+[2019.03.11-19.35.20:588][522]Warning: HotReload failed, recompile failed
+[2019.03.11-19.36.27:047][287]Candidate modules for hot reload:
+[2019.03.11-19.36.27:047][287]  Boof_Core
+[2019.03.11-19.36.27:047][287]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UnrealEngine-FleX-4.19.2/Engine/Binaries/DotNET/UnrealBuildTool.exe Boof_Core -ModuleWithSuffix=Boof_Core,4950 Win64 Development -editorrecompile -canskiplink "E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/Boof_Core.uproject" ]
+[2019.03.11-19.36.27:050][287]Warning: Starting HotReload took  0.0s.
+[2019.03.11-19.36.42:297][390]CompilerResultsLog: New page: Compilation - Mar 11, 2019, 7:36:42 AM
+[2019.03.11-19.36.42:297][390]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2019.03.11-19.36.42:297][390]CompilerResultsLog: Compiling game modules for hot reload
+[2019.03.11-19.36.42:297][390]CompilerResultsLog: Parsing headers for Boof_CoreEditor
+[2019.03.11-19.36.42:298][390]CompilerResultsLog:   Running UnrealHeaderTool "E:\Deckard\Game Development\BoofStudios\CoreSystem\BoofStudios_BaseSystem\Boof_Core\Boof_Core.uproject" "E:\Deckard\Game Development\BoofStudios\CoreSystem\BoofStudios_BaseSystem\Boof_Core\Intermediate\Build\Win64\Boof_CoreEditor\Development\Boof_CoreEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors
+[2019.03.11-19.36.42:299][390]CompilerResultsLog: Reflection code generated for Boof_CoreEditor in 10.9254241 seconds
+[2019.03.11-19.36.42:299][390]CompilerResultsLog: Performing 4 actions (12 in parallel)
+[2019.03.11-19.36.42:299][390]CompilerResultsLog: Boof_Player.gen.cpp
+[2019.03.11-19.36.42:299][390]CompilerResultsLog: Boof_Player.cpp
+[2019.03.11-19.36.42:299][390]CompilerResultsLog: [3/4] Link UE4Editor-Boof_Core-4950.dll
+[2019.03.11-19.36.42:300][390]CompilerResultsLog: [4/4] Link UE4Editor-Boof_Core-4950.lib
+[2019.03.11-19.36.42:300][390]CompilerResultsLog:    Creating library E:\Deckard\Game Development\BoofStudios\CoreSystem\BoofStudios_BaseSystem\Boof_Core\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Boof_Core-4950.lib and object E:\Deckard\Game Development\BoofStudios\CoreSystem\BoofStudios_BaseSystem\Boof_Core\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Boof_Core-4950.exp
+[2019.03.11-19.36.42:301][390]CompilerResultsLog:    Creating library E:\Deckard\Game Development\BoofStudios\CoreSystem\BoofStudios_BaseSystem\Boof_Core\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Boof_Core-4950.suppressed.lib and object E:\Deckard\Game Development\BoofStudios\CoreSystem\BoofStudios_BaseSystem\Boof_Core\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Boof_Core-4950.suppressed.exp
+[2019.03.11-19.36.42:302][390]CompilerResultsLog: Total build time: 14.96 seconds (Local executor: 1.92 seconds)
+[2019.03.11-19.36.42:302][390]LogMainFrame: MainFrame: Module compiling took 15.264 seconds
+[2019.03.11-19.36.42:340][390]LogClass: Could not find existing class Boof_Player in package /Script/Boof_Core for HotReload, assuming new class
+[2019.03.11-19.36.42:340][390]LogUObjectGlobals: Warning: Class which was marked abstract was trying to be loaded.  It will be nulled out on save. Mesh MeshComponent
+[2019.03.11-19.36.53:075][390]LogStats: FPlatformStackWalk::StackWalkAndDump - 10.734 s
+[2019.03.11-19.36.53:075][390]LogOutputDevice: Error: === Handled ensure: ===
+[2019.03.11-19.36.53:075][390]LogOutputDevice: Error: 
+[2019.03.11-19.36.53:075][390]LogOutputDevice: Error: Ensure condition failed: false [File:C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Source\Runtime\CoreUObject\Private\UObject\UObjectGlobals.cpp] [Line: 2204]
+[2019.03.11-19.36.53:076][390]LogOutputDevice: Error: Class which was marked abstract was trying to be loaded.  It will be nulled out on save. Mesh MeshComponent
+[2019.03.11-19.36.53:076][390]LogOutputDevice: Error: Stack: 
+[2019.03.11-19.36.53:076][390]LogOutputDevice: Error: [Callstack] 0x00000000D175CBC6 UE4Editor-Core.dll!FWindowsPlatformStackWalk::StackWalkAndDump() [c:\program files\epic games\unrealengine-flex-4.19.2\engine\source\runtime\core\private\windows\windowsplatformstackwalk.cpp:234]
+[2019.03.11-19.36.53:076][390]LogOutputDevice: Error: [Callstack] 0x00000000D14C0E0A UE4Editor-Core.dll!FDebug::EnsureFailed() [c:\program files\epic games\unrealengine-flex-4.19.2\engine\source\runtime\core\private\misc\assertionmacros.cpp:299]
+[2019.03.11-19.36.53:077][390]LogOutputDevice: Error: [Callstack] 0x00000000D14D1CF6 UE4Editor-Core.dll!FDebug::OptionallyLogFormattedEnsureMessageReturningFalse() [c:\program files\epic games\unrealengine-flex-4.19.2\engine\source\runtime\core\private\misc\assertionmacros.cpp:430]
+[2019.03.11-19.36.53:077][390]LogOutputDevice: Error: [Callstack] 0x00000000C9D1E60B UE4Editor-CoreUObject.dll!StaticAllocateObjectErrorTests() [c:\program files\epic games\unrealengine-flex-4.19.2\engine\source\runtime\coreuobject\private\uobject\uobjectglobals.cpp:2204]
+[2019.03.11-19.36.53:077][390]LogOutputDevice: Error: [Callstack] 0x00000000C9D1C766 UE4Editor-CoreUObject.dll!StaticAllocateObject() [c:\program files\epic games\unrealengine-flex-4.19.2\engine\source\runtime\coreuobject\private\uobject\uobjectglobals.cpp:2272]
+[2019.03.11-19.36.53:078][390]LogOutputDevice: Error: [Callstack] 0x00000000C9D1F1A6 UE4Editor-CoreUObject.dll!StaticConstructObject_Internal() [c:\program files\epic games\unrealengine-flex-4.19.2\engine\source\runtime\coreuobject\private\uobject\uobjectglobals.cpp:3161]
+[2019.03.11-19.36.53:078][390]LogOutputDevice: Error: [Callstack] 0x00000000C9CEAD8C UE4Editor-CoreUObject.dll!FObjectInitializer::CreateDefaultSubobject() [c:\program files\epic games\unrealengine-flex-4.19.2\engine\source\runtime\coreuobject\private\uobject\uobjectglobals.cpp:3769]
+[2019.03.11-19.36.53:079][390]LogOutputDevice: Error: [Callstack] 0x00000000C9C2C6D7 UE4Editor-CoreUObject.dll!UObject::CreateDefaultSubobject() [c:\program files\epic games\unrealengine-flex-4.19.2\engine\source\runtime\coreuobject\private\uobject\obj.cpp:105]
+[2019.03.11-19.36.53:079][390]LogOutputDevice: Error: [Callstack] 0x00000000FF52262A UE4Editor-Boof_Core-4950.dll!ABoof_Player::ABoof_Player() [e:\deckard\game development\boofstudios\coresystem\boofstudios_basesystem\boof_core\source\boof_core\boof_player.cpp:22]
+[2019.03.11-19.36.53:079][390]LogOutputDevice: Error: [Callstack] 0x00000000C9A95528 UE4Editor-CoreUObject.dll!UClass::CreateDefaultObject() [c:\program files\epic games\unrealengine-flex-4.19.2\engine\source\runtime\coreuobject\private\uobject\class.cpp:2749]
+[2019.03.11-19.36.53:080][390]LogOutputDevice: Error: [Callstack] 0x00000000C9D28010 UE4Editor-CoreUObject.dll!UObjectLoadAllCompiledInDefaultProperties() [c:\program files\epic games\unrealengine-flex-4.19.2\engine\source\runtime\coreuobject\private\uobject\uobjectbase.cpp:821]
+[2019.03.11-19.36.53:080][390]LogOutputDevice: Error: [Callstack] 0x00000000C9D0B4A2 UE4Editor-CoreUObject.dll!ProcessNewlyLoadedUObjects() [c:\program files\epic games\unrealengine-flex-4.19.2\engine\source\runtime\coreuobject\private\uobject\uobjectbase.cpp:895]
+[2019.03.11-19.36.53:081][390]LogOutputDevice: Error: [Callstack] 0x00000000C9A9A827 UE4Editor-CoreUObject.dll!TBaseStaticDelegateInstance<void __cdecl(void)>::ExecuteIfSafe() [c:\program files\epic games\unrealengine-flex-4.19.2\engine\source\runtime\core\public\delegates\delegateinstancesimpl.h:788]
+[2019.03.11-19.36.53:081][390]LogOutputDevice: Error: [Callstack] 0x00000000D13640D0 UE4Editor-Core.dll!TBaseMulticastDelegate<void>::Broadcast() [c:\program files\epic games\unrealengine-flex-4.19.2\engine\source\runtime\core\public\delegates\delegatesignatureimpl.inl:937]
+[2019.03.11-19.36.53:081][390]LogOutputDevice: Error: [Callstack] 0x00000000D157B321 UE4Editor-Core.dll!FModuleManager::LoadModuleWithFailureReason() [c:\program files\epic games\unrealengine-flex-4.19.2\engine\source\runtime\core\private\modules\modulemanager.cpp:487]
+[2019.03.11-19.36.53:082][390]LogOutputDevice: Error: [Callstack] 0x00000000D157A697 UE4Editor-Core.dll!FModuleManager::LoadModule() [c:\program files\epic games\unrealengine-flex-4.19.2\engine\source\runtime\core\private\modules\modulemanager.cpp:338]
+[2019.03.11-19.36.53:082][390]LogOutputDevice: Error: [Callstack] 0x00000000A412317C UE4Editor-HotReload.dll!FHotReloadModule::DoHotReloadInternal() [c:\program files\epic games\unrealengine-flex-4.19.2\engine\source\developer\hotreload\private\hotreload.cpp:811]
+[2019.03.11-19.36.53:082][390]LogOutputDevice: Error: [Callstack] 0x00000000A4120677 UE4Editor-HotReload.dll!UE4Function_Private::TFunctionRefCaller<<lambda_b8c41c05bcdfd766e060635ac5c541eb>,void __cdecl(TMap<FString,FString,FDefaultSetAllocator,TDefaultMapHashableKeyFuncs<FString,FString,0> > const & __ptr64,bool,enum ECompilationResult::Type)>::Call() [c:\program files\epic games\unrealengine-flex-4.19.2\engine\source\runtime\core\public\templates\function.h:245]
+[2019.03.11-19.36.53:083][390]LogOutputDevice: Error: [Callstack] 0x00000000A4121040 UE4Editor-HotReload.dll!FHotReloadModule::CheckForFinishedModuleDLLCompile() [c:\program files\epic games\unrealengine-flex-4.19.2\engine\source\developer\hotreload\private\hotreload.cpp:1903]
+[2019.03.11-19.36.53:084][390]LogOutputDevice: Error: [Callstack] 0x00000000A4133BEE UE4Editor-HotReload.dll!FHotReloadModule::Tick() [c:\program files\epic games\unrealengine-flex-4.19.2\engine\source\developer\hotreload\private\hotreload.cpp:1443]
+[2019.03.11-19.36.53:084][390]LogOutputDevice: Error: [Callstack] 0x00000000D13AB586 UE4Editor-Core.dll!FTicker::Tick() [c:\program files\epic games\unrealengine-flex-4.19.2\engine\source\runtime\core\private\containers\ticker.cpp:82]
+[2019.03.11-19.36.53:084][390]LogOutputDevice: Error: [Callstack] 0x0000000094718503 UE4Editor.exe!FEngineLoop::Tick() [c:\program files\epic games\unrealengine-flex-4.19.2\engine\source\runtime\launch\private\launchengineloop.cpp:3511]
+[2019.03.11-19.36.53:085][390]LogOutputDevice: Error: [Callstack] 0x0000000094726BD0 UE4Editor.exe!GuardedMain() [c:\program files\epic games\unrealengine-flex-4.19.2\engine\source\runtime\launch\private\launch.cpp:166]
+[2019.03.11-19.36.53:085][390]LogOutputDevice: Error: [Callstack] 0x0000000094726C4A UE4Editor.exe!GuardedMainWrapper() [c:\program files\epic games\unrealengine-flex-4.19.2\engine\source\runtime\launch\private\windows\launchwindows.cpp:144]
+[2019.03.11-19.36.53:085][390]LogOutputDevice: Error: [Callstack] 0x0000000094734187 UE4Editor.exe!WinMain() [c:\program files\epic games\unrealengine-flex-4.19.2\engine\source\runtime\launch\private\windows\launchwindows.cpp:223]
+[2019.03.11-19.36.53:086][390]LogOutputDevice: Error: [Callstack] 0x0000000094735B97 UE4Editor.exe!__scrt_common_main_seh() [f:\dd\vctools\crt\vcstartup\src\startup\exe_common.inl:253]
+[2019.03.11-19.36.53:086][390]LogOutputDevice: Error: [Callstack] 0x000000000B283DC4 KERNEL32.DLL!UnknownFunction []
+[2019.03.11-19.36.53:086][390]LogOutputDevice: Error: [Callstack] 0x000000000B523691 ntdll.dll!UnknownFunction []
+[2019.03.11-19.36.53:086][390]LogOutputDevice: Error: 
+[2019.03.11-19.36.53:090][390]LogStats:                SubmitErrorReport -  0.000 s
+[2019.03.11-19.36.53:841][390]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.03.11-19.36.53:842][390]LogWindows: Warning: URL: ../../../Engine/Binaries/Win64/CrashReportClient.exe "E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/Saved/Crashes/UE4CC-Windows-346C92064E22BC36BC40F9A403B94EA2_0000" -Unattended -AppName=UE4-Boof_Core -CrashGUID=UE4CC-Windows-346C92064E22BC36BC40F9A403B94EA2_0000 -DebugSymbols=..\..\..\Engine\Intermediate\Symbols
+[2019.03.11-19.36.53:843][390]LogStats:                    SendNewReport -  0.753 s
+[2019.03.11-19.36.53:843][390]LogStats:             FDebug::EnsureFailed - 11.503 s
+[2019.03.11-19.36.53:849][390]LogHotReload: Re-instancing Boof_Player after hot-reload.
+[2019.03.11-19.36.53:933][390]LogContentBrowser: Native class hierarchy updated for 'Boof_Core' in 0.0010 seconds. Added 2 classes and 2 folders.
+[2019.03.11-19.36.53:935][390]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.03.11-19.36.54:165][390]LogContentBrowser: Native class hierarchy populated in 0.0155 seconds. Added 2481 classes and 566 folders.
+[2019.03.11-19.36.54:166][390]Display: HotReload took 27.1s.
+[2019.03.11-19.36.58:938][561]LogSlate: Window 'Message Log' being destroyed
+[2019.03.11-19.36.58:942][561]LogSlate: Window 'Message Log' being destroyed
+[2019.03.11-19.37.03:408][897]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.BoofCore
+[2019.03.11-19.37.03:408][897]LogTemp: CWD: C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Binaries\DotNET\IOS
+[2019.03.11-19.37.03:408][897]LogTemp: Initial Dir: C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2
+[2019.03.11-19.37.03:409][897]LogTemp: Env CWD: C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Binaries\DotNET\IOS
+[2019.03.11-19.37.03:409][897]LogTemp: BranchPath = NIC-WORKSTATION/C/Program Files/Epic Games/UnrealEngine-FleX-4.19.2/Engine/Binaries --- GameBranchPath = NIC-WORKSTATION/C/Program Files/Epic Games/UnrealEngine-FleX-4.19.2/Engine/Binaries
+[2019.03.11-19.37.03:409][897]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\mesht\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2019.03.11-19.43.12:675][880]Candidate modules for hot reload:
+[2019.03.11-19.43.12:675][880]  Boof_Core
+[2019.03.11-19.43.12:675][880]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UnrealEngine-FleX-4.19.2/Engine/Binaries/DotNET/UnrealBuildTool.exe Boof_Core -ModuleWithSuffix=Boof_Core,836 Win64 Development -editorrecompile -canskiplink "E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/Boof_Core.uproject" ]
+[2019.03.11-19.43.12:678][880]Warning: Starting HotReload took  0.0s.
+[2019.03.11-19.44.01:431][219]CompilerResultsLog: New page: Compilation - Mar 11, 2019, 7:44:01 AM
+[2019.03.11-19.44.01:432][219]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2019.03.11-19.44.01:432][219]CompilerResultsLog: Creating makefile for hot reloading Boof_Core (ini files are newer than UBTMakefile)
+[2019.03.11-19.44.01:432][219]CompilerResultsLog: Compiling game modules for hot reload
+[2019.03.11-19.44.01:432][219]CompilerResultsLog: Building UnrealHeaderTool...
+[2019.03.11-19.44.01:433][219]CompilerResultsLog: Target is up to date
+[2019.03.11-19.44.01:433][219]CompilerResultsLog: Total build time: 0.40 seconds (NoActionsToExecute executor: 0.01 seconds)
+[2019.03.11-19.44.01:433][219]CompilerResultsLog: Parsing headers for Boof_CoreEditor
+[2019.03.11-19.44.01:433][219]CompilerResultsLog:   Running UnrealHeaderTool "E:\Deckard\Game Development\BoofStudios\CoreSystem\BoofStudios_BaseSystem\Boof_Core\Boof_Core.uproject" "E:\Deckard\Game Development\BoofStudios\CoreSystem\BoofStudios_BaseSystem\Boof_Core\Intermediate\Build\Win64\Boof_CoreEditor\Development\Boof_CoreEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors
+[2019.03.11-19.44.01:435][219]CompilerResultsLog: Reflection code generated for Boof_CoreEditor in 11.3400905 seconds
+[2019.03.11-19.44.01:435][219]CompilerResultsLog: Performing 4 actions (12 in parallel)
+[2019.03.11-19.44.01:435][219]CompilerResultsLog: Boof_Player.gen.cpp
+[2019.03.11-19.44.01:435][219]CompilerResultsLog: Boof_Player.cpp
+[2019.03.11-19.44.01:435][219]CompilerResultsLog: Error: C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Source\Runtime\Core\Public\Delegates/DelegateInstancesImpl.h(524) : error C2338: You cannot use UObject method delegates with raw pointers.
+[2019.03.11-19.44.01:436][219]CompilerResultsLog: Error: C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Source\Runtime\Core\Public\Delegates/DelegateInstancesImpl.h(636) : note: see reference to class template instantiation 'TBaseUObjectMethodDelegateInstance<false,UserClass,TTypeWrapper<void> (FKey)>' being compiled
+[2019.03.11-19.44.01:437][219]CompilerResultsLog:         with
+[2019.03.11-19.44.01:437][219]CompilerResultsLog:         [
+[2019.03.11-19.44.01:437][219]CompilerResultsLog:             UserClass=ABoof_Player::cameraIndex
+[2019.03.11-19.44.01:437][219]CompilerResultsLog:         ]
+[2019.03.11-19.44.01:438][219]CompilerResultsLog: Error: C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Source\Runtime\Core\Public\Delegates/DelegateSignatureImpl.inl(89) : note: see reference to class template instantiation 'TBaseUObjectMethodDelegateInstance<false,UserClass,void (FKey)>' being compiled
+[2019.03.11-19.44.01:438][219]CompilerResultsLog:         with
+[2019.03.11-19.44.01:439][219]CompilerResultsLog:         [
+[2019.03.11-19.44.01:439][219]CompilerResultsLog:             UserClass=ABoof_Player::cameraIndex
+[2019.03.11-19.44.01:439][219]CompilerResultsLog:         ]
+[2019.03.11-19.44.01:439][219]CompilerResultsLog: Error: E:\Deckard\Game Development\BoofStudios\CoreSystem\BoofStudios_BaseSystem\Boof_Core\Source\Boof_Core\Boof_Player.cpp(50) : note: see reference to class template instantiation 'TBaseDelegate<TTypeWrapper<void>,FKey>::TUObjectMethodDelegate<ABoof_Player::cameraIndex>' being compiled
+[2019.03.11-19.44.01:440][219]CompilerResultsLog: ERROR: UBT ERROR: Failed to produce item: E:\Deckard\Game Development\BoofStudios\CoreSystem\BoofStudios_BaseSystem\Boof_Core\Binaries\Win64\UE4Editor-Boof_Core-836.dll
+[2019.03.11-19.44.01:440][219]CompilerResultsLog: Total build time: 48.26 seconds (Local executor: 0.00 seconds)
+[2019.03.11-19.44.01:441][219]LogMainFrame: MainFrame: Module compiling took 48.774 seconds
+[2019.03.11-19.44.01:441][219]Warning: HotReload failed, recompile failed
+[2019.03.11-19.44.16:462][416]LogSlate: Window 'Message Log' being destroyed
+[2019.03.11-19.44.16:466][416]LogSlate: Window 'Message Log' being destroyed
+[2019.03.11-19.46.12:783][699]Cmd: TRANSACTION UNDO
+[2019.03.11-19.46.12:785][699]LogEditorTransaction: Undo Delete Child
+[2019.03.11-19.46.12:800][699]LogSlate: Took 0.000360 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.11-19.47.46:413][938]LogSlate: Window 'Save Level As' being destroyed
+[2019.03.11-19.47.52:309][563]LogAIModule: Creating AISystem for world DevWorld
+[2019.03.11-19.47.52:329][563]Cmd: MAP LOAD FILE="E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/Content/Levels/DevWorld.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.03.11-19.47.52:330][563]LightingResults: New page: Lighting Build
+[2019.03.11-19.47.52:331][563]LoadErrors: New page: Loading map: DevWorld.umap
+[2019.03.11-19.47.52:332][563]MapCheck: New page: Map Check
+[2019.03.11-19.47.52:332][563]LightingResults: New page: Lighting Build
+[2019.03.11-19.47.52:351][563]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.03.11-19.47.52:385][563]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.03.11-19.47.52:449][563]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 63.993ms to complete.
+[2019.03.11-19.47.52:449][563]LogFileHelpers: Loading map 'DevWorld' took 0.121
+[2019.03.11-19.47.53:397][634]LogSavePackage: Save=38.86ms
+[2019.03.11-19.47.53:398][634]LogSavePackage: Moving 'E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/Saved/DevWorld5C07DED04B006A41935657A8A088A367.tmp' to 'E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/Content/Levels/DevWorld.umap'
+[2019.03.11-19.47.53:400][634]LogSavePackage: Display: Finished SavePackage E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/Content/Levels/DevWorld.umap
+[2019.03.11-19.47.53:440][634]LogFileHelpers: Saving map 'DevWorld' took 0.197
+[2019.03.11-19.47.55:083][784]LogSavePackage: Save=38.99ms
+[2019.03.11-19.47.55:083][784]LogSavePackage: Moving 'E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/Saved/DevWorldBEFE233943009304D33A959AF0B7279A.tmp' to 'E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/Content/Levels/DevWorld.umap'
+[2019.03.11-19.47.55:085][784]LogSavePackage: Display: Finished SavePackage E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/Content/Levels/DevWorld.umap
+[2019.03.11-19.47.55:119][784]LogFileHelpers: Saving map 'DevWorld' took 0.181
+[2019.03.11-19.47.57:543][993]LogSlate: Window 'Project Settings' being destroyed
+[2019.03.11-19.47.57:547][993]LogSlate: Window 'Project Settings' being destroyed
+[2019.03.11-19.47.58:551][108]Candidate modules for hot reload:
+[2019.03.11-19.47.58:551][108]  Boof_Core
+[2019.03.11-19.47.58:551][108]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UnrealEngine-FleX-4.19.2/Engine/Binaries/DotNET/UnrealBuildTool.exe Boof_Core -ModuleWithSuffix=Boof_Core,7270 Win64 Development -editorrecompile -canskiplink "E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/Boof_Core.uproject" ]
+[2019.03.11-19.47.58:554][108]Warning: Starting HotReload took  0.0s.
+[2019.03.11-19.48.15:560][439]CompilerResultsLog: New page: Compilation - Mar 11, 2019, 7:48:15 AM
+[2019.03.11-19.48.15:560][439]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2019.03.11-19.48.15:560][439]CompilerResultsLog: Compiling game modules for hot reload
+[2019.03.11-19.48.15:560][439]CompilerResultsLog: Parsing headers for Boof_CoreEditor
+[2019.03.11-19.48.15:561][439]CompilerResultsLog:   Running UnrealHeaderTool "E:\Deckard\Game Development\BoofStudios\CoreSystem\BoofStudios_BaseSystem\Boof_Core\Boof_Core.uproject" "E:\Deckard\Game Development\BoofStudios\CoreSystem\BoofStudios_BaseSystem\Boof_Core\Intermediate\Build\Win64\Boof_CoreEditor\Development\Boof_CoreEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors
+[2019.03.11-19.48.15:562][439]CompilerResultsLog: Reflection code generated for Boof_CoreEditor in 12.8289084 seconds
+[2019.03.11-19.48.15:562][439]CompilerResultsLog: Performing 4 actions (12 in parallel)
+[2019.03.11-19.48.15:562][439]CompilerResultsLog: Boof_Player.gen.cpp
+[2019.03.11-19.48.15:562][439]CompilerResultsLog: Boof_Player.cpp
+[2019.03.11-19.48.15:562][439]CompilerResultsLog: [3/4] Link UE4Editor-Boof_Core-7270.dll
+[2019.03.11-19.48.15:563][439]CompilerResultsLog: [4/4] Link UE4Editor-Boof_Core-7270.lib
+[2019.03.11-19.48.15:563][439]CompilerResultsLog:    Creating library E:\Deckard\Game Development\BoofStudios\CoreSystem\BoofStudios_BaseSystem\Boof_Core\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Boof_Core-7270.lib and object E:\Deckard\Game Development\BoofStudios\CoreSystem\BoofStudios_BaseSystem\Boof_Core\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Boof_Core-7270.exp
+[2019.03.11-19.48.15:564][439]CompilerResultsLog:    Creating library E:\Deckard\Game Development\BoofStudios\CoreSystem\BoofStudios_BaseSystem\Boof_Core\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Boof_Core-7270.suppressed.lib and object E:\Deckard\Game Development\BoofStudios\CoreSystem\BoofStudios_BaseSystem\Boof_Core\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Boof_Core-7270.suppressed.exp
+[2019.03.11-19.48.15:565][439]CompilerResultsLog: Total build time: 16.71 seconds (Local executor: 2.05 seconds)
+[2019.03.11-19.48.15:565][439]LogMainFrame: MainFrame: Module compiling took 17.022 seconds
+[2019.03.11-19.48.15:603][439]LogUObjectGlobals: Warning: Class which was marked abstract was trying to be loaded.  It will be nulled out on save. Mesh MeshComponent
+[2019.03.11-19.48.15:606][439]LogContentBrowser: Native class hierarchy updated for 'Boof_Core' in 0.0009 seconds. Added 2 classes and 2 folders.
+[2019.03.11-19.48.15:608][439]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.03.11-19.48.15:661][439]LogContentBrowser: Native class hierarchy populated in 0.0124 seconds. Added 2481 classes and 566 folders.
+[2019.03.11-19.48.15:661][439]Display: HotReload took 17.1s.
+[2019.03.11-19.48.28:385][402]LogSlate: Took 0.008251 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.03.11-19.48.31:138][728]LogUObjectGlobals: Warning: Class which was marked abstract was trying to be loaded.  It will be nulled out on save. Mesh MeshComponent
+[2019.03.11-19.48.31:138][728]LogUObjectGlobals: Warning: Class which was marked abstract was trying to be loaded.  It will be nulled out on save. Mesh MeshComponent
+[2019.03.11-19.48.31:139][728]LogUObjectGlobals: Warning: Class which was marked abstract was trying to be loaded.  It will be nulled out on save. Mesh MeshComponent
+[2019.03.11-19.48.31:140][728]LogUObjectGlobals: Warning: Class which was marked abstract was trying to be loaded.  It will be nulled out on save. Mesh MeshComponent
+[2019.03.11-19.48.31:632][728]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0016 seconds. Added 116 classes and 0 folders.
+[2019.03.11-19.48.32:069][728]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f640bec9b8, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2019.03.11-19.48.32:071][728]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f640bec9b0, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2019.03.11-19.48.32:589][728]LogMaterial: Missing cached shader map for material GridMaterial, compiling. 
+[2019.03.11-19.48.32:643][728]LogStaticMesh: Building static mesh PhAT_FloorBox...
+[2019.03.11-19.48.32:645][728]LogStaticMesh: Built static mesh [0.00s] /Engine/EditorMeshes/PhAT_FloorBox.PhAT_FloorBox
+[2019.03.11-19.48.32:648][728]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.03.11-19.48.32:648][728]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.03.11-19.48.32:649][728]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.03.11-19.48.32:811][728]LogTexture: Display: Building textures: TilePatine_N (BC5, 512X512)
+[2019.03.11-19.48.32:811][728]LogTexture: Display: Building textures: TilePatine_D (AutoDXT, 512X512)
+[2019.03.11-19.48.32:811][728]LogMaterial: Missing cached shader map for material PersonaFloorMat, compiling. 
+[2019.03.11-19.48.32:841][728]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.03.11-19.48.32:841][728]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.03.11-19.48.32:841][728]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.03.11-19.48.32:842][728]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.03.11-19.48.32:912][728]LogSlate: Window 'Add Blueprint Class' being destroyed
+[2019.03.11-19.48.32:917][728]LogUObjectGlobals: Warning: Class which was marked abstract was trying to be loaded.  It will be nulled out on save. Mesh MeshComponent
+[2019.03.11-19.48.35:996][913]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyBoof_Player" FILE="E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/Content/MyBoof_Player.uasset" SILENT=true
+[2019.03.11-19.48.36:015][913]LogSavePackage: Save=16.20ms
+[2019.03.11-19.48.36:016][913]LogSavePackage: Moving 'E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/Saved/MyBoof_PlayerE4CF2B5F45F736905DBC24A16F450BC6.tmp' to 'E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/Content/MyBoof_Player.uasset'
+[2019.03.11-19.48.36:021][913]LogSavePackage: Display: Finished SavePackage E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/Content/MyBoof_Player.uasset
+[2019.03.11-19.48.42:774][407]LogSlate: Window 'Add Blueprint Class' being destroyed
+[2019.03.11-19.48.45:470][539]LogRenderer: Reallocating scene render targets to support 1168x940 Format 10 NumSamples 1 (Frame:133).
+[2019.03.11-19.48.50:536][  7]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyBoof_CoreGameModeBase" FILE="E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/Content/MyBoof_CoreGameModeBase.uasset" SILENT=true
+[2019.03.11-19.48.50:549][  7]LogSavePackage: Save=9.82ms
+[2019.03.11-19.48.50:549][  7]LogSavePackage: Moving 'E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/Saved/MyBoof_CoreGameModeBase312F926D4FD87A7421BA139403255DBF.tmp' to 'E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/Content/MyBoof_CoreGameModeBase.uasset'
+[2019.03.11-19.48.50:552][  7]LogSavePackage: Display: Finished SavePackage E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/Content/MyBoof_CoreGameModeBase.uasset
+[2019.03.11-19.48.53:562][193]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.03.11-19.49.02:511][ 99]BlueprintLog: New page: Compile MyBoof_CoreGameModeBase
+[2019.03.11-19.49.03:224][136]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyBoof_CoreGameModeBase" FILE="E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/Content/MyBoof_CoreGameModeBase.uasset" SILENT=true
+[2019.03.11-19.49.03:242][136]LogSavePackage: Save=10.05ms
+[2019.03.11-19.49.03:242][136]LogSavePackage: Moving 'E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/Saved/MyBoof_CoreGameModeBaseE8D357A24622633CBB07E9B3004152C5.tmp' to 'E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/Content/MyBoof_CoreGameModeBase.uasset'
+[2019.03.11-19.49.03:246][136]LogSavePackage: Display: Finished SavePackage E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/Content/MyBoof_CoreGameModeBase.uasset
+[2019.03.11-19.49.07:640][466]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.03.11-19.49.12:645][908]LogSavePackage: Save=35.83ms
+[2019.03.11-19.49.12:645][908]LogSavePackage: Moving 'E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/Saved/DevWorldB65A78E94B8EF9F8ADD28280BE61CDF4.tmp' to 'E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/Content/Levels/DevWorld.umap'
+[2019.03.11-19.49.12:647][908]LogSavePackage: Display: Finished SavePackage E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/Content/Levels/DevWorld.umap
+[2019.03.11-19.49.12:732][908]LogSavePackage: Save=39.46ms
+[2019.03.11-19.49.12:733][908]LogSavePackage: Moving 'E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/Saved/DevWorld_BuiltData8FDA83B84DC8E589651937A12EBA99A0.tmp' to 'E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/Content/Levels/DevWorld_BuiltData.uasset'
+[2019.03.11-19.49.12:737][908]LogSavePackage: Display: Finished SavePackage E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/Content/Levels/DevWorld_BuiltData.uasset
+[2019.03.11-19.49.13:284][957]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.11-19.49.13:313][957]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.11-19.49.13:314][957]PIE: New page: PIE session: DevWorld (Mar 11, 2019, 7:49:13 AM)
+[2019.03.11-19.49.13:314][957]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DevWorld
+[2019.03.11-19.49.13:316][957]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002181s)
+[2019.03.11-19.49.13:317][957]LogAIModule: Creating AISystem for world DevWorld
+[2019.03.11-19.49.13:318][957]LogPlayLevel: PIE: World Init took: (0.001104s)
+[2019.03.11-19.49.13:318][957]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DevWorld.DevWorld to /Game/Levels/UEDPIE_0_DevWorld.DevWorld (0.003896s)
+[2019.03.11-19.49.13:351][957]LogInit: XAudio2 using 'Speakers (VB-Audio VoiceMeeter VAIO)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2019.03.11-19.49.13:356][957]LogInit: FAudioDevice initialized.
+[2019.03.11-19.49.13:406][957]LogLoad: Game class is 'MyBoof_CoreGameModeBase_C'
+[2019.03.11-19.49.13:410][957]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DevWorld.DevWorld up for play (max tick rate 0) at 2019.03.11-13.49.13
+[2019.03.11-19.49.13:411][957]LogWorld: Bringing up level for play took: 0.001624
+[2019.03.11-19.49.13:422][957]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0009 seconds. Added 11 classes and 0 folders.
+[2019.03.11-19.49.13:423][957]LogUObjectGlobals: Warning: Class which was marked abstract was trying to be loaded.  It will be nulled out on save. Mesh MeshComponent
+[2019.03.11-19.49.13:427][957]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_DevWorld 0.483
+[2019.03.11-19.49.18:295][428]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.11-19.49.26:530][118]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.11-19.49.26:539][118]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.03.11-19.49.40:682][402]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyBoof_CoreGameModeBase" FILE="E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/Content/MyBoof_CoreGameModeBase.uasset" SILENT=true
+[2019.03.11-19.49.40:699][402]LogSavePackage: Save=13.97ms
+[2019.03.11-19.49.40:699][402]LogSavePackage: Moving 'E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/Saved/MyBoof_CoreGameModeBaseBB9A57AE428C7BAB8F992FB50035FAB9.tmp' to 'E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/Content/MyBoof_CoreGameModeBase.uasset'
+[2019.03.11-19.49.40:701][402]LogSavePackage: Display: Finished SavePackage E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/Content/MyBoof_CoreGameModeBase.uasset
+[2019.03.11-19.49.41:213][445]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-19.49.42:970][609]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.11-19.49.42:991][609]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.11-19.49.42:991][609]PIE: New page: PIE session: DevWorld (Mar 11, 2019, 7:49:42 AM)
+[2019.03.11-19.49.42:992][609]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DevWorld
+[2019.03.11-19.49.42:994][609]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001983s)
+[2019.03.11-19.49.42:995][609]LogAIModule: Creating AISystem for world DevWorld
+[2019.03.11-19.49.42:995][609]LogPlayLevel: PIE: World Init took: (0.001004s)
+[2019.03.11-19.49.42:995][609]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DevWorld.DevWorld to /Game/Levels/UEDPIE_0_DevWorld.DevWorld (0.003664s)
+[2019.03.11-19.49.43:041][609]LogInit: XAudio2 using 'Speakers (VB-Audio VoiceMeeter VAIO)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2019.03.11-19.49.43:049][609]LogInit: FAudioDevice initialized.
+[2019.03.11-19.49.43:091][609]LogLoad: Game class is 'MyBoof_CoreGameModeBase_C'
+[2019.03.11-19.49.43:092][609]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DevWorld.DevWorld up for play (max tick rate 0) at 2019.03.11-13.49.43
+[2019.03.11-19.49.43:093][609]LogWorld: Bringing up level for play took: 0.001262
+[2019.03.11-19.49.43:094][609]LogUObjectGlobals: Warning: Class which was marked abstract was trying to be loaded.  It will be nulled out on save. Mesh MeshComponent
+[2019.03.11-19.49.43:096][609]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_DevWorld 0.152
+[2019.03.11-19.50.13:933][ 43]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-19.50.16:137][190]Candidate modules for hot reload:
+[2019.03.11-19.50.16:137][190]  Boof_Core
+[2019.03.11-19.50.16:137][190]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UnrealEngine-FleX-4.19.2/Engine/Binaries/DotNET/UnrealBuildTool.exe Boof_Core -ModuleWithSuffix=Boof_Core,2936 Win64 Development -editorrecompile -canskiplink "E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/Boof_Core.uproject" ]
+[2019.03.11-19.50.16:140][190]Warning: Starting HotReload took  0.0s.
+[2019.03.11-19.50.27:429][298]CompilerResultsLog: New page: Compilation - Mar 11, 2019, 7:50:27 AM
+[2019.03.11-19.50.27:429][298]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2019.03.11-19.50.27:429][298]CompilerResultsLog: Creating makefile for hot reloading Boof_Core (ini files are newer than UBTMakefile)
+[2019.03.11-19.50.27:430][298]CompilerResultsLog: Compiling game modules for hot reload
+[2019.03.11-19.50.27:430][298]CompilerResultsLog: Performing 3 actions (12 in parallel)
+[2019.03.11-19.50.27:430][298]CompilerResultsLog: Boof_Player.cpp
+[2019.03.11-19.50.27:430][298]CompilerResultsLog: [2/3] Link UE4Editor-Boof_Core-2936.dll
+[2019.03.11-19.50.27:430][298]CompilerResultsLog: [3/3] Link UE4Editor-Boof_Core-2936.lib
+[2019.03.11-19.50.27:430][298]CompilerResultsLog:    Creating library E:\Deckard\Game Development\BoofStudios\CoreSystem\BoofStudios_BaseSystem\Boof_Core\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Boof_Core-2936.lib and object E:\Deckard\Game Development\BoofStudios\CoreSystem\BoofStudios_BaseSystem\Boof_Core\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Boof_Core-2936.exp
+[2019.03.11-19.50.27:431][298]CompilerResultsLog:    Creating library E:\Deckard\Game Development\BoofStudios\CoreSystem\BoofStudios_BaseSystem\Boof_Core\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Boof_Core-2936.suppressed.lib and object E:\Deckard\Game Development\BoofStudios\CoreSystem\BoofStudios_BaseSystem\Boof_Core\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Boof_Core-2936.suppressed.exp
+[2019.03.11-19.50.27:432][298]CompilerResultsLog: Total build time: 11.11 seconds (Local executor: 1.92 seconds)
+[2019.03.11-19.50.27:432][298]LogMainFrame: MainFrame: Module compiling took 11.302 seconds
+[2019.03.11-19.50.27:475][298]LogUObjectGlobals: Warning: Class which was marked abstract was trying to be loaded.  It will be nulled out on save. Mesh MeshComponent
+[2019.03.11-19.50.27:476][298]LogContentBrowser: Native class hierarchy updated for 'Boof_Core' in 0.0007 seconds. Added 2 classes and 2 folders.
+[2019.03.11-19.50.27:480][298]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.03.11-19.50.27:908][298]LogContentBrowser: Native class hierarchy populated in 0.0236 seconds. Added 2481 classes and 566 folders.
+[2019.03.11-19.50.27:908][298]Display: HotReload took 11.8s.
+[2019.03.11-19.50.30:309][509]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.11-19.50.30:331][509]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.11-19.50.30:331][509]PIE: New page: PIE session: DevWorld (Mar 11, 2019, 7:50:30 AM)
+[2019.03.11-19.50.30:331][509]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DevWorld
+[2019.03.11-19.50.30:333][509]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001711s)
+[2019.03.11-19.50.30:334][509]LogAIModule: Creating AISystem for world DevWorld
+[2019.03.11-19.50.30:334][509]LogPlayLevel: PIE: World Init took: (0.000839s)
+[2019.03.11-19.50.30:335][509]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DevWorld.DevWorld to /Game/Levels/UEDPIE_0_DevWorld.DevWorld (0.003058s)
+[2019.03.11-19.50.30:401][509]LogInit: XAudio2 using 'Speakers (VB-Audio VoiceMeeter VAIO)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2019.03.11-19.50.30:406][509]LogInit: FAudioDevice initialized.
+[2019.03.11-19.50.30:440][509]LogLoad: Game class is 'MyBoof_CoreGameModeBase_C'
+[2019.03.11-19.50.30:442][509]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DevWorld.DevWorld up for play (max tick rate 0) at 2019.03.11-13.50.30
+[2019.03.11-19.50.30:443][509]LogWorld: Bringing up level for play took: 0.001163
+[2019.03.11-19.50.30:444][509]LogUObjectGlobals: Warning: Class which was marked abstract was trying to be loaded.  It will be nulled out on save. Mesh MeshComponent
+[2019.03.11-19.50.30:445][509]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_DevWorld -0.499
+[2019.03.11-19.50.36:656][ 57]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-19.50.36:967][ 78]LogSlate: Took 0.008762 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.03.11-19.50.39:749][313]BlueprintLog: New page: Compile MyBoof_Player
+[2019.03.11-19.50.39:751][313]LogUObjectGlobals: Warning: Class which was marked abstract was trying to be loaded.  It will be nulled out on save. Mesh MeshComponent
+[2019.03.11-19.50.39:751][313]LogUObjectGlobals: Warning: Class which was marked abstract was trying to be loaded.  It will be nulled out on save. Mesh MeshComponent
+[2019.03.11-19.50.39:753][313]LogUObjectGlobals: Warning: Class which was marked abstract was trying to be loaded.  It will be nulled out on save. Mesh MeshComponent
+[2019.03.11-19.50.39:753][313]LogUObjectGlobals: Warning: Class which was marked abstract was trying to be loaded.  It will be nulled out on save. Mesh MeshComponent
+[2019.03.11-19.50.39:779][313]LogUObjectGlobals: Warning: Class which was marked abstract was trying to be loaded.  It will be nulled out on save. Mesh MeshComponent
+[2019.03.11-19.50.40:401][332]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyBoof_Player" FILE="E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/Content/MyBoof_Player.uasset" SILENT=true
+[2019.03.11-19.50.40:426][332]LogSavePackage: Save=16.99ms
+[2019.03.11-19.50.40:426][332]LogSavePackage: Moving 'E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/Saved/MyBoof_PlayerE486BF3B4389D621F89EAB8C960E420D.tmp' to 'E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/Content/MyBoof_Player.uasset'
+[2019.03.11-19.50.40:429][332]LogSavePackage: Display: Finished SavePackage E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/Content/MyBoof_Player.uasset
+[2019.03.11-19.50.41:365][403]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-19.50.41:432][409]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.11-19.50.41:453][409]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.11-19.50.41:453][409]PIE: New page: PIE session: DevWorld (Mar 11, 2019, 7:50:41 AM)
+[2019.03.11-19.50.41:454][409]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DevWorld
+[2019.03.11-19.50.41:455][409]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001758s)
+[2019.03.11-19.50.41:456][409]LogAIModule: Creating AISystem for world DevWorld
+[2019.03.11-19.50.41:457][409]LogPlayLevel: PIE: World Init took: (0.000997s)
+[2019.03.11-19.50.41:457][409]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DevWorld.DevWorld to /Game/Levels/UEDPIE_0_DevWorld.DevWorld (0.003412s)
+[2019.03.11-19.50.41:492][409]LogInit: XAudio2 using 'Speakers (VB-Audio VoiceMeeter VAIO)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2019.03.11-19.50.41:498][409]LogInit: FAudioDevice initialized.
+[2019.03.11-19.50.41:531][409]LogLoad: Game class is 'MyBoof_CoreGameModeBase_C'
+[2019.03.11-19.50.41:532][409]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DevWorld.DevWorld up for play (max tick rate 0) at 2019.03.11-13.50.41
+[2019.03.11-19.50.41:532][409]LogWorld: Bringing up level for play took: 0.000900
+[2019.03.11-19.50.41:533][409]LogUObjectGlobals: Warning: Class which was marked abstract was trying to be loaded.  It will be nulled out on save. Mesh MeshComponent
+[2019.03.11-19.50.41:534][409]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_DevWorld 0.59
+[2019.03.11-19.50.44:256][623]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.11-19.50.45:077][686]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.11-19.50.46:354][687]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.BoofCore
+[2019.03.11-19.50.46:355][687]LogTemp: CWD: C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Binaries\DotNET\IOS
+[2019.03.11-19.50.46:355][687]LogTemp: Initial Dir: C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2
+[2019.03.11-19.50.46:355][687]LogTemp: Env CWD: C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Binaries\DotNET\IOS
+[2019.03.11-19.50.46:355][687]LogTemp: BranchPath = NIC-WORKSTATION/C/Program Files/Epic Games/UnrealEngine-FleX-4.19.2/Engine/Binaries --- GameBranchPath = NIC-WORKSTATION/C/Program Files/Epic Games/UnrealEngine-FleX-4.19.2/Engine/Binaries
+[2019.03.11-19.50.46:356][687]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\mesht\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2019.03.11-19.50.59:682][545]LogSlate: Window 'Project Settings' being destroyed
+[2019.03.11-19.50.59:687][545]LogSlate: Window 'Project Settings' being destroyed
+[2019.03.11-19.51.00:991][648]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-19.51.01:069][654]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.11-19.51.01:091][654]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.11-19.51.01:091][654]PIE: New page: PIE session: DevWorld (Mar 11, 2019, 7:51:01 AM)
+[2019.03.11-19.51.01:091][654]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DevWorld
+[2019.03.11-19.51.01:093][654]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001955s)
+[2019.03.11-19.51.01:094][654]LogAIModule: Creating AISystem for world DevWorld
+[2019.03.11-19.51.01:095][654]LogPlayLevel: PIE: World Init took: (0.001204s)
+[2019.03.11-19.51.01:095][654]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DevWorld.DevWorld to /Game/Levels/UEDPIE_0_DevWorld.DevWorld (0.003767s)
+[2019.03.11-19.51.01:132][654]LogInit: XAudio2 using 'Speakers (VB-Audio VoiceMeeter VAIO)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2019.03.11-19.51.01:137][654]LogInit: FAudioDevice initialized.
+[2019.03.11-19.51.01:172][654]LogLoad: Game class is 'MyBoof_CoreGameModeBase_C'
+[2019.03.11-19.51.01:174][654]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DevWorld.DevWorld up for play (max tick rate 0) at 2019.03.11-13.51.01
+[2019.03.11-19.51.01:174][654]LogWorld: Bringing up level for play took: 0.001394
+[2019.03.11-19.51.01:175][654]LogUObjectGlobals: Warning: Class which was marked abstract was trying to be loaded.  It will be nulled out on save. Mesh MeshComponent
+[2019.03.11-19.51.01:177][654]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_DevWorld 0.233
+[2019.03.11-19.51.08:116][190]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.11-19.51.10:157][333]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.11-19.51.11:421][334]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.BoofCore
+[2019.03.11-19.51.11:421][334]LogTemp: CWD: C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Binaries\DotNET\IOS
+[2019.03.11-19.51.11:421][334]LogTemp: Initial Dir: C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2
+[2019.03.11-19.51.11:422][334]LogTemp: Env CWD: C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Binaries\DotNET\IOS
+[2019.03.11-19.51.11:422][334]LogTemp: BranchPath = NIC-WORKSTATION/C/Program Files/Epic Games/UnrealEngine-FleX-4.19.2/Engine/Binaries --- GameBranchPath = NIC-WORKSTATION/C/Program Files/Epic Games/UnrealEngine-FleX-4.19.2/Engine/Binaries
+[2019.03.11-19.51.11:422][334]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\mesht\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2019.03.11-19.52.09:756][869]LogSlate: Window 'MyBoof_CoreGameModeBase' being destroyed
+[2019.03.11-19.52.09:760][869]LogSlate: Window 'MyBoof_CoreGameModeBase' being destroyed
+[2019.03.11-19.52.09:841][869]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.03.11-19.53.35:763][143]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-19.53.37:223][291]Candidate modules for hot reload:
+[2019.03.11-19.53.37:223][291]  Boof_Core
+[2019.03.11-19.53.37:223][291]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UnrealEngine-FleX-4.19.2/Engine/Binaries/DotNET/UnrealBuildTool.exe Boof_Core -ModuleWithSuffix=Boof_Core,6403 Win64 Development -editorrecompile -canskiplink "E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/Boof_Core.uproject" ]
+[2019.03.11-19.53.37:226][291]Warning: Starting HotReload took  0.0s.
+[2019.03.11-19.54.06:715][477]CompilerResultsLog: New page: Compilation - Mar 11, 2019, 7:54:06 AM
+[2019.03.11-19.54.06:716][477]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2019.03.11-19.54.06:716][477]CompilerResultsLog: Creating makefile for hot reloading Boof_Core (ini files are newer than UBTMakefile)
+[2019.03.11-19.54.06:716][477]CompilerResultsLog: Compiling game modules for hot reload
+[2019.03.11-19.54.06:716][477]CompilerResultsLog: Building UnrealHeaderTool...
+[2019.03.11-19.54.06:716][477]CompilerResultsLog: Target is up to date
+[2019.03.11-19.54.06:716][477]CompilerResultsLog: Total build time: 0.39 seconds (NoActionsToExecute executor: 0.01 seconds)
+[2019.03.11-19.54.06:717][477]CompilerResultsLog: Parsing headers for Boof_CoreEditor
+[2019.03.11-19.54.06:717][477]CompilerResultsLog:   Running UnrealHeaderTool "E:\Deckard\Game Development\BoofStudios\CoreSystem\BoofStudios_BaseSystem\Boof_Core\Boof_Core.uproject" "E:\Deckard\Game Development\BoofStudios\CoreSystem\BoofStudios_BaseSystem\Boof_Core\Intermediate\Build\Win64\Boof_CoreEditor\Development\Boof_CoreEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors
+[2019.03.11-19.54.06:718][477]CompilerResultsLog: Reflection code generated for Boof_CoreEditor in 14.5062882 seconds
+[2019.03.11-19.54.06:718][477]CompilerResultsLog: Performing 4 actions (12 in parallel)
+[2019.03.11-19.54.06:718][477]CompilerResultsLog: Boof_Player.cpp
+[2019.03.11-19.54.06:718][477]CompilerResultsLog: Boof_Player.gen.cpp
+[2019.03.11-19.54.06:718][477]CompilerResultsLog: [3/4] Link UE4Editor-Boof_Core-6403.dll
+[2019.03.11-19.54.06:718][477]CompilerResultsLog: [4/4] Link UE4Editor-Boof_Core-6403.lib
+[2019.03.11-19.54.06:718][477]CompilerResultsLog:    Creating library E:\Deckard\Game Development\BoofStudios\CoreSystem\BoofStudios_BaseSystem\Boof_Core\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Boof_Core-6403.lib and object E:\Deckard\Game Development\BoofStudios\CoreSystem\BoofStudios_BaseSystem\Boof_Core\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Boof_Core-6403.exp
+[2019.03.11-19.54.06:719][477]CompilerResultsLog:    Creating library E:\Deckard\Game Development\BoofStudios\CoreSystem\BoofStudios_BaseSystem\Boof_Core\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Boof_Core-6403.suppressed.lib and object E:\Deckard\Game Development\BoofStudios\CoreSystem\BoofStudios_BaseSystem\Boof_Core\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Boof_Core-6403.suppressed.exp
+[2019.03.11-19.54.06:720][477]CompilerResultsLog: Total build time: 29.31 seconds (Local executor: 1.92 seconds)
+[2019.03.11-19.54.06:720][477]LogMainFrame: MainFrame: Module compiling took 29.503 seconds
+[2019.03.11-19.54.06:801][477]LogUObjectGlobals: Warning: Class which was marked abstract was trying to be loaded.  It will be nulled out on save. Mesh MeshComponent
+[2019.03.11-19.54.06:804][477]LogContentBrowser: Native class hierarchy updated for 'Boof_Core' in 0.0010 seconds. Added 2 classes and 2 folders.
+[2019.03.11-19.54.06:809][477]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.03.11-19.54.07:192][477]LogContentBrowser: Native class hierarchy populated in 0.0126 seconds. Added 2481 classes and 566 folders.
+[2019.03.11-19.54.07:193][477]Display: HotReload took 30.0s.
+[2019.03.11-19.54.13:771][893]LogSlate: Window 'Delete Assets' being destroyed
+[2019.03.11-19.54.13:783][893]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.11-19.54.16:232][ 31]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.11-19.54.17:889][189]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-19.54.21:189][532]LogUObjectGlobals: Warning: Class which was marked abstract was trying to be loaded.  It will be nulled out on save. Mesh MeshComponent
+[2019.03.11-19.54.21:189][532]LogUObjectGlobals: Warning: Class which was marked abstract was trying to be loaded.  It will be nulled out on save. Mesh MeshComponent
+[2019.03.11-19.54.21:190][532]LogUObjectGlobals: Warning: Class which was marked abstract was trying to be loaded.  It will be nulled out on save. Mesh MeshComponent
+[2019.03.11-19.54.21:190][532]LogUObjectGlobals: Warning: Class which was marked abstract was trying to be loaded.  It will be nulled out on save. Mesh MeshComponent
+[2019.03.11-19.54.21:683][532]LogSlate: Window 'Add Blueprint Class' being destroyed
+[2019.03.11-19.54.21:688][532]LogUObjectGlobals: Warning: Class which was marked abstract was trying to be loaded.  It will be nulled out on save. Mesh MeshComponent
+[2019.03.11-19.54.24:858][722]BlueprintLog: New page: Compile MyBoof_Player
+[2019.03.11-19.54.24:860][722]LogUObjectGlobals: Warning: Class which was marked abstract was trying to be loaded.  It will be nulled out on save. Mesh MeshComponent
+[2019.03.11-19.54.24:860][722]LogUObjectGlobals: Warning: Class which was marked abstract was trying to be loaded.  It will be nulled out on save. Mesh MeshComponent
+[2019.03.11-19.54.24:862][722]LogUObjectGlobals: Warning: Class which was marked abstract was trying to be loaded.  It will be nulled out on save. Mesh MeshComponent
+[2019.03.11-19.54.24:862][722]LogUObjectGlobals: Warning: Class which was marked abstract was trying to be loaded.  It will be nulled out on save. Mesh MeshComponent
+[2019.03.11-19.54.24:895][722]LogUObjectGlobals: Warning: Class which was marked abstract was trying to be loaded.  It will be nulled out on save. Mesh MeshComponent
+[2019.03.11-19.54.25:581][740]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyBoof_Player" FILE="E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/Content/MyBoof_Player.uasset" SILENT=true
+[2019.03.11-19.54.25:600][740]LogSavePackage: Save=13.99ms
+[2019.03.11-19.54.25:601][740]LogSavePackage: Moving 'E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/Saved/MyBoof_Player5E876BE94090E975C1F45393A6428FCE.tmp' to 'E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/Content/MyBoof_Player.uasset'
+[2019.03.11-19.54.25:604][740]LogSavePackage: Display: Finished SavePackage E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/Content/MyBoof_Player.uasset
+[2019.03.11-19.54.47:247][219]BlueprintLog: New page: Compile MyBoof_Player
+[2019.03.11-19.54.47:249][219]LogUObjectGlobals: Warning: Class which was marked abstract was trying to be loaded.  It will be nulled out on save. Mesh MeshComponent
+[2019.03.11-19.54.47:249][219]LogUObjectGlobals: Warning: Class which was marked abstract was trying to be loaded.  It will be nulled out on save. Mesh MeshComponent
+[2019.03.11-19.54.47:251][219]LogUObjectGlobals: Warning: Class which was marked abstract was trying to be loaded.  It will be nulled out on save. Mesh MeshComponent
+[2019.03.11-19.54.47:251][219]LogUObjectGlobals: Warning: Class which was marked abstract was trying to be loaded.  It will be nulled out on save. Mesh MeshComponent
+[2019.03.11-19.54.47:277][219]LogUObjectGlobals: Warning: Class which was marked abstract was trying to be loaded.  It will be nulled out on save. Mesh MeshComponent
+[2019.03.11-19.54.47:856][231]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyBoof_Player" FILE="E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/Content/MyBoof_Player.uasset" SILENT=true
+[2019.03.11-19.54.47:875][231]LogSavePackage: Save=15.80ms
+[2019.03.11-19.54.47:875][231]LogSavePackage: Moving 'E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/Saved/MyBoof_PlayerC926023B467C5946F18B338FA38F0ADC.tmp' to 'E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/Content/MyBoof_Player.uasset'
+[2019.03.11-19.54.47:878][231]LogSavePackage: Display: Finished SavePackage E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/Content/MyBoof_Player.uasset
+[2019.03.11-19.55.10:725][769]BlueprintLog: New page: Compile MyBoof_Player
+[2019.03.11-19.55.10:727][769]LogUObjectGlobals: Warning: Class which was marked abstract was trying to be loaded.  It will be nulled out on save. Mesh MeshComponent
+[2019.03.11-19.55.10:727][769]LogUObjectGlobals: Warning: Class which was marked abstract was trying to be loaded.  It will be nulled out on save. Mesh MeshComponent
+[2019.03.11-19.55.10:729][769]LogUObjectGlobals: Warning: Class which was marked abstract was trying to be loaded.  It will be nulled out on save. Mesh MeshComponent
+[2019.03.11-19.55.10:730][769]LogUObjectGlobals: Warning: Class which was marked abstract was trying to be loaded.  It will be nulled out on save. Mesh MeshComponent
+[2019.03.11-19.55.10:760][769]LogUObjectGlobals: Warning: Class which was marked abstract was trying to be loaded.  It will be nulled out on save. Mesh MeshComponent
+[2019.03.11-19.55.11:352][786]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyBoof_Player" FILE="E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/Content/MyBoof_Player.uasset" SILENT=true
+[2019.03.11-19.55.11:369][786]LogSavePackage: Save=14.34ms
+[2019.03.11-19.55.11:369][786]LogSavePackage: Moving 'E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/Saved/MyBoof_Player5CF9E5F6418F5252B6CB8BBD01D0DCD2.tmp' to 'E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/Content/MyBoof_Player.uasset'
+[2019.03.11-19.55.11:372][786]LogSavePackage: Display: Finished SavePackage E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/Content/MyBoof_Player.uasset
+[2019.03.11-19.55.12:156][850]LogSlate: Window 'MyBoof_Player' being destroyed
+[2019.03.11-19.55.16:428][218]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.03.11-19.55.20:178][499]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyBoof_CoreGameModeBase" FILE="E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/Content/MyBoof_CoreGameModeBase.uasset" SILENT=true
+[2019.03.11-19.55.20:196][499]LogSavePackage: Save=9.78ms
+[2019.03.11-19.55.20:196][499]LogSavePackage: Moving 'E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/Saved/MyBoof_CoreGameModeBaseAC3E91EF455CBC21BE1DE497069F1F39.tmp' to 'E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/Content/MyBoof_CoreGameModeBase.uasset'
+[2019.03.11-19.55.20:199][499]LogSavePackage: Display: Finished SavePackage E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/Content/MyBoof_CoreGameModeBase.uasset
+[2019.03.11-19.55.30:093][376]BlueprintLog: New page: Compile MyBoof_CoreGameModeBase
+[2019.03.11-19.55.30:650][397]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyBoof_CoreGameModeBase" FILE="E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/Content/MyBoof_CoreGameModeBase.uasset" SILENT=true
+[2019.03.11-19.55.30:670][397]LogSavePackage: Save=16.35ms
+[2019.03.11-19.55.30:670][397]LogSavePackage: Moving 'E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/Saved/MyBoof_CoreGameModeBaseCED0F3894A18574A4A4CF9B0034D07C3.tmp' to 'E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/Content/MyBoof_CoreGameModeBase.uasset'
+[2019.03.11-19.55.30:673][397]LogSavePackage: Display: Finished SavePackage E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/Content/MyBoof_CoreGameModeBase.uasset
+[2019.03.11-19.55.31:380][458]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.11-19.55.31:404][458]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.11-19.55.31:404][458]PIE: New page: PIE session: DevWorld (Mar 11, 2019, 7:55:31 AM)
+[2019.03.11-19.55.31:405][458]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DevWorld
+[2019.03.11-19.55.31:406][458]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001750s)
+[2019.03.11-19.55.31:407][458]LogAIModule: Creating AISystem for world DevWorld
+[2019.03.11-19.55.31:408][458]LogPlayLevel: PIE: World Init took: (0.000896s)
+[2019.03.11-19.55.31:408][458]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DevWorld.DevWorld to /Game/Levels/UEDPIE_0_DevWorld.DevWorld (0.003180s)
+[2019.03.11-19.55.31:440][458]LogInit: XAudio2 using 'Speakers (VB-Audio VoiceMeeter VAIO)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2019.03.11-19.55.31:446][458]LogInit: FAudioDevice initialized.
+[2019.03.11-19.55.31:485][458]LogLoad: Game class is 'MyBoof_CoreGameModeBase_C'
+[2019.03.11-19.55.31:487][458]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DevWorld.DevWorld up for play (max tick rate 0) at 2019.03.11-13.55.31
+[2019.03.11-19.55.31:487][458]LogWorld: Bringing up level for play took: 0.001094
+[2019.03.11-19.55.31:489][458]LogUObjectGlobals: Warning: Class which was marked abstract was trying to be loaded.  It will be nulled out on save. Mesh MeshComponent
+[2019.03.11-19.55.31:490][458]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_DevWorld 0.546
+[2019.03.11-19.55.44:544][674]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-19.55.45:034][688]LogUObjectGlobals: Warning: Class which was marked abstract was trying to be loaded.  It will be nulled out on save. Mesh MeshComponent
+[2019.03.11-19.55.51:028][ 79]LogUObjectGlobals: Warning: Class which was marked abstract was trying to be loaded.  It will be nulled out on save. Mesh MeshComponent
+[2019.03.11-19.56.01:319][720]BlueprintLog: New page: Compile MyBoof_Player
+[2019.03.11-19.56.01:321][720]LogUObjectGlobals: Warning: Class which was marked abstract was trying to be loaded.  It will be nulled out on save. Mesh MeshComponent
+[2019.03.11-19.56.01:321][720]LogUObjectGlobals: Warning: Class which was marked abstract was trying to be loaded.  It will be nulled out on save. Mesh MeshComponent
+[2019.03.11-19.56.01:323][720]LogUObjectGlobals: Warning: Class which was marked abstract was trying to be loaded.  It will be nulled out on save. Mesh MeshComponent
+[2019.03.11-19.56.01:323][720]LogUObjectGlobals: Warning: Class which was marked abstract was trying to be loaded.  It will be nulled out on save. Mesh MeshComponent
+[2019.03.11-19.56.01:354][720]LogUObjectGlobals: Warning: Class which was marked abstract was trying to be loaded.  It will be nulled out on save. Mesh MeshComponent
+[2019.03.11-19.56.01:916][737]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyBoof_Player" FILE="E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/Content/MyBoof_Player.uasset" SILENT=true
+[2019.03.11-19.56.01:939][737]LogSavePackage: Save=14.38ms
+[2019.03.11-19.56.01:939][737]LogSavePackage: Moving 'E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/Saved/MyBoof_PlayerAC716F0248D4589F803917B776FA573F.tmp' to 'E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/Content/MyBoof_Player.uasset'
+[2019.03.11-19.56.01:942][737]LogSavePackage: Display: Finished SavePackage E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/Content/MyBoof_Player.uasset
+[2019.03.11-19.56.03:005][817]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.11-19.56.03:032][817]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.11-19.56.03:032][817]PIE: New page: PIE session: DevWorld (Mar 11, 2019, 7:56:03 AM)
+[2019.03.11-19.56.03:032][817]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DevWorld
+[2019.03.11-19.56.03:034][817]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001699s)
+[2019.03.11-19.56.03:035][817]LogAIModule: Creating AISystem for world DevWorld
+[2019.03.11-19.56.03:036][817]LogPlayLevel: PIE: World Init took: (0.001065s)
+[2019.03.11-19.56.03:036][817]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DevWorld.DevWorld to /Game/Levels/UEDPIE_0_DevWorld.DevWorld (0.003357s)
+[2019.03.11-19.56.03:073][817]LogInit: XAudio2 using 'Speakers (VB-Audio VoiceMeeter VAIO)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2019.03.11-19.56.03:079][817]LogInit: FAudioDevice initialized.
+[2019.03.11-19.56.03:112][817]LogLoad: Game class is 'MyBoof_CoreGameModeBase_C'
+[2019.03.11-19.56.03:113][817]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DevWorld.DevWorld up for play (max tick rate 0) at 2019.03.11-13.56.03
+[2019.03.11-19.56.03:114][817]LogWorld: Bringing up level for play took: 0.000797
+[2019.03.11-19.56.03:114][817]LogUObjectGlobals: Warning: Class which was marked abstract was trying to be loaded.  It will be nulled out on save. Mesh MeshComponent
+[2019.03.11-19.56.03:115][817]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_DevWorld 0.172
+[2019.03.11-19.56.12:731][390]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-19.57.49:764][143]BlueprintLog: New page: Compile MyBoof_Player
+[2019.03.11-19.57.49:766][143]LogUObjectGlobals: Warning: Class which was marked abstract was trying to be loaded.  It will be nulled out on save. Mesh MeshComponent
+[2019.03.11-19.57.49:766][143]LogUObjectGlobals: Warning: Class which was marked abstract was trying to be loaded.  It will be nulled out on save. Mesh MeshComponent
+[2019.03.11-19.57.49:768][143]LogUObjectGlobals: Warning: Class which was marked abstract was trying to be loaded.  It will be nulled out on save. Mesh MeshComponent
+[2019.03.11-19.57.49:768][143]LogUObjectGlobals: Warning: Class which was marked abstract was trying to be loaded.  It will be nulled out on save. Mesh MeshComponent
+[2019.03.11-19.57.49:809][143]LogUObjectGlobals: Warning: Class which was marked abstract was trying to be loaded.  It will be nulled out on save. Mesh MeshComponent
+[2019.03.11-19.57.50:372][167]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyBoof_Player" FILE="E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/Content/MyBoof_Player.uasset" SILENT=true
+[2019.03.11-19.57.50:390][167]LogSavePackage: Save=15.41ms
+[2019.03.11-19.57.50:390][167]LogSavePackage: Moving 'E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/Saved/MyBoof_Player4B969382482D1287559B7E8955113B4E.tmp' to 'E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/Content/MyBoof_Player.uasset'
+[2019.03.11-19.57.50:393][167]LogSavePackage: Display: Finished SavePackage E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/Content/MyBoof_Player.uasset
+[2019.03.11-19.57.52:057][259]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.11-19.57.52:078][259]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.11-19.57.52:078][259]PIE: New page: PIE session: DevWorld (Mar 11, 2019, 7:57:52 AM)
+[2019.03.11-19.57.52:078][259]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DevWorld
+[2019.03.11-19.57.52:080][259]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001719s)
+[2019.03.11-19.57.52:081][259]LogAIModule: Creating AISystem for world DevWorld
+[2019.03.11-19.57.52:081][259]LogPlayLevel: PIE: World Init took: (0.000950s)
+[2019.03.11-19.57.52:082][259]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DevWorld.DevWorld to /Game/Levels/UEDPIE_0_DevWorld.DevWorld (0.003202s)
+[2019.03.11-19.57.52:132][259]LogInit: XAudio2 using 'Speakers (VB-Audio VoiceMeeter VAIO)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2019.03.11-19.57.52:139][259]LogInit: FAudioDevice initialized.
+[2019.03.11-19.57.52:178][259]LogLoad: Game class is 'MyBoof_CoreGameModeBase_C'
+[2019.03.11-19.57.52:179][259]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DevWorld.DevWorld up for play (max tick rate 0) at 2019.03.11-13.57.52
+[2019.03.11-19.57.52:180][259]LogWorld: Bringing up level for play took: 0.000839
+[2019.03.11-19.57.52:181][259]LogUObjectGlobals: Warning: Class which was marked abstract was trying to be loaded.  It will be nulled out on save. Mesh MeshComponent
+[2019.03.11-19.57.52:182][259]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_DevWorld -0.762
+[2019.03.11-19.58.03:163][146]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-19.58.43:771][933]BlueprintLog: New page: Compile MyBoof_Player
+[2019.03.11-19.58.43:773][933]LogUObjectGlobals: Warning: Class which was marked abstract was trying to be loaded.  It will be nulled out on save. Mesh MeshComponent
+[2019.03.11-19.58.43:773][933]LogUObjectGlobals: Warning: Class which was marked abstract was trying to be loaded.  It will be nulled out on save. Mesh MeshComponent
+[2019.03.11-19.58.43:775][933]LogUObjectGlobals: Warning: Class which was marked abstract was trying to be loaded.  It will be nulled out on save. Mesh MeshComponent
+[2019.03.11-19.58.43:775][933]LogUObjectGlobals: Warning: Class which was marked abstract was trying to be loaded.  It will be nulled out on save. Mesh MeshComponent
+[2019.03.11-19.58.43:810][933]LogUObjectGlobals: Warning: Class which was marked abstract was trying to be loaded.  It will be nulled out on save. Mesh MeshComponent
+[2019.03.11-19.58.44:280][950]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyBoof_Player" FILE="E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/Content/MyBoof_Player.uasset" SILENT=true
+[2019.03.11-19.58.44:299][950]LogSavePackage: Save=15.32ms
+[2019.03.11-19.58.44:300][950]LogSavePackage: Moving 'E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/Saved/MyBoof_Player620549BB462FB4BDC3D23FA7B6F242B3.tmp' to 'E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/Content/MyBoof_Player.uasset'
+[2019.03.11-19.58.44:303][950]LogSavePackage: Display: Finished SavePackage E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/Content/MyBoof_Player.uasset
+[2019.03.11-19.58.45:258][ 27]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.11-19.58.45:280][ 27]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.11-19.58.45:280][ 27]PIE: New page: PIE session: DevWorld (Mar 11, 2019, 7:58:45 AM)
+[2019.03.11-19.58.45:280][ 27]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DevWorld
+[2019.03.11-19.58.45:282][ 27]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001787s)
+[2019.03.11-19.58.45:283][ 27]LogAIModule: Creating AISystem for world DevWorld
+[2019.03.11-19.58.45:284][ 27]LogPlayLevel: PIE: World Init took: (0.001179s)
+[2019.03.11-19.58.45:284][ 27]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DevWorld.DevWorld to /Game/Levels/UEDPIE_0_DevWorld.DevWorld (0.003504s)
+[2019.03.11-19.58.45:326][ 27]LogInit: XAudio2 using 'Speakers (VB-Audio VoiceMeeter VAIO)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2019.03.11-19.58.45:332][ 27]LogInit: FAudioDevice initialized.
+[2019.03.11-19.58.45:366][ 27]LogLoad: Game class is 'MyBoof_CoreGameModeBase_C'
+[2019.03.11-19.58.45:367][ 27]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DevWorld.DevWorld up for play (max tick rate 0) at 2019.03.11-13.58.45
+[2019.03.11-19.58.45:368][ 27]LogWorld: Bringing up level for play took: 0.001174
+[2019.03.11-19.58.45:369][ 27]LogUObjectGlobals: Warning: Class which was marked abstract was trying to be loaded.  It will be nulled out on save. Mesh MeshComponent
+[2019.03.11-19.58.45:371][ 27]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_DevWorld 0.427
+[2019.03.11-19.59.03:194][404]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.03.11-19.59.03:527][415]Cmd: EDIT COPY
+[2019.03.11-19.59.03:761][429]Cmd: EDIT PASTE
+[2019.03.11-19.59.15:250][197]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-19.59.30:298][163]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-19.59.39:159][765]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-20.00.34:587][895]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor)
+[2019.03.11-20.00.35:129][934]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.03.11-20.00.35:587][963]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.03.11-20.00.36:184][  4]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.03.11-20.00.36:622][ 33]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor)
+[2019.03.11-20.00.41:792][384]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2019.03.11-20.00.52:420][ 76]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-20.00.52:512][ 82]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.11-20.00.52:535][ 82]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.11-20.00.52:536][ 82]PIE: New page: PIE session: DevWorld (Mar 11, 2019, 8:00:52 AM)
+[2019.03.11-20.00.52:536][ 82]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DevWorld
+[2019.03.11-20.00.52:538][ 82]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002201s)
+[2019.03.11-20.00.52:539][ 82]LogAIModule: Creating AISystem for world DevWorld
+[2019.03.11-20.00.52:540][ 82]LogPlayLevel: PIE: World Init took: (0.001286s)
+[2019.03.11-20.00.52:540][ 82]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DevWorld.DevWorld to /Game/Levels/UEDPIE_0_DevWorld.DevWorld (0.004145s)
+[2019.03.11-20.00.52:575][ 82]LogInit: XAudio2 using 'Speakers (VB-Audio VoiceMeeter VAIO)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2019.03.11-20.00.52:581][ 82]LogInit: FAudioDevice initialized.
+[2019.03.11-20.00.52:613][ 82]LogLoad: Game class is 'MyBoof_CoreGameModeBase_C'
+[2019.03.11-20.00.52:615][ 82]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DevWorld.DevWorld up for play (max tick rate 0) at 2019.03.11-14.00.52
+[2019.03.11-20.00.52:616][ 82]LogWorld: Bringing up level for play took: 0.001363
+[2019.03.11-20.00.52:617][ 82]LogUObjectGlobals: Warning: Class which was marked abstract was trying to be loaded.  It will be nulled out on save. Mesh MeshComponent
+[2019.03.11-20.00.52:618][ 82]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_DevWorld -0.325
+[2019.03.11-20.00.56:598][360]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2019.03.11-20.00.59:097][532]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.03.11-20.01.00:678][635]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.11-20.01.00:744][635]LogSavePackage: Save=26.99ms
+[2019.03.11-20.01.00:745][635]LogSavePackage: Moving 'E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/Saved/DevWorldE59E558049CA4EB9056DBBAE9360D5BA.tmp' to 'E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/Content/Levels/DevWorld.umap'
+[2019.03.11-20.01.00:749][635]LogSavePackage: Display: Finished SavePackage E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/Content/Levels/DevWorld.umap
+[2019.03.11-20.01.00:845][635]LogSavePackage: Save=42.53ms
+[2019.03.11-20.01.00:846][635]LogSavePackage: Moving 'E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/Saved/DevWorld_BuiltData684D3E434E13D8EA3C8A05990B4B4F6E.tmp' to 'E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/Content/Levels/DevWorld_BuiltData.uasset'
+[2019.03.11-20.01.00:848][635]LogSavePackage: Display: Finished SavePackage E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/Content/Levels/DevWorld_BuiltData.uasset
+[2019.03.11-20.02.23:314][997]LogSlate: Window 'MyBoof_Player' being destroyed
+[2019.03.11-20.02.23:318][997]LogSlate: Window 'MyBoof_Player' being destroyed
+[2019.03.11-20.02.23:403][997]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.03.11-20.02.27:846][391]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor)
+[2019.03.11-20.02.31:090][688]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.03.11-20.02.33:740][933]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.11-20.02.33:875][940]LogSavePackage: Save=26.49ms
+[2019.03.11-20.02.33:876][940]LogSavePackage: Moving 'E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/Saved/DevWorld8E4E15264E64A13B94B47E83855EA77B.tmp' to 'E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/Content/Levels/DevWorld.umap'
+[2019.03.11-20.02.33:879][940]LogSavePackage: Display: Finished SavePackage E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/Content/Levels/DevWorld.umap
+[2019.03.11-20.02.33:926][940]LogSavePackage: Save=14.97ms
+[2019.03.11-20.02.33:926][940]LogSavePackage: Moving 'E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/Saved/DevWorld_BuiltData99C943A74D1B77B4440F20858FBCE019.tmp' to 'E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/Content/Levels/DevWorld_BuiltData.uasset'
+[2019.03.11-20.02.33:927][940]LogSavePackage: Display: Finished SavePackage E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/Content/Levels/DevWorld_BuiltData.uasset
+[2019.03.11-20.02.35:902][ 77]Cmd: CLOSE_SLATE_MAINFRAME
+[2019.03.11-20.02.35:996][ 77]LogSlate: Window 'Project Settings' being destroyed
+[2019.03.11-20.02.36:032][ 77]LogSlate: Window 'Boof_Core - Unreal Editor' being destroyed
+[2019.03.11-20.02.36:033][ 77]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.03.11-20.02.36:272][ 78]Cmd: QUIT_EDITOR
+[2019.03.11-20.02.36:770][ 78]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.03.11-20.02.36:770][ 78]LogExit: Preparing to exit.
+[2019.03.11-20.02.37:732][ 78]LogExit: Editor shut down
+[2019.03.11-20.02.37:736][ 78]LogExit: Transaction tracking system shut down
+[2019.03.11-20.02.37:747][ 78]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f640bec9b8, Size=4
+[2019.03.11-20.02.37:747][ 78]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f640bec9b0, Size=4
+[2019.03.11-20.02.37:952][ 78]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2019.03.11-20.02.37:953][ 78]LogDirectoryWatcher: A directory notification for 'E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/Content/' was aborted.
+[2019.03.11-20.02.37:953][ 78]LogDirectoryWatcher: A directory notification for '../../Plugins/2D/Paper2D/Content/' was aborted.
+[2019.03.11-20.02.37:953][ 78]LogDirectoryWatcher: A directory notification for '../../Plugins/Enterprise/DatasmithContent/Content/' was aborted.
+[2019.03.11-20.02.37:953][ 78]LogDirectoryWatcher: A directory notification for '../../Plugins/Media/MediaCompositing/Content/' was aborted.
+[2019.03.11-20.02.37:953][ 78]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2019.03.11-20.02.37:953][ 78]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2019.03.11-20.02.37:953][ 78]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2019.03.11-20.02.38:107][ 78]LogExit: Object subsystem successfully closed.
+[2019.03.11-20.02.38:177][ 78]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.03.11-20.02.38:181][ 78]LogD3D11RHI: Shutdown
+[2019.03.11-20.02.38:181][ 78]LogD3D11RHI: CleanupD3DDevice
+[2019.03.11-20.02.38:184][ 78]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.03.11-20.02.38:209][ 78]LogModuleManager: Shutting down and abandoning module Boof_Core (580)
+[2019.03.11-20.02.38:209][ 78]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (578)
+[2019.03.11-20.02.38:209][ 78]LogModuleManager: Shutting down and abandoning module BlueprintGraph (576)
+[2019.03.11-20.02.38:209][ 78]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (573)
+[2019.03.11-20.02.38:209][ 78]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (570)
+[2019.03.11-20.02.38:209][ 78]LogModuleManager: Shutting down and abandoning module DesktopPlatform (568)
+[2019.03.11-20.02.38:209][ 78]LogModuleManager: Shutting down and abandoning module SceneOutliner (566)
+[2019.03.11-20.02.38:209][ 78]LogModuleManager: Shutting down and abandoning module AddContentDialog (564)
+[2019.03.11-20.02.38:210][ 78]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UnrealEngine-FleX-4.19.2/FeaturePacks/' was aborted.
+[2019.03.11-20.02.38:217][ 78]LogModuleManager: Shutting down and abandoning module WidgetCarousel (563)
+[2019.03.11-20.02.38:217][ 78]LogModuleManager: Shutting down and abandoning module EditorWidgets (560)
+[2019.03.11-20.02.38:217][ 78]LogModuleManager: Shutting down and abandoning module CollectionManager (558)
+[2019.03.11-20.02.38:218][ 78]LogDirectoryWatcher: A directory notification for 'E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/Content/Collections/' was aborted.
+[2019.03.11-20.02.38:218][ 78]LogDirectoryWatcher: A directory notification for 'E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/Content/Developers/Dominic/Collections/' was aborted.
+[2019.03.11-20.02.38:218][ 78]LogDirectoryWatcher: A directory notification for 'E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/Saved/Collections/' was aborted.
+[2019.03.11-20.02.38:218][ 78]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (556)
+[2019.03.11-20.02.38:218][ 78]LogModuleManager: Shutting down and abandoning module StatsViewer (554)
+[2019.03.11-20.02.38:218][ 78]LogModuleManager: Shutting down and abandoning module FoliageEdit (552)
+[2019.03.11-20.02.38:218][ 78]LogModuleManager: Shutting down and abandoning module LandscapeEditor (550)
+[2019.03.11-20.02.38:218][ 78]LogModuleManager: Shutting down and abandoning module MeshPaintMode (548)
+[2019.03.11-20.02.38:218][ 78]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (546)
+[2019.03.11-20.02.38:218][ 78]LogModuleManager: Shutting down and abandoning module ActorPickerMode (544)
+[2019.03.11-20.02.38:218][ 78]LogModuleManager: Shutting down and abandoning module GeometryMode (542)
+[2019.03.11-20.02.38:218][ 78]LogModuleManager: Shutting down and abandoning module TextureAlignMode (540)
+[2019.03.11-20.02.38:218][ 78]LogModuleManager: Shutting down and abandoning module BspMode (538)
+[2019.03.11-20.02.38:218][ 78]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (536)
+[2019.03.11-20.02.38:218][ 78]LogModuleManager: Shutting down and abandoning module HardwareSurvey (534)
+[2019.03.11-20.02.38:218][ 78]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (532)
+[2019.03.11-20.02.38:219][ 78]LogModuleManager: Shutting down and abandoning module AutomationWorker (530)
+[2019.03.11-20.02.38:219][ 78]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (528)
+[2019.03.11-20.02.38:219][ 78]LogModuleManager: Shutting down and abandoning module SequenceRecorder (527)
+[2019.03.11-20.02.38:219][ 78]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (524)
+[2019.03.11-20.02.38:219][ 78]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (522)
+[2019.03.11-20.02.38:219][ 78]LogModuleManager: Shutting down and abandoning module PlacementMode (521)
+[2019.03.11-20.02.38:219][ 78]LogModuleManager: Shutting down and abandoning module MaterialEditor (520)
+[2019.03.11-20.02.38:221][ 78]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (516)
+[2019.03.11-20.02.38:221][ 78]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (514)
+[2019.03.11-20.02.38:221][ 78]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (512)
+[2019.03.11-20.02.38:221][ 78]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (510)
+[2019.03.11-20.02.38:221][ 78]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (508)
+[2019.03.11-20.02.38:221][ 78]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (506)
+[2019.03.11-20.02.38:221][ 78]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (504)
+[2019.03.11-20.02.38:221][ 78]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (502)
+[2019.03.11-20.02.38:221][ 78]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (500)
+[2019.03.11-20.02.38:221][ 78]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (498)
+[2019.03.11-20.02.38:221][ 78]LogModuleManager: Shutting down and abandoning module CharacterAI (496)
+[2019.03.11-20.02.38:221][ 78]LogModuleManager: Shutting down and abandoning module SmartSnapping (494)
+[2019.03.11-20.02.38:221][ 78]LogModuleManager: Shutting down and abandoning module SessionServices (492)
+[2019.03.11-20.02.38:221][ 78]LogModuleManager: Shutting down and abandoning module ViewportSnapping (490)
+[2019.03.11-20.02.38:221][ 78]LogModuleManager: Shutting down and abandoning module ViewportInteraction (488)
+[2019.03.11-20.02.38:222][ 78]LogModuleManager: Shutting down and abandoning module ClothPainter (486)
+[2019.03.11-20.02.38:222][ 78]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (485)
+[2019.03.11-20.02.38:222][ 78]LogModuleManager: Shutting down and abandoning module LogVisualizer (482)
+[2019.03.11-20.02.38:222][ 78]LogModuleManager: Shutting down and abandoning module IntroTutorials (480)
+[2019.03.11-20.02.38:222][ 78]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (479)
+[2019.03.11-20.02.38:222][ 78]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (476)
+[2019.03.11-20.02.38:222][ 78]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (474)
+[2019.03.11-20.02.38:222][ 78]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (472)
+[2019.03.11-20.02.38:222][ 78]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (471)
+[2019.03.11-20.02.38:717][ 78]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (468)
+[2019.03.11-20.02.38:717][ 78]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (466)
+[2019.03.11-20.02.38:717][ 78]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (464)
+[2019.03.11-20.02.38:717][ 78]LogModuleManager: Shutting down and abandoning module InputBindingEditor (462)
+[2019.03.11-20.02.38:717][ 78]LogModuleManager: Shutting down and abandoning module MergeActors (460)
+[2019.03.11-20.02.38:720][ 78]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (458)
+[2019.03.11-20.02.38:721][ 78]LogModuleManager: Shutting down and abandoning module LocalizationService (457)
+[2019.03.11-20.02.38:721][ 78]LogModuleManager: Shutting down and abandoning module HardwareTargeting (454)
+[2019.03.11-20.02.38:721][ 78]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (452)
+[2019.03.11-20.02.38:721][ 78]LogModuleManager: Shutting down and abandoning module UndoHistory (450)
+[2019.03.11-20.02.38:721][ 78]LogModuleManager: Shutting down and abandoning module XmlParser (448)
+[2019.03.11-20.02.38:721][ 78]LogModuleManager: Shutting down and abandoning module Blutility (446)
+[2019.03.11-20.02.38:721][ 78]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (444)
+[2019.03.11-20.02.38:721][ 78]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (443)
+[2019.03.11-20.02.38:721][ 78]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (440)
+[2019.03.11-20.02.38:721][ 78]LogModuleManager: Shutting down and abandoning module SettingsEditor (438)
+[2019.03.11-20.02.38:721][ 78]LogModuleManager: Shutting down and abandoning module ProjectLauncher (436)
+[2019.03.11-20.02.38:722][ 78]LogModuleManager: Shutting down and abandoning module SessionFrontend (434)
+[2019.03.11-20.02.38:722][ 78]LogModuleManager: Shutting down and abandoning module ProfilerClient (432)
+[2019.03.11-20.02.38:722][ 78]LogModuleManager: Shutting down and abandoning module DeviceManager (430)
+[2019.03.11-20.02.38:722][ 78]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (429)
+[2019.03.11-20.02.38:775][ 78]LogModuleManager: Shutting down and abandoning module AutomationController (426)
+[2019.03.11-20.02.38:775][ 78]LogModuleManager: Shutting down and abandoning module AutomationWindow (424)
+[2019.03.11-20.02.38:775][ 78]LogModuleManager: Shutting down and abandoning module Layers (422)
+[2019.03.11-20.02.38:776][ 78]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (420)
+[2019.03.11-20.02.38:776][ 78]LogModuleManager: Shutting down and abandoning module DetailCustomizations (418)
+[2019.03.11-20.02.38:776][ 78]LogModuleManager: Shutting down and abandoning module PackagesDialog (416)
+[2019.03.11-20.02.38:777][ 78]LogModuleManager: Shutting down and abandoning module Persona (414)
+[2019.03.11-20.02.38:777][ 78]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (413)
+[2019.03.11-20.02.38:777][ 78]LogModuleManager: Shutting down and abandoning module AnimGraph (411)
+[2019.03.11-20.02.38:777][ 78]LogModuleManager: Shutting down and abandoning module Kismet (408)
+[2019.03.11-20.02.38:784][ 78]LogModuleManager: Shutting down and abandoning module GraphEditor (406)
+[2019.03.11-20.02.38:784][ 78]LogModuleManager: Shutting down and abandoning module ClassViewer (404)
+[2019.03.11-20.02.38:785][ 78]LogModuleManager: Shutting down and abandoning module Toolbox (402)
+[2019.03.11-20.02.38:785][ 78]LogModuleManager: Shutting down and abandoning module ModuleUI (400)
+[2019.03.11-20.02.38:786][ 78]LogModuleManager: Shutting down and abandoning module MovieSceneTools (398)
+[2019.03.11-20.02.38:786][ 78]LogModuleManager: Shutting down and abandoning module OutputLog (396)
+[2019.03.11-20.02.38:786][ 78]LogModuleManager: Shutting down and abandoning module GammaUI (394)
+[2019.03.11-20.02.38:786][ 78]LogModuleManager: Shutting down and abandoning module Documentation (392)
+[2019.03.11-20.02.38:786][ 78]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (390)
+[2019.03.11-20.02.38:786][ 78]LogModuleManager: Shutting down and abandoning module MovieScene (388)
+[2019.03.11-20.02.38:786][ 78]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (386)
+[2019.03.11-20.02.38:786][ 78]LogModuleManager: Shutting down and abandoning module LauncherPlatform (384)
+[2019.03.11-20.02.38:786][ 78]LogModuleManager: Shutting down and abandoning module AnalyticsET (382)
+[2019.03.11-20.02.38:786][ 78]LogModuleManager: Shutting down and abandoning module PortalServices (380)
+[2019.03.11-20.02.38:786][ 78]LogModuleManager: Shutting down and abandoning module PortalRpc (378)
+[2019.03.11-20.02.38:786][ 78]LogModuleManager: Shutting down and abandoning module MessagingRpc (376)
+[2019.03.11-20.02.38:786][ 78]LogModuleManager: Shutting down and abandoning module AIModule (374)
+[2019.03.11-20.02.38:787][ 78]LogModuleManager: Shutting down and abandoning module GameplayDebugger (373)
+[2019.03.11-20.02.38:787][ 78]LogModuleManager: Shutting down and abandoning module AITestSuite (371)
+[2019.03.11-20.02.38:787][ 78]LogModuleManager: Shutting down and abandoning module ProfilerService (368)
+[2019.03.11-20.02.39:019][ 78]LogModuleManager: Shutting down and abandoning module TaskGraph (366)
+[2019.03.11-20.02.39:019][ 78]LogModuleManager: Shutting down and abandoning module SteamVRController (364)
+[2019.03.11-20.02.39:019][ 78]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (362)
+[2019.03.11-20.02.39:019][ 78]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (360)
+[2019.03.11-20.02.39:019][ 78]LogModuleManager: Shutting down and abandoning module OculusInput (358)
+[2019.03.11-20.02.39:019][ 78]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (356)
+[2019.03.11-20.02.39:019][ 78]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (354)
+[2019.03.11-20.02.39:020][ 78]LogModuleManager: Shutting down and abandoning module CableComponent (352)
+[2019.03.11-20.02.39:020][ 78]LogModuleManager: Shutting down and abandoning module AudioCapture (350)
+[2019.03.11-20.02.39:020][ 78]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (348)
+[2019.03.11-20.02.39:020][ 78]LogModuleManager: Shutting down and abandoning module AndroidPermission (346)
+[2019.03.11-20.02.39:020][ 78]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (342)
+[2019.03.11-20.02.39:020][ 78]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (340)
+[2019.03.11-20.02.39:020][ 78]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (338)
+[2019.03.11-20.02.39:020][ 78]LogModuleManager: Shutting down and abandoning module MediaCompositing (336)
+[2019.03.11-20.02.39:020][ 78]LogModuleManager: Shutting down and abandoning module LinearTimecode (334)
+[2019.03.11-20.02.39:020][ 78]LogModuleManager: Shutting down and abandoning module ImgMedia (332)
+[2019.03.11-20.02.39:023][ 78]LogModuleManager: Shutting down and abandoning module FlexEditor (330)
+[2019.03.11-20.02.39:023][ 78]LogModuleManager: Shutting down and abandoning module HTML5Networking (328)
+[2019.03.11-20.02.39:023][ 78]LogModuleManager: Shutting down and abandoning module AlembicImporter (326)
+[2019.03.11-20.02.39:023][ 78]LogModuleManager: Shutting down and abandoning module AlembicLibrary (325)
+[2019.03.11-20.02.39:023][ 78]LogModuleManager: Shutting down and abandoning module GeometryCache (324)
+[2019.03.11-20.02.39:023][ 78]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (323)
+[2019.03.11-20.02.39:023][ 78]LogModuleManager: Shutting down and abandoning module DatasmithContent (318)
+[2019.03.11-20.02.39:023][ 78]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (316)
+[2019.03.11-20.02.39:023][ 78]LogModuleManager: Shutting down and abandoning module PluginBrowser (314)
+[2019.03.11-20.02.39:023][ 78]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (312)
+[2019.03.11-20.02.39:023][ 78]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (310)
+[2019.03.11-20.02.39:023][ 78]LogModuleManager: Shutting down and abandoning module CryptoKeys (308)
+[2019.03.11-20.02.39:023][ 78]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (306)
+[2019.03.11-20.02.39:023][ 78]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (304)
+[2019.03.11-20.02.39:023][ 78]LogModuleManager: Shutting down and abandoning module UObjectPlugin (302)
+[2019.03.11-20.02.39:024][ 78]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (300)
+[2019.03.11-20.02.39:024][ 78]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (298)
+[2019.03.11-20.02.39:024][ 78]LogModuleManager: Shutting down and abandoning module GitSourceControl (296)
+[2019.03.11-20.02.39:024][ 78]LogModuleManager: Shutting down and abandoning module SourceControl (295)
+[2019.03.11-20.02.39:024][ 78]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (292)
+[2019.03.11-20.02.39:024][ 78]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (290)
+[2019.03.11-20.02.39:024][ 78]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (288)
+[2019.03.11-20.02.39:024][ 78]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (286)
+[2019.03.11-20.02.39:024][ 78]LogModuleManager: Shutting down and abandoning module Paper2DEditor (284)
+[2019.03.11-20.02.39:024][ 78]LogModuleManager: Shutting down and abandoning module MeshPaint (283)
+[2019.03.11-20.02.39:024][ 78]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (278)
+[2019.03.11-20.02.39:024][ 78]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (276)
+[2019.03.11-20.02.39:024][ 78]LogModuleManager: Shutting down and abandoning module PhysXVehicles (274)
+[2019.03.11-20.02.39:024][ 78]LogModuleManager: Shutting down and abandoning module OculusEditor (272)
+[2019.03.11-20.02.39:024][ 78]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (270)
+[2019.03.11-20.02.39:024][ 78]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (268)
+[2019.03.11-20.02.39:024][ 78]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (266)
+[2019.03.11-20.02.39:024][ 78]LogModuleManager: Shutting down and abandoning module ActorSequence (264)
+[2019.03.11-20.02.39:024][ 78]LogModuleManager: Shutting down and abandoning module UdpMessaging (262)
+[2019.03.11-20.02.39:125][ 78]LogModuleManager: Shutting down and abandoning module TcpMessaging (260)
+[2019.03.11-20.02.39:226][ 78]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (258)
+[2019.03.11-20.02.39:226][ 78]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (256)
+[2019.03.11-20.02.39:226][ 78]LogModuleManager: Shutting down and abandoning module FacialAnimation (254)
+[2019.03.11-20.02.39:226][ 78]LogModuleManager: Shutting down and abandoning module DataValidation (252)
+[2019.03.11-20.02.39:226][ 78]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (250)
+[2019.03.11-20.02.39:226][ 78]LogModuleManager: Shutting down and abandoning module LevelEditor (249)
+[2019.03.11-20.02.39:227][ 78]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (248)
+[2019.03.11-20.02.39:227][ 78]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (246)
+[2019.03.11-20.02.39:227][ 78]LogModuleManager: Shutting down and abandoning module MainFrame (244)
+[2019.03.11-20.02.39:227][ 78]LogModuleManager: Shutting down and abandoning module HotReload (243)
+[2019.03.11-20.02.39:227][ 78]LogDirectoryWatcher: A directory notification for 'E:/Deckard/Game Development/BoofStudios/CoreSystem/BoofStudios_BaseSystem/Boof_Core/Binaries/Win64' was aborted.
+[2019.03.11-20.02.39:228][ 78]LogModuleManager: Shutting down and abandoning module ContentBrowser (239)
+[2019.03.11-20.02.39:229][ 78]LogModuleManager: Shutting down and abandoning module TreeMap (237)
+[2019.03.11-20.02.39:229][ 78]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (234)
+[2019.03.11-20.02.39:229][ 78]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (232)
+[2019.03.11-20.02.39:229][ 78]LogModuleManager: Shutting down and abandoning module LiveLink (230)
+[2019.03.11-20.02.39:995][ 78]LogModuleManager: Shutting down and abandoning module Paper2D (228)
+[2019.03.11-20.02.39:996][ 78]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (226)
+[2019.03.11-20.02.39:996][ 78]LogModuleManager: Shutting down and abandoning module WmfMedia (224)
+[2019.03.11-20.02.39:998][ 78]LogModuleManager: Shutting down and abandoning module Media (223)
+[2019.03.11-20.02.40:004][ 78]LogModuleManager: Shutting down and abandoning module PacketHandler (220)
+[2019.03.11-20.02.40:004][ 78]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (218)
+[2019.03.11-20.02.40:004][ 78]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (216)
+[2019.03.11-20.02.40:005][ 78]LogModuleManager: Shutting down and abandoning module MediaAssets (214)
+[2019.03.11-20.02.40:005][ 78]LogModuleManager: Shutting down and abandoning module Overlay (212)
+[2019.03.11-20.02.40:005][ 78]LogModuleManager: Shutting down and abandoning module OverlayEditor (211)
+[2019.03.11-20.02.40:005][ 78]LogModuleManager: Shutting down and abandoning module VREditor (208)
+[2019.03.11-20.02.40:005][ 78]LogModuleManager: Shutting down and abandoning module StringTableEditor (206)
+[2019.03.11-20.02.40:006][ 78]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (204)
+[2019.03.11-20.02.40:006][ 78]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (202)
+[2019.03.11-20.02.40:006][ 78]LogModuleManager: Shutting down and abandoning module FunctionalTesting (200)
+[2019.03.11-20.02.40:006][ 78]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (198)
+[2019.03.11-20.02.40:006][ 78]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (197)
+[2019.03.11-20.02.40:006][ 78]LogModuleManager: Shutting down and abandoning module UMG (194)
+[2019.03.11-20.02.40:007][ 78]LogModuleManager: Shutting down and abandoning module UMGEditor (193)
+[2019.03.11-20.02.40:008][ 78]LogModuleManager: Shutting down and abandoning module Sequencer (192)
+[2019.03.11-20.02.40:009][ 78]LogModuleManager: Shutting down and abandoning module MessageLog (189)
+[2019.03.11-20.02.40:009][ 78]LogModuleManager: Shutting down and abandoning module SlateReflector (184)
+[2019.03.11-20.02.40:010][ 78]LogModuleManager: Shutting down and abandoning module Slate (182)
+[2019.03.11-20.02.40:010][ 78]LogModuleManager: Shutting down and abandoning module EditorStyle (180)
+[2019.03.11-20.02.40:013][ 78]LogModuleManager: Shutting down and abandoning module MRMesh (178)
+[2019.03.11-20.02.40:013][ 78]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (176)
+[2019.03.11-20.02.40:013][ 78]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (174)
+[2019.03.11-20.02.40:013][ 78]LogModuleManager: Shutting down and abandoning module XAudio2 (172)
+[2019.03.11-20.02.40:013][ 78]LogModuleManager: Shutting down and abandoning module Networking (170)
+[2019.03.11-20.02.40:013][ 78]LogModuleManager: Shutting down and abandoning module Core (168)
+[2019.03.11-20.02.40:013][ 78]LogModuleManager: Shutting down and abandoning module LevelSequence (166)
+[2019.03.11-20.02.40:013][ 78]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2019.03.11-20.02.40:013][ 78]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2019.03.11-20.02.40:013][ 78]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2019.03.11-20.02.40:013][ 78]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2019.03.11-20.02.40:013][ 78]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (159)
+[2019.03.11-20.02.40:013][ 78]LogModuleManager: Shutting down and abandoning module MaterialBaking (155)
+[2019.03.11-20.02.40:013][ 78]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (151)
+[2019.03.11-20.02.40:014][ 78]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2019.03.11-20.02.40:023][ 78]LogDerivedDataCache: Shutdown
+[2019.03.11-20.02.40:023][ 78]LogModuleManager: Shutting down and abandoning module XGEController (146)
+[2019.03.11-20.02.40:023][ 78]LogXGEController: Cleaning working directory: C:/Users/mesht/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.03.11-20.02.40:023][ 78]LogModuleManager: Shutting down and abandoning module TargetPlatform (144)
+[2019.03.11-20.02.40:023][ 78]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (143)
+[2019.03.11-20.02.40:023][ 78]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (141)
+[2019.03.11-20.02.40:023][ 78]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (139)
+[2019.03.11-20.02.40:024][ 78]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (137)
+[2019.03.11-20.02.40:024][ 78]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (135)
+[2019.03.11-20.02.40:024][ 78]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (133)
+[2019.03.11-20.02.40:024][ 78]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (131)
+[2019.03.11-20.02.40:024][ 78]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (129)
+[2019.03.11-20.02.40:024][ 78]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (127)
+[2019.03.11-20.02.40:024][ 78]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (125)
+[2019.03.11-20.02.40:024][ 78]LogModuleManager: Shutting down and abandoning module ImageWrapper (124)
+[2019.03.11-20.02.40:024][ 78]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (121)
+[2019.03.11-20.02.40:024][ 78]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (119)
+[2019.03.11-20.02.40:024][ 78]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (117)
+[2019.03.11-20.02.40:024][ 78]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (115)
+[2019.03.11-20.02.40:024][ 78]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (113)
+[2019.03.11-20.02.40:024][ 78]LogModuleManager: Shutting down and abandoning module Messaging (111)
+[2019.03.11-20.02.40:025][ 78]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (109)
+[2019.03.11-20.02.40:025][ 78]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (107)
+[2019.03.11-20.02.40:025][ 78]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (105)
+[2019.03.11-20.02.40:025][ 78]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (103)
+[2019.03.11-20.02.40:025][ 78]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (101)
+[2019.03.11-20.02.40:025][ 78]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (99)
+[2019.03.11-20.02.40:025][ 78]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (97)
+[2019.03.11-20.02.40:025][ 78]LogModuleManager: Shutting down and abandoning module Android_ETC1aTargetPlatform (95)
+[2019.03.11-20.02.40:025][ 78]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (93)
+[2019.03.11-20.02.40:025][ 78]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (91)
+[2019.03.11-20.02.40:025][ 78]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (89)
+[2019.03.11-20.02.40:025][ 78]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (87)
+[2019.03.11-20.02.40:025][ 78]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (85)
+[2019.03.11-20.02.40:025][ 78]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (83)
+[2019.03.11-20.02.40:025][ 78]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (81)
+[2019.03.11-20.02.40:025][ 78]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (79)
+[2019.03.11-20.02.40:025][ 78]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (77)
+[2019.03.11-20.02.40:025][ 78]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (75)
+[2019.03.11-20.02.40:025][ 78]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (73)
+[2019.03.11-20.02.40:025][ 78]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (71)
+[2019.03.11-20.02.40:025][ 78]LogModuleManager: Shutting down and abandoning module InputCore (68)
+[2019.03.11-20.02.40:025][ 78]LogModuleManager: Shutting down and abandoning module Settings (66)
+[2019.03.11-20.02.40:025][ 78]LogModuleManager: Shutting down and abandoning module PhysXCooking (64)
+[2019.03.11-20.02.40:025][ 78]LogModuleManager: Shutting down and abandoning module SteamVR (62)
+[2019.03.11-20.02.40:025][ 78]LogModuleManager: Shutting down and abandoning module OculusHMD (60)
+[2019.03.11-20.02.40:025][ 78]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (58)
+[2019.03.11-20.02.40:025][ 78]LogModuleManager: Shutting down and abandoning module AppleARKit (56)
+[2019.03.11-20.02.40:025][ 78]LogModuleManager: Shutting down and abandoning module AugmentedReality (53)
+[2019.03.11-20.02.40:025][ 78]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (50)
+[2019.03.11-20.02.40:025][ 78]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (46)
+[2019.03.11-20.02.40:025][ 78]LogModuleManager: Shutting down and abandoning module XMPP (45)
+[2019.03.11-20.02.40:026][ 78]LogModuleManager: Shutting down and abandoning module HTTP (43)
+[2019.03.11-20.02.40:026][ 78]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.03.11-20.02.40:026][ 78]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB3999B37-47DE-DB4C-CADF-28B1DD1A6F5D%7D&AppID=UEEditor.UnrealEngine.Release&AppVersion=4.19.2-0%2B%2B%2BUE4%2BRelease-4.19&UserID=3ed4cd184c79817fa41750a5749f3d64%7C9a7113778c324a5ebfbe2ee726f02543%7C220484ee-82e4-4c5b-bfac-464309ddc758&AppEnvironment=datacollector-source&UploadType=eteventstream] status=Processing
+[2019.03.11-20.02.40:043][ 78]LogModuleManager: Shutting down and abandoning module SSL (42)
+[2019.03.11-20.02.40:045][ 78]LogModuleManager: Shutting down and abandoning module Flex (38)
+[2019.03.11-20.02.40:045][ 78]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.03.11-20.02.40:045][ 78]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.03.11-20.02.40:045][ 78]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.03.11-20.02.40:046][ 78]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.03.11-20.02.40:046][ 78]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.03.11-20.02.40:046][ 78]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.03.11-20.02.40:046][ 78]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.03.11-20.02.40:047][ 78]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.03.11-20.02.40:048][ 78]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.03.11-20.02.40:048][ 78]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.03.11-20.02.40:048][ 78]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.03.11-20.02.40:048][ 78]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.03.11-20.02.40:048][ 78]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.03.11-20.02.40:048][ 78]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.03.11-20.02.40:048][ 78]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.03.11-20.02.40:048][ 78]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.03.11-20.02.40:048][ 78]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.03.11-20.02.40:048][ 78]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.03.11-20.02.40:070][ 78]LogExit: Exiting.
+[2019.03.11-20.02.40:089][ 78]Log file closed, 03/11/19 14:02:40
