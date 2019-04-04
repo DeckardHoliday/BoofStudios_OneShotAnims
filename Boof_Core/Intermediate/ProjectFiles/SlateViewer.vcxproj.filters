@@ -1,41 +1,41 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 
-<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
 	<ItemGroup>
 		<None Include="C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Source\Programs\SlateViewer\SlateViewer.Target.cs" />
 		<None Include="C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Source\Programs\SlateViewer\SlateViewer.Build.cs" />
 		<Filter Include="Private">
-			<UniqueIdentifier>{5D7C2C55-CD6C-413D-AACA-30EE1BDEEE2D}</UniqueIdentifier>
+			<UniqueIdentifier>{2CFAA642-B350-41A2-986A-F4664B30EC4D}</UniqueIdentifier>
 		</Filter>
 		<ClCompile Include="C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Source\Programs\SlateViewer\Private\SlateViewerApp.cpp">
 			<Filter>Private</Filter>
 		</ClCompile >
 		<Filter Include="Private\IOS">
-			<UniqueIdentifier>{36EF3CA9-2477-47B1-A009-DE045D11C879}</UniqueIdentifier>
+			<UniqueIdentifier>{0D6122FD-AD49-4A78-ADFE-A7AAC8DF1CB7}</UniqueIdentifier>
 		</Filter>
 		<ClCompile Include="C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Source\Programs\SlateViewer\Private\IOS\IOSSlateViewerMain.cpp">
 			<Filter>Private\IOS</Filter>
 		</ClCompile >
 		<Filter Include="Private\Linux">
-			<UniqueIdentifier>{93BE9E9B-871B-4257-8D13-63ACA910BE26}</UniqueIdentifier>
+			<UniqueIdentifier>{FCCBE90C-3E4D-4E1F-B8A0-A0F944BBC4B4}</UniqueIdentifier>
 		</Filter>
 		<ClCompile Include="C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Source\Programs\SlateViewer\Private\Linux\SlateViewerMainLinux.cpp">
 			<Filter>Private\Linux</Filter>
 		</ClCompile >
 		<Filter Include="Private\Mac">
-			<UniqueIdentifier>{723CAB15-2C65-4EC1-A813-6205CD87B85A}</UniqueIdentifier>
+			<UniqueIdentifier>{842BC496-7DDF-41C8-84A8-F382A007FBD3}</UniqueIdentifier>
 		</Filter>
 		<ClCompile Include="C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Source\Programs\SlateViewer\Private\Mac\SlateViewerMainMac.cpp">
 			<Filter>Private\Mac</Filter>
 		</ClCompile >
 		<Filter Include="Private\Windows">
-			<UniqueIdentifier>{85EFB516-9C3C-4BDA-AE42-4C28E9E450D9}</UniqueIdentifier>
+			<UniqueIdentifier>{5811CE02-A7D7-494E-8CB8-41A97E0461CD}</UniqueIdentifier>
 		</Filter>
 		<ClCompile Include="C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Source\Programs\SlateViewer\Private\Windows\SlateViewerMainWindows.cpp">
 			<Filter>Private\Windows</Filter>
 		</ClCompile >
 		<Filter Include="Public">
-			<UniqueIdentifier>{D9052284-12B2-4027-BDAA-7AA0E48AD345}</UniqueIdentifier>
+			<UniqueIdentifier>{62358156-68FA-436B-A527-41801507F2CA}</UniqueIdentifier>
 		</Filter>
 		<ClInclude Include="C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Source\Programs\SlateViewer\Public\SlateViewer.h">
 			<Filter>Public</Filter>
@@ -44,10 +44,10 @@
 			<Filter>Public</Filter>
 		</ClInclude >
 		<Filter Include="Resources">
-			<UniqueIdentifier>{42092CF0-8344-4B8E-9836-AA5888564BE6}</UniqueIdentifier>
+			<UniqueIdentifier>{6AEF9E70-A06A-4EB3-BCA3-FAF3C943AB22}</UniqueIdentifier>
 		</Filter>
 		<Filter Include="Resources\Windows">
-			<UniqueIdentifier>{EF803C97-BCC4-4203-ABD3-05840E6CA4A4}</UniqueIdentifier>
+			<UniqueIdentifier>{8846FA16-4B4B-4419-8787-99C0F0317AE2}</UniqueIdentifier>
 		</Filter>
 		<Manifest Include="C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Source\Programs\SlateViewer\Resources\Windows\Debug-PCLaunch-Win32.manifest">
 			<Filter>Resources\Windows</Filter>

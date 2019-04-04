@@ -1,0 +1,1596 @@
+﻿Log file open, 04/02/19 20:23:21
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Boof_Core
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-173690183) SRandInit(-173690183).
+LogInit: Read version file with build ID '035a21d3-778b-459c-9944-5da3312e507a'
+LogInit: Registered custom module enumerator with build ID '035a21d3-778b-459c-9944-5da3312e507a'
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.580086
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin Flex
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/GameWorks/Flex/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/GameWorks/Flex/Shaders to virtual directory /Plugin/Flex
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.230s to configure plugins.
+LogModuleManager: Display: Found up-to-date module file F:/Game Development/BoofStudios/BoofStudios_OneShotAnims/Boof_Core/Binaries/Win64/UE4Editor-Boof_Core.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/GameWorks/Flex/Binaries/Win64/UE4Editor-Flex.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/GameWorks/Flex/Binaries/Win64/UE4Editor-FlexEditor.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 0).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am Nic-Workstation (10.0.0.215:0)
+LogInit: Build: ++UE4+Release-4.19-CL-0
+LogInit: Engine Version: 4.19.2-0+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-0+++UE4+Release-4.19
+LogInit: Net CL: 0
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Mar 17 2019 18:23:50
+LogInit: Compiled with Visual C++: 19.16.27027.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UnrealEngine-FleX-4.19.2/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 0
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.04.03-02.23.24:587][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.03-02.23.24:587][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.04.03-02.23.24:628][  0]LogInit: Computer: NIC-WORKSTATION
+[2019.04.03-02.23.24:628][  0]LogInit: User: Dominic
+[2019.04.03-02.23.24:628][  0]LogInit: CPU Page size=4096, Cores=8
+[2019.04.03-02.23.24:628][  0]LogInit: High frequency timer resolution =3.320317 MHz
+[2019.04.03-02.23.24:629][  0]LogMemory: Memory total: Physical=32.0GB (32GB approx)
+[2019.04.03-02.23.24:629][  0]LogMemory: Platform Memory Stats for Windows
+[2019.04.03-02.23.24:629][  0]LogMemory: Process Physical Memory: 276.22 MB used, 276.22 MB peak
+[2019.04.03-02.23.24:629][  0]LogMemory: Process Virtual Memory: 279.24 MB used, 279.24 MB peak
+[2019.04.03-02.23.24:629][  0]LogMemory: Physical Memory: 8346.09 MB used,  24374.16 MB free, 32720.25 MB total
+[2019.04.03-02.23.24:629][  0]LogMemory: Virtual Memory: 4828.05 MB used,  24374.16 MB free, 134217728.00 MB total
+[2019.04.03-02.23.24:654][  0]LogInit: Using OS detected language (en-US).
+[2019.04.03-02.23.24:654][  0]LogInit: Using OS detected locale (en-US).
+[2019.04.03-02.23.24:659][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.04.03-02.23.25:256][  0]LogStreaming: Display: Took  0.603s to EndInitTextLocalization.
+[2019.04.03-02.23.25:256][  0]LogInit: Setting process to per monitor DPI aware
+[2019.04.03-02.23.25:322][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.04.03-02.23.25:322][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.04.03-02.23.25:561][  0]LogD3D11RHI: D3D11 adapters:
+[2019.04.03-02.23.25:631][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 780 Ti' (Feature Level 11_0)
+[2019.04.03-02.23.25:631][  0]LogD3D11RHI:       3029/0/16360 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.04.03-02.23.25:634][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.04.03-02.23.25:634][  0]LogD3D11RHI:       0/0/16360 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.04.03-02.23.25:634][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.04.03-02.23.25:647][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.04.03-02.23.25:647][  0]LogD3D11RHI:     GPU DeviceId: 0x100a (for the marketing name, search the web for "GPU Device Id")
+[2019.04.03-02.23.25:647][  0]LogWindows: EnumDisplayDevices:
+[2019.04.03-02.23.25:647][  0]LogWindows:    0. 'NVIDIA GeForce GTX 780 Ti' (P:0 D:1)
+[2019.04.03-02.23.25:647][  0]LogWindows:    1. 'NVIDIA GeForce GTX 780 Ti' (P:1 D:1)
+[2019.04.03-02.23.25:647][  0]LogWindows:    2. 'NVIDIA GeForce GTX 780 Ti' (P:0 D:0)
+[2019.04.03-02.23.25:648][  0]LogWindows:    3. 'NVIDIA GeForce GTX 780 Ti' (P:0 D:0)
+[2019.04.03-02.23.25:648][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.04.03-02.23.25:648][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 780 Ti
+[2019.04.03-02.23.25:648][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.04.03-02.23.25:648][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.04.03-02.23.25:648][  0]LogRHI: Texture pool is 2120 MB (70% of 3029 MB)
+[2019.04.03-02.23.25:707][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2019.04.03-02.23.25:707][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2019.04.03-02.23.25:707][  0]LogD3D11RHI: Async texture creation enabled
+[2019.04.03-02.23.25:726][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.04.03-02.23.25:869][  0]LogFlex: Display: Initialized Flex with GPU: NVIDIA GeForce GTX 780 Ti
+[2019.04.03-02.23.25:869][  0]LogShaderCompilers: Guid format shader working directory is -19 characters bigger than the processId version (F:/Game Development/BoofStudios/BoofStudios_OneShotAnims/Boof_Core/Intermediate/Shaders/WorkingDirectory/11780/).
+[2019.04.03-02.23.25:869][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Dominic/AppData/Local/Temp/UnrealShaderWorkingDir/3E1F9DA54C865197D6E1B980BE48AA66/'.
+[2019.04.03-02.23.26:115][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.04.03-02.23.26:133][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.04.03-02.23.26:149][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.04.03-02.23.26:167][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.04.03-02.23.26:183][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.04.03-02.23.26:201][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.04.03-02.23.26:217][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.04.03-02.23.26:235][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.04.03-02.23.26:244][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.04.03-02.23.26:256][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2019.04.03-02.23.26:269][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2019.04.03-02.23.26:282][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2019.04.03-02.23.26:295][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2019.04.03-02.23.26:309][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2019.04.03-02.23.26:322][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2019.04.03-02.23.26:348][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2019.04.03-02.23.26:348][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2019.04.03-02.23.26:361][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.03-02.23.26:363][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.04.03-02.23.26:404][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.04.03-02.23.26:418][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.04.03-02.23.26:418][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.04.03-02.23.26:637][  0]LogXGEController: Cleaning working directory: C:/Users/Dominic/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.04.03-02.23.26:638][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.04.03-02.23.26:638][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.04.03-02.23.26:638][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.04.03-02.23.27:424][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.04.03-02.23.27:513][  0]LogDerivedDataCache: Loaded boot cache 0.09s 77MB F:/Game Development/BoofStudios/BoofStudios_OneShotAnims/Boof_Core/DerivedDataCache/Boot.ddc.
+[2019.04.03-02.23.27:513][  0]LogDerivedDataCache: Display: Loaded Boot cache: F:/Game Development/BoofStudios/BoofStudios_OneShotAnims/Boof_Core/DerivedDataCache/Boot.ddc
+[2019.04.03-02.23.27:513][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file F:/Game Development/BoofStudios/BoofStudios_OneShotAnims/Boof_Core/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.04.03-02.23.27:513][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.04.03-02.23.27:513][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnginePak pak cache file ../../../Engine/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.04.03-02.23.27:513][  0]LogDerivedDataCache: Unable to find inner node EnginePak for hierarchical cache Hierarchy.
+[2019.04.03-02.23.27:525][  0]LogDerivedDataCache: Using Local data cache path ../../../Engine/DerivedDataCache: Writable
+[2019.04.03-02.23.27:525][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.04.03-02.23.27:525][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.04.03-02.23.27:541][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.04.03-02.23.27:541][  0]LogSlate: Using Freetype 2.6.0
+[2019.04.03-02.23.27:542][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.04.03-02.23.27:542][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.04.03-02.23.27:695][  0]LogAssetRegistry: FAssetRegistry took 0.0271 seconds to start up
+[2019.04.03-02.23.28:078][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.03-02.23.28:327][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.04.03-02.23.28:327][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.04.03-02.23.28:328][  0]LogMeshReduction: No automatic mesh merging module available
+[2019.04.03-02.23.28:328][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.04.03-02.23.28:328][  0]LogMeshMerging: No automatic mesh merging module available
+[2019.04.03-02.23.28:328][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.04.03-02.23.28:381][  0]LogNetVersion: Boof_Core , NetCL: 0, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2265089696)
+[2019.04.03-02.23.29:302][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.447161 seconds
+[2019.04.03-02.23.29:313][  0]LogUObjectArray: 36945 objects as part of root set at end of initial load.
+[2019.04.03-02.23.29:313][  0]LogUObjectAllocator: 7383280 out of 0 bytes used by permanent object pool.
+[2019.04.03-02.23.29:313][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.04.03-02.23.29:873][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png' error.
+[2019.04.03-02.23.29:874][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png
+[2019.04.03-02.23.29:874][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2019.04.03-02.23.29:874][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2019.04.03-02.23.29:874][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2019.04.03-02.23.29:874][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2019.04.03-02.23.29:874][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png' error.
+[2019.04.03-02.23.29:874][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png
+[2019.04.03-02.23.29:874][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2019.04.03-02.23.29:874][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2019.04.03-02.23.29:874][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2019.04.03-02.23.29:874][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2019.04.03-02.23.29:874][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png' error.
+[2019.04.03-02.23.29:874][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png
+[2019.04.03-02.23.29:874][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2019.04.03-02.23.29:874][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2019.04.03-02.23.29:874][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2019.04.03-02.23.29:874][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2019.04.03-02.23.29:874][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png' error.
+[2019.04.03-02.23.29:874][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png
+[2019.04.03-02.23.29:874][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2019.04.03-02.23.29:874][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2019.04.03-02.23.29:874][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2019.04.03-02.23.29:874][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2019.04.03-02.23.29:875][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png' error.
+[2019.04.03-02.23.29:875][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png
+[2019.04.03-02.23.29:875][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2019.04.03-02.23.29:875][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2019.04.03-02.23.29:875][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2019.04.03-02.23.29:875][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2019.04.03-02.23.29:875][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png' error.
+[2019.04.03-02.23.29:875][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png
+[2019.04.03-02.23.29:875][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2019.04.03-02.23.29:875][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2019.04.03-02.23.29:875][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2019.04.03-02.23.29:875][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2019.04.03-02.23.29:875][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png' error.
+[2019.04.03-02.23.29:875][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png
+[2019.04.03-02.23.29:875][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2019.04.03-02.23.29:875][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2019.04.03-02.23.29:875][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2019.04.03-02.23.29:875][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2019.04.03-02.23.29:875][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png' error.
+[2019.04.03-02.23.29:875][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png
+[2019.04.03-02.23.29:875][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2019.04.03-02.23.29:875][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2019.04.03-02.23.29:875][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2019.04.03-02.23.29:875][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2019.04.03-02.23.29:876][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_24x.png' error.
+[2019.04.03-02.23.29:876][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_24x.png
+[2019.04.03-02.23.29:877][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2019.04.03-02.23.29:877][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2019.04.03-02.23.29:877][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2019.04.03-02.23.29:877][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2019.04.03-02.23.29:877][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_24x.png' error.
+[2019.04.03-02.23.29:877][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_24x.png
+[2019.04.03-02.23.29:877][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2019.04.03-02.23.29:877][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2019.04.03-02.23.29:877][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2019.04.03-02.23.29:877][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2019.04.03-02.23.29:877][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ATC_24x.png' error.
+[2019.04.03-02.23.29:877][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ATC_24x.png
+[2019.04.03-02.23.29:877][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2019.04.03-02.23.29:877][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2019.04.03-02.23.29:877][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2019.04.03-02.23.29:877][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2019.04.03-02.23.29:877][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_DXT_24x.png' error.
+[2019.04.03-02.23.29:877][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_DXT_24x.png
+[2019.04.03-02.23.29:877][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2019.04.03-02.23.29:877][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2019.04.03-02.23.29:877][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2019.04.03-02.23.29:877][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2019.04.03-02.23.29:877][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC1_24x.png' error.
+[2019.04.03-02.23.29:877][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC1_24x.png
+[2019.04.03-02.23.29:878][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2019.04.03-02.23.29:878][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2019.04.03-02.23.29:878][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2019.04.03-02.23.29:878][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2019.04.03-02.23.29:878][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC2_24x.png' error.
+[2019.04.03-02.23.29:878][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC2_24x.png
+[2019.04.03-02.23.29:878][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2019.04.03-02.23.29:878][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2019.04.03-02.23.29:878][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2019.04.03-02.23.29:878][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2019.04.03-02.23.29:878][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC2_24x.png' error.
+[2019.04.03-02.23.29:878][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC2_24x.png
+[2019.04.03-02.23.29:878][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2019.04.03-02.23.29:878][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2019.04.03-02.23.29:878][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2019.04.03-02.23.29:878][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2019.04.03-02.23.29:878][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_PVRTC_24x.png' error.
+[2019.04.03-02.23.29:878][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_PVRTC_24x.png
+[2019.04.03-02.23.29:878][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2019.04.03-02.23.29:878][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2019.04.03-02.23.29:878][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2019.04.03-02.23.29:878][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2019.04.03-02.23.29:878][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ASTC_24x.png' error.
+[2019.04.03-02.23.29:878][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ASTC_24x.png
+[2019.04.03-02.23.29:879][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2019.04.03-02.23.29:879][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2019.04.03-02.23.29:879][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2019.04.03-02.23.29:879][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2019.04.03-02.23.31:407][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.04.03-02.23.31:450][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.04.03-02.23.31:810][  0]LogUObjectGlobals: Warning: Class which was marked abstract was trying to be loaded.  It will be nulled out on save. Mesh MeshComponent
+[2019.04.03-02.23.35:408][  0]LogStats: FPlatformStackWalk::StackWalkAndDump -  3.598 s
+[2019.04.03-02.23.35:408][  0]LogOutputDevice: Error: === Handled ensure: ===
+[2019.04.03-02.23.35:408][  0]LogOutputDevice: Error: 
+[2019.04.03-02.23.35:408][  0]LogOutputDevice: Error: Ensure condition failed: false [File:C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Source\Runtime\CoreUObject\Private\UObject\UObjectGlobals.cpp] [Line: 2204]
+[2019.04.03-02.23.35:408][  0]LogOutputDevice: Error: Class which was marked abstract was trying to be loaded.  It will be nulled out on save. Mesh MeshComponent
+[2019.04.03-02.23.35:408][  0]LogOutputDevice: Error: Stack: 
+[2019.04.03-02.23.35:408][  0]LogOutputDevice: Error: [Callstack] 0x00000000E43B3986 UE4Editor-Core.dll!FWindowsPlatformStackWalk::StackWalkAndDump() [c:\program files\epic games\unrealengine-flex-4.19.2\engine\source\runtime\core\private\windows\windowsplatformstackwalk.cpp:234]
+[2019.04.03-02.23.35:408][  0]LogOutputDevice: Error: [Callstack] 0x00000000E41062AA UE4Editor-Core.dll!FDebug::EnsureFailed() [c:\program files\epic games\unrealengine-flex-4.19.2\engine\source\runtime\core\private\misc\assertionmacros.cpp:299]
+[2019.04.03-02.23.35:408][  0]LogOutputDevice: Error: [Callstack] 0x00000000E4118206 UE4Editor-Core.dll!FDebug::OptionallyLogFormattedEnsureMessageReturningFalse() [c:\program files\epic games\unrealengine-flex-4.19.2\engine\source\runtime\core\private\misc\assertionmacros.cpp:433]
+[2019.04.03-02.23.35:408][  0]LogOutputDevice: Error: [Callstack] 0x00000000E3C9C667 UE4Editor-CoreUObject.dll!StaticAllocateObjectErrorTests() [c:\program files\epic games\unrealengine-flex-4.19.2\engine\source\runtime\coreuobject\private\uobject\uobjectglobals.cpp:2204]
+[2019.04.03-02.23.35:408][  0]LogOutputDevice: Error: [Callstack] 0x00000000E3C9A800 UE4Editor-CoreUObject.dll!StaticAllocateObject() [c:\program files\epic games\unrealengine-flex-4.19.2\engine\source\runtime\coreuobject\private\uobject\uobjectglobals.cpp:2272]
+[2019.04.03-02.23.35:408][  0]LogOutputDevice: Error: [Callstack] 0x00000000E3C9D2EC UE4Editor-CoreUObject.dll!StaticConstructObject_Internal() [c:\program files\epic games\unrealengine-flex-4.19.2\engine\source\runtime\coreuobject\private\uobject\uobjectglobals.cpp:3161]
+[2019.04.03-02.23.35:408][  0]LogOutputDevice: Error: [Callstack] 0x00000000E3C66F29 UE4Editor-CoreUObject.dll!FObjectInitializer::CreateDefaultSubobject() [c:\program files\epic games\unrealengine-flex-4.19.2\engine\source\runtime\coreuobject\private\uobject\uobjectglobals.cpp:3769]
+[2019.04.03-02.23.35:408][  0]LogOutputDevice: Error: [Callstack] 0x00000000E3BA7686 UE4Editor-CoreUObject.dll!UObject::CreateDefaultSubobject() [c:\program files\epic games\unrealengine-flex-4.19.2\engine\source\runtime\coreuobject\private\uobject\obj.cpp:105]
+[2019.04.03-02.23.35:408][  0]LogOutputDevice: Error: [Callstack] 0x00000000BAE22BEC UE4Editor-Boof_Core.dll!ABoof_Player::ABoof_Player() [f:\game development\boofstudios\boofstudios_oneshotanims\boof_core\source\boof_core\boof_player.cpp:24]
+[2019.04.03-02.23.35:408][  0]LogOutputDevice: Error: [Callstack] 0x00000000E3A0F37D UE4Editor-CoreUObject.dll!UClass::CreateDefaultObject() [c:\program files\epic games\unrealengine-flex-4.19.2\engine\source\runtime\coreuobject\private\uobject\class.cpp:2749]
+[2019.04.03-02.23.35:408][  0]LogOutputDevice: Error: [Callstack] 0x00000000E3CA6841 UE4Editor-CoreUObject.dll!UObjectLoadAllCompiledInDefaultProperties() [c:\program files\epic games\unrealengine-flex-4.19.2\engine\source\runtime\coreuobject\private\uobject\uobjectbase.cpp:821]
+[2019.04.03-02.23.35:408][  0]LogOutputDevice: Error: [Callstack] 0x00000000E3C88571 UE4Editor-CoreUObject.dll!ProcessNewlyLoadedUObjects() [c:\program files\epic games\unrealengine-flex-4.19.2\engine\source\runtime\coreuobject\private\uobject\uobjectbase.cpp:895]
+[2019.04.03-02.23.35:408][  0]LogOutputDevice: Error: [Callstack] 0x00000000E3A14B57 UE4Editor-CoreUObject.dll!TBaseStaticDelegateInstance<void __cdecl(void)>::ExecuteIfSafe() [c:\program files\epic games\unrealengine-flex-4.19.2\engine\source\runtime\core\public\delegates\delegateinstancesimpl.h:788]
+[2019.04.03-02.23.35:408][  0]LogOutputDevice: Error: [Callstack] 0x00000000E409E527 UE4Editor-Core.dll!TBaseMulticastDelegate<void>::Broadcast() [c:\program files\epic games\unrealengine-flex-4.19.2\engine\source\runtime\core\public\delegates\delegatesignatureimpl.inl:937]
+[2019.04.03-02.23.35:408][  0]LogOutputDevice: Error: [Callstack] 0x00000000E41C10A5 UE4Editor-Core.dll!FModuleManager::LoadModuleWithFailureReason() [c:\program files\epic games\unrealengine-flex-4.19.2\engine\source\runtime\core\private\modules\modulemanager.cpp:487]
+[2019.04.03-02.23.35:408][  0]LogOutputDevice: Error: [Callstack] 0x000000000797DBF3 UE4Editor-Projects.dll!FModuleDescriptor::LoadModulesForPhase() [c:\program files\epic games\unrealengine-flex-4.19.2\engine\source\runtime\projects\private\moduledescriptor.cpp:484]
+[2019.04.03-02.23.35:408][  0]LogOutputDevice: Error: [Callstack] 0x000000000797DEDC UE4Editor-Projects.dll!FProjectManager::LoadModulesForProject() [c:\program files\epic games\unrealengine-flex-4.19.2\engine\source\runtime\projects\private\projectmanager.cpp:69]
+[2019.04.03-02.23.35:409][  0]LogOutputDevice: Error: [Callstack] 0x00000000CC0A7DD1 UE4Editor.exe!FEngineLoop::LoadStartupModules() [c:\program files\epic games\unrealengine-flex-4.19.2\engine\source\runtime\launch\private\launchengineloop.cpp:2616]
+[2019.04.03-02.23.35:409][  0]LogOutputDevice: Error: [Callstack] 0x00000000CC0AD2D8 UE4Editor.exe!FEngineLoop::PreInit() [c:\program files\epic games\unrealengine-flex-4.19.2\engine\source\runtime\launch\private\launchengineloop.cpp:2033]
+[2019.04.03-02.23.35:409][  0]LogOutputDevice: Error: [Callstack] 0x00000000CC0A52EA UE4Editor.exe!GuardedMain() [c:\program files\epic games\unrealengine-flex-4.19.2\engine\source\runtime\launch\private\launch.cpp:127]
+[2019.04.03-02.23.35:409][  0]LogOutputDevice: Error: [Callstack] 0x00000000CC0A554A UE4Editor.exe!GuardedMainWrapper() [c:\program files\epic games\unrealengine-flex-4.19.2\engine\source\runtime\launch\private\windows\launchwindows.cpp:144]
+[2019.04.03-02.23.35:409][  0]LogOutputDevice: Error: [Callstack] 0x00000000CC0B346C UE4Editor.exe!WinMain() [c:\program files\epic games\unrealengine-flex-4.19.2\engine\source\runtime\launch\private\windows\launchwindows.cpp:223]
+[2019.04.03-02.23.35:409][  0]LogOutputDevice: Error: [Callstack] 0x00000000CC0B5102 UE4Editor.exe!__scrt_common_main_seh() [d:\agent\_work\1\s\src\vctools\crt\vcstartup\src\startup\exe_common.inl:288]
+[2019.04.03-02.23.35:409][  0]LogOutputDevice: Error: [Callstack] 0x0000000015413DC4 KERNEL32.DLL!UnknownFunction []
+[2019.04.03-02.23.35:409][  0]LogOutputDevice: Error: [Callstack] 0x00000000172C3691 ntdll.dll!UnknownFunction []
+[2019.04.03-02.23.35:409][  0]LogOutputDevice: Error: 
+[2019.04.03-02.23.35:417][  0]LogStats:                SubmitErrorReport -  0.000 s
+[2019.04.03-02.23.35:909][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.04.03-02.23.35:909][  0]LogWindows: Warning: URL: ../../../Engine/Binaries/Win64/CrashReportClient.exe "F:/Game Development/BoofStudios/BoofStudios_OneShotAnims/Boof_Core/Saved/Crashes/UE4CC-Windows-287F2AB5487E54DCB488C6A26B1027AE_0000" -Unattended -AppName=UE4-Boof_Core -CrashGUID=UE4CC-Windows-287F2AB5487E54DCB488C6A26B1027AE_0000 -DebugSymbols=..\..\..\Engine\Intermediate\Symbols
+[2019.04.03-02.23.35:909][  0]LogStats:                    SendNewReport -  0.492 s
+[2019.04.03-02.23.35:909][  0]LogStats:             FDebug::EnsureFailed -  4.099 s
+[2019.04.03-02.23.36:167][  0]SourceControl: Source control is disabled
+[2019.04.03-02.23.36:167][  0]SourceControl: Source control is disabled
+[2019.04.03-02.23.36:199][  0]SourceControl: Source control is disabled
+[2019.04.03-02.23.36:232][  0]SourceControl: Source control is disabled
+[2019.04.03-02.23.37:072][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.04.03-02.23.37:407][  0]LogOcInput: OculusInput pre-init called
+[2019.04.03-02.23.37:572][  0]LogEngine: Initializing Engine...
+[2019.04.03-02.23.37:574][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.04.03-02.23.37:576][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.04.03-02.23.37:576][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.04.03-02.23.37:869][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.04.03-02.23.37:894][  0]LogInit: XAudio2 using 'VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2019.04.03-02.23.37:907][  0]LogInit: FAudioDevice initialized.
+[2019.04.03-02.23.38:434][  0]LogDerivedDataCache: Saved boot cache 0.53s 77MB F:/Game Development/BoofStudios/BoofStudios_OneShotAnims/Boof_Core/DerivedDataCache/Boot.ddc.
+[2019.04.03-02.23.38:504][  0]LogInit: Texture streaming: Enabled
+[2019.04.03-02.23.38:537][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.04.03-02.23.38:566][  0]LogInit: Transaction tracking system initialized
+[2019.04.03-02.23.38:622][  0]BlueprintLog: New page: Editor Load
+[2019.04.03-02.23.38:781][  0]LocalizationService: Localization service is disabled
+[2019.04.03-02.23.38:962][  0]LogConsoleResponse: Display: 
+[2019.04.03-02.23.39:164][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.04.03-02.23.39:164][  0]LogCook: Display: Mobile HDR setting 1
+[2019.04.03-02.23.39:164][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.04.03-02.23.39:164][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.04.03-02.23.39:164][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.04.03-02.23.39:592][  0]LogFileCache: Scanning file cache for directory 'F:/Game Development/BoofStudios/BoofStudios_OneShotAnims/Boof_Core/Content/' took 0.01s
+[2019.04.03-02.23.39:812][  0]SourceControl: Source control is disabled
+[2019.04.03-02.23.39:812][  0]Cmd: MAP LOAD FILE="F:/Game Development/BoofStudios/BoofStudios_OneShotAnims/Boof_Core/Content/Levels/Dev/DevWorld.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.03-02.23.39:812][  0]LightingResults: New page: Lighting Build
+[2019.04.03-02.23.39:818][  0]MapCheck: New page: Map Check
+[2019.04.03-02.23.39:818][  0]LightingResults: New page: Lighting Build
+[2019.04.03-02.23.39:950][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cadafb6c80, Size=192, Default__SceneManager_C Function /Game/SystemManagers/SceneManager.SceneManager_C:ExecuteUbergraph_SceneManager
+[2019.04.03-02.23.39:954][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cadafb6c80, Size=192
+[2019.04.03-02.23.39:955][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cadafb6c80, Size=192, Default__SceneManager_C Function /Engine/Transient.REINST_SceneManager_C_5:ExecuteUbergraph_SceneManager
+[2019.04.03-02.23.39:960][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cadb247ac0, Size=192, Default__SceneManager_C Function /Game/SystemManagers/SceneManager.SceneManager_C:ExecuteUbergraph_SceneManager
+[2019.04.03-02.23.40:128][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cb5b1e3880, Size=96, Default__SceneManagement_C Function /Game/Widgets/SceneManagement.SceneManagement_C:ExecuteUbergraph_SceneManagement
+[2019.04.03-02.23.40:135][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cb5b1e3880, Size=96
+[2019.04.03-02.23.40:135][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cb5b1e3880, Size=96, Default__SceneManagement_C Function /Engine/Transient.REINST_SceneManagement_C_0:ExecuteUbergraph_SceneManagement
+[2019.04.03-02.23.40:141][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cb5b1e1c00, Size=96, Default__SceneManagement_C Function /Game/Widgets/SceneManagement.SceneManagement_C:ExecuteUbergraph_SceneManagement
+[2019.04.03-02.23.40:145][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cb5b1bfe20, Size=24, Default__DevWorld_C Function /Game/Levels/Dev/DevWorld.DevWorld_C:ExecuteUbergraph_DevWorld
+[2019.04.03-02.23.40:147][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cb5b1bfe20, Size=24
+[2019.04.03-02.23.40:147][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cb5b1bfe20, Size=24, Default__DevWorld_C Function /Engine/Transient.REINST_DevWorld_C_12:ExecuteUbergraph_DevWorld
+[2019.04.03-02.23.40:149][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cb5b1bf268, Size=24, Default__DevWorld_C Function /Game/Levels/Dev/DevWorld.DevWorld_C:ExecuteUbergraph_DevWorld
+[2019.04.03-02.23.40:773][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [146.837479ms] /Game/SceneActors/PornStars/WereBoi/Were_Anim_Test.Were_Anim_Test
+[2019.04.03-02.23.41:161][  0]LogAIModule: Creating AISystem for world DevWorld
+[2019.04.03-02.23.41:173][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.03-02.23.41:187][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cadafb6c80, Size=192
+[2019.04.03-02.23.41:187][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cb5b1e3880, Size=96
+[2019.04.03-02.23.41:187][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cb5b1bfe20, Size=24
+[2019.04.03-02.23.41:189][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.03-02.23.41:264][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 74.978ms to complete.
+[2019.04.03-02.23.41:264][  0]LogFileHelpers: Loading map 'DevWorld' took 1.452
+[2019.04.03-02.23.41:436][  0]LogCollectionManager: Loaded 0 collections in 0.004715 seconds
+[2019.04.03-02.23.41:485][  0]LogFileCache: Scanning file cache for directory 'F:/Game Development/BoofStudios/BoofStudios_OneShotAnims/Boof_Core/Saved/Collections/' took 0.01s
+[2019.04.03-02.23.41:486][  0]LogFileCache: Scanning file cache for directory 'F:/Game Development/BoofStudios/BoofStudios_OneShotAnims/Boof_Core/Content/Developers/Dominic/Collections/' took 0.01s
+[2019.04.03-02.23.41:486][  0]LogFileCache: Scanning file cache for directory 'F:/Game Development/BoofStudios/BoofStudios_OneShotAnims/Boof_Core/Content/Collections/' took 0.01s
+[2019.04.03-02.23.41:486][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.04.03-02.23.41:501][  0]LogContentBrowser: Native class hierarchy populated in 0.0156 seconds. Added 2482 classes and 564 folders.
+[2019.04.03-02.23.41:514][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2019.04.03-02.23.41:585][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2019.04.03-02.23.41:593][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2019.04.03-02.23.41:619][  0]LogSlate: Took 0.000263 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.04.03-02.23.41:622][  0]LogSlate: Took 0.000378 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.04.03-02.23.41:628][  0]LogSlate: Took 0.000240 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.04.03-02.23.41:703][  0]LogRenderer: Reallocating scene render targets to support 1168x600 Format 10 NumSamples 1 (Frame:1).
+[2019.04.03-02.23.41:858][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2019.04.03-02.23.41:858][  0]LogLoad: (Engine Initialization) Total time: 22.80 seconds
+[2019.04.03-02.23.41:858][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.04.03-02.23.41:868][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.04.03-02.23.41:889][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.04.03-02.23.41:985][  0]LogSlate: Took 0.000230 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.03-02.23.42:000][  1]LogAssetRegistry: Asset discovery search completed in 14.3275 seconds
+[2019.04.03-02.23.42:003][  1]LogFlexEditor: FFlexEditorModule::OnFilesLoaded() ProjectFilePath = 'F:/Game Development/BoofStudios/BoofStudios_OneShotAnims/Boof_Core/Boof_Core.uproject'
+[2019.04.03-02.23.42:003][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.04.03-02.23.42:003][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000039 seconds (updated 0 objects)
+[2019.04.03-02.24.08:160][817]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-02.24.16:489][691]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-02.24.26:344][792]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-02.24.43:667][613]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-02.24.43:730][620]MapCheck: New page: Map Check
+[2019.04.03-02.24.43:751][620]Cmd: MAP REBUILD ALLVISIBLE
+[2019.04.03-02.24.43:751][620]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.04.03-02.24.43:793][620]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2019.04.03-02.24.43:803][620]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.03-02.24.43:803][620]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_1, compiling. 
+[2019.04.03-02.24.43:811][620]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy DefaultTextMaterialOpaque, compiling. 
+[2019.04.03-02.24.43:818][620]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2019.04.03-02.24.43:824][620]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Were_EyebrowsEyelashes_M, compiling. 
+[2019.04.03-02.24.43:830][620]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Were_Hair_M, compiling. 
+[2019.04.03-02.24.43:837][620]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Default_Material, compiling. 
+[2019.04.03-02.24.43:844][620]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Were_Teeth_M, compiling. 
+[2019.04.03-02.24.43:850][620]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Were_Tongue_M, compiling. 
+[2019.04.03-02.24.43:857][620]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.04.03-02.24.43:857][620]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.04.03-02.24.43:857][620]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.04.03-02.24.43:857][620]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.04.03-02.24.43:857][620]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.04.03-02.24.43:857][620]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.04.03-02.24.43:857][620]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.03-02.24.43:857][620]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Were_Eyes_M, compiling. 
+[2019.04.03-02.24.43:863][620]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Were_BodyBase_M, compiling. 
+[2019.04.03-02.24.43:870][620]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Were_U_FlaccidPenis_M, compiling. 
+[2019.04.03-02.24.43:877][620]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Were_U_Jockstrap_Base_M, compiling. 
+[2019.04.03-02.24.43:882][620]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Were_U_Jockstrap_Laces_M, compiling. 
+[2019.04.03-02.24.43:888][620]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Were_U_Jockstrap_Rings_M, compiling. 
+[2019.04.03-02.24.43:894][620]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Were_U_Jockstrap_Lining_M, compiling. 
+[2019.04.03-02.24.43:900][620]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Were_C_BlackMetals_M, compiling. 
+[2019.04.03-02.24.43:907][620]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Were_Clothes_Metals_M, compiling. 
+[2019.04.03-02.24.43:913][620]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Were_Clothes_Pendant_M, compiling. 
+[2019.04.03-02.24.43:921][620]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Were_Clothes_Leathers_M, compiling. 
+[2019.04.03-02.24.43:930][620]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.04.03-02.24.43:930][620]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.04.03-02.24.43:930][620]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.04.03-02.24.43:930][620]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.04.03-02.24.43:930][620]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Were_Clothes_Tanktop_M, compiling. 
+[2019.04.03-02.24.43:940][620]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_OtherWalls, compiling. 
+[2019.04.03-02.24.43:951][620]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_HardwoodFloor, compiling. 
+[2019.04.03-02.24.43:959][620]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_LightRigs, compiling. 
+[2019.04.03-02.24.43:968][620]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_PhotoWall, compiling. 
+[2019.04.03-02.24.43:978][620]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_CurtainRod, compiling. 
+[2019.04.03-02.24.43:988][620]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Curtains, compiling. 
+[2019.04.03-02.24.45:466][620]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.04.03-02.24.45:466][620]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.04.03-02.24.45:466][620]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.04.03-02.24.45:466][620]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.04.03-02.24.45:466][620]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.04.03-02.24.45:466][620]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.04.03-02.24.45:466][620]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.04.03-02.24.45:466][620]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.04.03-02.24.45:466][620]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.04.03-02.24.45:466][620]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.04.03-02.24.45:466][620]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.04.03-02.24.45:466][620]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.04.03-02.24.45:466][620]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.04.03-02.24.45:466][620]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.04.03-02.24.45:466][620]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.03-02.24.45:466][620]TextureStreamingBuild: Display: Compiling optional shaders took 1.679 seconds.
+[2019.04.03-02.24.45:497][620]LogLevel: Display: Export Material TexCoord Scales took 0.031 seconds.
+[2019.04.03-02.24.45:509][620]TextureStreamingBuild: Display: Build Texture Streaming took 0.011 seconds.
+[2019.04.03-02.24.45:520][620]LightingResults: New page: Lighting Build - Apr 2, 2019, 2:24:45 PM
+[2019.04.03-02.24.45:610][620]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.04.03-02.24.45:676][620]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.04.03-02.24.45:696][620]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.04.03-02.24.46:207][620]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.04.03-02.24.46:207][620]LogSwarmInterface: [TryOpenConnection] Local Process ID is 11780
+[2019.04.03-02.24.50:868][620]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.04.03-02.24.50:868][620]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.04.03-02.24.50:868][620]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.04.03-02.24.50:868][620]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.04.03-02.24.50:868][620]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.04.03-02.24.51:102][620]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.04.03-02.24.51:102][620]MapCheck: New page: DevWorld - Apr 2, 2019, 2:24:51 PM
+[2019.04.03-02.24.51:199][620]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 97.036ms to complete.
+[2019.04.03-02.24.51:224][620]LogEditorBuildUtils: Build time 0:07
+[2019.04.03-02.24.55:762][928]LightingResults: Warning: PhotoStudio_FullScene_Curtains Object has overlapping UVs.
+[2019.04.03-02.24.55:762][928]LightingResults: PhotoStudio_FullScene_Curtains Lightmap UV are overlapping by 49.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.04.03-02.24.56:024][946]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PhotoStudio_FullScene_Cube)
+[2019.04.03-02.24.56:446][963]Job is a success!
+[2019.04.03-02.24.56:477][964]LogSlate: Took 0.000622 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.03-02.24.56:481][964]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.03-02.24.56:538][964]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.010s
+[2019.04.03-02.24.56:538][964]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.04.03-02.24.56:538][964]LogVolumetricLightmapImport:      BrickData 100x5x5 = 0.1Mb
+[2019.04.03-02.24.56:538][964]LogVolumetricLightmapImport:      Bricks at Level
+[2019.04.03-02.24.56:538][964]LogVolumetricLightmapImport:          0: 5.0% covering 100.0% of volume
+[2019.04.03-02.24.56:538][964]LogVolumetricLightmapImport:          1: 5.0% covering 1.6% of volume
+[2019.04.03-02.24.56:538][964]LogVolumetricLightmapImport:          2: 90.0% covering 0.4% of volume
+[2019.04.03-02.24.56:549][964]LightingResults: Error: SpotLight8 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2019.04.03-02.24.56:549][964]LightingResults: Error: SpotLight_1 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2019.04.03-02.24.56:549][964]LightingResults: Error: SpotLight2 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2019.04.03-02.24.56:582][964]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 256X256)
+[2019.04.03-02.24.56:582][964]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2019.04.03-02.24.56:582][964]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 256X256)
+[2019.04.03-02.24.56:582][964]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2019.04.03-02.24.56:582][964]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 256X64)
+[2019.04.03-02.24.56:623][964]Lightmass on NIC-WORKSTATION: 4.69 sec total, 469 ms importing, 130 ms setup, 1.63 sec photons, 2.41 sec processing, 0 ms extra exporting [4/4 mappings]. Threads: 35.2 sec total, 4.13 sec processing.
+[2019.04.03-02.24.56:657][964]LogStaticLightingSystem: Illumination: 11.1 sec (20 ms encoding lightmaps, 5 ms encoding shadowmaps)
+[2019.04.03-02.24.56:657][964]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2019.04.03-02.24.56:657][964]LogStaticLightingSystem: Shadowmap texture memory: 0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 1 textures
+[2019.04.03-02.24.56:887][964]DumpUnbuiltLightIteractions
+[2019.04.03-02.24.56:887][964]Lights with unbuilt interactions: 0
+[2019.04.03-02.24.56:887][964]
+[2019.04.03-02.24.56:887][964]Primitives with unbuilt interactions: 0
+[2019.04.03-02.24.56:998][965]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.04.03-02.24.56:998][965]MapCheck: New page: DevWorld - Apr 2, 2019, 2:24:56 PM
+[2019.04.03-02.24.57:078][965]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 80.172ms to complete.
+[2019.04.03-02.24.58:620][ 60]LogSlate: Window 'Message Log' being destroyed
+[2019.04.03-02.24.58:624][ 60]LogSlate: Window 'Message Log' being destroyed
+[2019.04.03-02.24.59:118][104]LogEditorViewport: Clicking Background
+[2019.04.03-02.25.09:137][975]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PhotoStudio_FullScene_Curtains)
+[2019.04.03-02.25.17:279][618]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.03-02.25.19:331][836]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.03-02.25.20:607][836]LogSlate: Window 'Save Content' being destroyed
+[2019.04.03-02.25.20:622][836]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.03-02.25.20:748][836]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cb5b1bf268, Size=24
+[2019.04.03-02.25.20:748][836]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cb75787298, Size=24, Default__DevWorld_C Function /Engine/Transient.REINST_DevWorld_C_16:ExecuteUbergraph_DevWorld
+[2019.04.03-02.25.20:749][836]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cb75786a10, Size=24, Default__DevWorld_C Function /Game/Levels/Dev/DevWorld.DevWorld_C:ExecuteUbergraph_DevWorld
+[2019.04.03-02.25.20:942][836]LogSavePackage: Save=201.13ms
+[2019.04.03-02.25.20:942][836]LogSavePackage: Moving 'F:/Game Development/BoofStudios/BoofStudios_OneShotAnims/Boof_Core/Saved/DevWorld54385CA34C20D961D96E43A852A8DF32.tmp' to 'F:/Game Development/BoofStudios/BoofStudios_OneShotAnims/Boof_Core/Content/Levels/Dev/DevWorld.umap'
+[2019.04.03-02.25.20:947][836]LogSavePackage: Display: Finished SavePackage F:/Game Development/BoofStudios/BoofStudios_OneShotAnims/Boof_Core/Content/Levels/Dev/DevWorld.umap
+[2019.04.03-02.25.21:029][836]LogFileHelpers: Saving map 'DevWorld' took 0.400
+[2019.04.03-02.25.21:032][836]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Dev/DevWorld_BuiltData" FILE="F:/Game Development/BoofStudios/BoofStudios_OneShotAnims/Boof_Core/Content/Levels/Dev/DevWorld_BuiltData.uasset" SILENT=true
+[2019.04.03-02.25.21:103][836]LogSavePackage: Save=29.64ms
+[2019.04.03-02.25.21:103][836]LogSavePackage: Moving 'F:/Game Development/BoofStudios/BoofStudios_OneShotAnims/Boof_Core/Saved/DevWorld_BuiltData1E2F93E74698550054426685A8B7CCF7.tmp' to 'F:/Game Development/BoofStudios/BoofStudios_OneShotAnims/Boof_Core/Content/Levels/Dev/DevWorld_BuiltData.uasset'
+[2019.04.03-02.25.21:107][836]LogSavePackage: Display: Finished SavePackage F:/Game Development/BoofStudios/BoofStudios_OneShotAnims/Boof_Core/Content/Levels/Dev/DevWorld_BuiltData.uasset
+[2019.04.03-02.27.06:123][687]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.03-02.27.08:651][970]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Dev/DevWorld.DevWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Dev/DevWorld.DevWorld:PersistentLevel.DevWorld' with GeneratedClass '/Game/Levels/Dev/DevWorld.DevWorld_C' with ClassGeneratedBy '/Game/Levels/Dev/DevWorld.DevWorld:PersistentLevel.DevWorld'
+[2019.04.03-02.27.08:651][970]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.03-02.27.08:652][970]PIE: New page: SIE session: DevWorld (Apr 2, 2019, 2:27:08 PM)
+[2019.04.03-02.27.08:652][970]LogPlayLevel: Creating play world package: /Game/Levels/Dev/UEDPIE_0_DevWorld
+[2019.04.03-02.27.08:656][970]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004686s)
+[2019.04.03-02.27.08:657][970]LogAIModule: Creating AISystem for world DevWorld
+[2019.04.03-02.27.08:657][970]LogPlayLevel: PIE: World Init took: (0.000875s)
+[2019.04.03-02.27.08:657][970]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Dev/DevWorld.DevWorld to /Game/Levels/Dev/UEDPIE_0_DevWorld.DevWorld (0.005778s)
+[2019.04.03-02.27.08:666][970]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cb75787298, Size=24
+[2019.04.03-02.27.08:682][970]LogInit: XAudio2 using 'VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2019.04.03-02.27.08:688][970]LogInit: FAudioDevice initialized.
+[2019.04.03-02.27.08:688][970]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.03-02.27.08:747][970]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cb7b443c40, Size=184, Default__TransportControls_C Function /Game/Widgets/TransportControls.TransportControls_C:ExecuteUbergraph_TransportControls
+[2019.04.03-02.27.08:752][970]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cb7b443c40, Size=184
+[2019.04.03-02.27.08:752][970]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cae69f0340, Size=184, Default__TransportControls_C Function /Engine/Transient.REINST_TransportControls_C_1:ExecuteUbergraph_TransportControls
+[2019.04.03-02.27.08:760][970]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cae69f3400, Size=184, Default__TransportControls_C Function /Game/Widgets/TransportControls.TransportControls_C:ExecuteUbergraph_TransportControls
+[2019.04.03-02.27.08:763][970]LogUObjectGlobals: Warning: Class which was marked abstract was trying to be loaded.  It will be nulled out on save. Mesh MeshComponent
+[2019.04.03-02.27.08:763][970]LogUObjectGlobals: Warning: Class which was marked abstract was trying to be loaded.  It will be nulled out on save. Mesh MeshComponent
+[2019.04.03-02.27.08:763][970]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cb8d03e900, Size=232, Default__MyBoof_Player_C Function /Game/Player_GM/MyBoof_Player.MyBoof_Player_C:ExecuteUbergraph_MyBoof_Player
+[2019.04.03-02.27.08:769][970]LogUObjectGlobals: Warning: Class which was marked abstract was trying to be loaded.  It will be nulled out on save. Mesh MeshComponent
+[2019.04.03-02.27.08:769][970]LogUObjectGlobals: Warning: Class which was marked abstract was trying to be loaded.  It will be nulled out on save. Mesh MeshComponent
+[2019.04.03-02.27.08:772][970]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cb8d03e900, Size=232
+[2019.04.03-02.27.08:772][970]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cb8d03e900, Size=232, Default__MyBoof_Player_C Function /Engine/Transient.REINST_MyBoof_Player_C_19:ExecuteUbergraph_MyBoof_Player
+[2019.04.03-02.27.08:778][970]LogUObjectGlobals: Warning: Class which was marked abstract was trying to be loaded.  It will be nulled out on save. Mesh MeshComponent
+[2019.04.03-02.27.08:778][970]LogUObjectGlobals: Warning: Class which was marked abstract was trying to be loaded.  It will be nulled out on save. Mesh MeshComponent
+[2019.04.03-02.27.08:778][970]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cb5626d700, Size=232, Default__MyBoof_Player_C Function /Game/Player_GM/MyBoof_Player.MyBoof_Player_C:ExecuteUbergraph_MyBoof_Player
+[2019.04.03-02.27.08:811][970]LogLoad: Game class is 'MyBoof_CoreGameModeBase_C'
+[2019.04.03-02.27.08:814][970]LogWorld: Bringing World /Game/Levels/Dev/UEDPIE_0_DevWorld.DevWorld up for play (max tick rate 0) at 2019.04.02-20.27.08
+[2019.04.03-02.27.08:815][970]LogWorld: Bringing up level for play took: 0.001262
+[2019.04.03-02.27.08:822][970]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 11 classes and 0 folders.
+[2019.04.03-02.27.08:824][970]LogActor: Warning: CharacterBP_Master_C /Game/Levels/Dev/UEDPIE_0_DevWorld.DevWorld:PersistentLevel.CharacterBP_Master_C_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.04.03-02.27.08:824][970]LogActor: Warning: CharacterBP_Master_C /Game/Levels/Dev/UEDPIE_0_DevWorld.DevWorld:PersistentLevel.CharacterBP_Master_C_1 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.04.03-02.27.08:825][970]PIE: Play in editor start time for /Game/Levels/Dev/UEDPIE_0_DevWorld 0.152
+[2019.04.03-02.27.08:875][970]LogAudioDerivedData: Display: Building compressed audio format OGG wave PossessPlayer...
+[2019.04.03-02.27.08:922][970]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Dev/DevWorld.DevWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Dev/DevWorld.DevWorld:PersistentLevel.DevWorld' with GeneratedClass '/Game/Levels/Dev/DevWorld.DevWorld_C' with ClassGeneratedBy '/Game/Levels/Dev/DevWorld.DevWorld:PersistentLevel.DevWorld'
+[2019.04.03-02.27.14:393][276]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-02.27.14:447][280]LogUObjectGlobals: Warning: Class which was marked abstract was trying to be loaded.  It will be nulled out on save. Mesh MeshComponent
+[2019.04.03-02.27.17:978][607]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-02.27.19:838][756]LogActor: Warning: CharacterBP_Master_C /Game/Levels/Dev/UEDPIE_0_DevWorld.DevWorld:PersistentLevel.CharacterBP_Master_C_2 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.04.03-02.27.19:839][756]LogActor: Warning: CharacterBP_Master_C /Game/Levels/Dev/UEDPIE_0_DevWorld.DevWorld:PersistentLevel.CharacterBP_Master_C_3 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.04.03-02.27.20:851][837]LogActor: Warning: CharacterBP_Master_C /Game/Levels/Dev/UEDPIE_0_DevWorld.DevWorld:PersistentLevel.CharacterBP_Master_C_4 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.04.03-02.27.20:852][837]LogActor: Warning: CharacterBP_Master_C /Game/Levels/Dev/UEDPIE_0_DevWorld.DevWorld:PersistentLevel.CharacterBP_Master_C_5 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.04.03-02.27.39:606][333]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Dev/DevWorld.DevWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Dev/DevWorld.DevWorld:PersistentLevel.DevWorld' with GeneratedClass '/Game/Levels/Dev/DevWorld.DevWorld_C' with ClassGeneratedBy '/Game/Levels/Dev/DevWorld.DevWorld:PersistentLevel.DevWorld'
+[2019.04.03-02.27.39:655][333]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Dev/DevWorld.DevWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Dev/DevWorld.DevWorld:PersistentLevel.DevWorld' with GeneratedClass '/Game/Levels/Dev/DevWorld.DevWorld_C' with ClassGeneratedBy '/Game/Levels/Dev/DevWorld.DevWorld:PersistentLevel.DevWorld'
+[2019.04.03-02.27.39:668][333]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cb8d03e900, Size=232
+[2019.04.03-02.27.39:668][333]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cae69f0340, Size=184
+[2019.04.03-02.27.53:248][334]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture)
+[2019.04.03-02.28.01:008][ 49]LogSlate: Took 0.000305 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.04.03-02.28.01:603][105]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-02.28.48:926][444]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cb75786a10, Size=24
+[2019.04.03-02.28.48:926][444]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cae643af20, Size=24, Default__DevWorld_C Function /Engine/Transient.REINST_DevWorld_C_25:ExecuteUbergraph_DevWorld
+[2019.04.03-02.28.48:927][444]LogUObjectGlobals: Created PersistentFrame Addr=0x000001cae6439930, Size=24, Default__DevWorld_C Function /Game/Levels/Dev/DevWorld.DevWorld_C:ExecuteUbergraph_DevWorld
+[2019.04.03-02.28.49:119][444]LogSavePackage: Save=198.69ms
+[2019.04.03-02.28.49:119][444]LogSavePackage: Moving 'F:/Game Development/BoofStudios/BoofStudios_OneShotAnims/Boof_Core/Saved/DevWorldA1F67E0C432D1EAF8429389E3CB65CA0.tmp' to 'F:/Game Development/BoofStudios/BoofStudios_OneShotAnims/Boof_Core/Content/Levels/Dev/DevWorld.umap'
+[2019.04.03-02.28.49:124][444]LogSavePackage: Display: Finished SavePackage F:/Game Development/BoofStudios/BoofStudios_OneShotAnims/Boof_Core/Content/Levels/Dev/DevWorld.umap
+[2019.04.03-02.28.49:220][444]LogFileHelpers: Saving map 'DevWorld' took 0.442
+[2019.04.03-02.28.53:139][445]UATHelper: Packaging (Windows (64-bit)): Running AutomationTool...
+[2019.04.03-02.28.58:125][917]UATHelper: Packaging (Windows (64-bit)): Parsing command line: -ScriptsForProject="F:/Game Development/BoofStudios/BoofStudios_OneShotAnims/Boof_Core/Boof_Core.uproject" BuildCookRun -nocompileeditor -nop4 -project="F:/Game Development/BoofStudios/BoofStudios_OneShotAnims/Boof_Core/Boof_Core.uproject" -cook -stage -archive -archivedirectory=C:/Users/Dominic/Desktop -package -clientconfig=Development -ue4exe=UE4Editor-Cmd.exe -pak -prereqs -nodebuginfo -targetplatform=Win64 -build -utf8output -compile
+[2019.04.03-02.28.58:473][949]UATHelper: Packaging (Windows (64-bit)): Compiling scripts.
+[2019.04.03-02.28.59:645][ 56]UATHelper: Packaging (Windows (64-bit)):     DotNETUtilities -> C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Binaries\DotNET\DotNETUtilities.dll
+[2019.04.03-02.28.59:702][ 61]UATHelper: Packaging (Windows (64-bit)):     UnrealBuildTool -> C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Binaries\DotNET\UnrealBuildTool.exe
+[2019.04.03-02.28.59:744][ 65]UATHelper: Packaging (Windows (64-bit)):     AutomationUtils.Automation -> C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Binaries\DotNET\AutomationUtils.Automation.dll
+[2019.04.03-02.29.00:481][132]UATHelper: Packaging (Windows (64-bit)):     AllDesktop.Automation -> C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Binaries\DotNET\AutomationScripts\AllDesktop\AllDesktop.Automation.dll
+[2019.04.03-02.29.00:741][156]UATHelper: Packaging (Windows (64-bit)):     Localization.Automation -> C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Binaries\DotNET\AutomationScripts\Localization.Automation.dll
+[2019.04.03-02.29.00:853][166]UATHelper: Packaging (Windows (64-bit)):     OneSkyLocalization.Automation -> C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Binaries\DotNET\AutomationScripts\OneSkyLocalization.Automation.dll
+[2019.04.03-02.29.01:232][199]UATHelper: Packaging (Windows (64-bit)):     AutomationScripts.Automation -> C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Binaries\DotNET\AutomationScripts\AutomationScripts.Automation.dll
+[2019.04.03-02.29.01:372][212]UATHelper: Packaging (Windows (64-bit)):     Android.Automation -> C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Binaries\DotNET\AutomationScripts\Android\Android.Automation.dll
+[2019.04.03-02.29.01:635][235]UATHelper: Packaging (Windows (64-bit)):     BuildGraph.Automation -> C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Binaries\DotNET\AutomationScripts\BuildGraph.Automation.dll
+[2019.04.03-02.29.01:897][258]UATHelper: Packaging (Windows (64-bit)):     HTML5.Automation -> C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Binaries\DotNET\AutomationScripts\HTML5\HTML5.Automation.dll
+[2019.04.03-02.29.01:962][264]UATHelper: Packaging (Windows (64-bit)):     MobileDeviceInterface -> C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Binaries\DotNET\IOS\MobileDeviceInterface.dll
+[2019.04.03-02.29.02:096][276]UATHelper: Packaging (Windows (64-bit)):     IOS.Automation -> C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Binaries\DotNET\AutomationScripts\IOS\IOS.Automation.dll
+[2019.04.03-02.29.02:198][285]UATHelper: Packaging (Windows (64-bit)):     Linux.Automation -> C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Binaries\DotNET\AutomationScripts\Linux\Linux.Automation.dll
+[2019.04.03-02.29.02:293][294]UATHelper: Packaging (Windows (64-bit)):     Mac.Automation -> C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Binaries\DotNET\AutomationScripts\Mac\Mac.Automation.dll
+[2019.04.03-02.29.02:382][302]UATHelper: Packaging (Windows (64-bit)):     TVOS.Automation -> C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Binaries\DotNET\AutomationScripts\TVOS\TVOS.Automation.dll
+[2019.04.03-02.29.02:493][312]UATHelper: Packaging (Windows (64-bit)):     Win.Automation -> C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Binaries\DotNET\AutomationScripts\Win.Automation.dll
+[2019.04.03-02.29.02:611][323]UATHelper: Packaging (Windows (64-bit)):     XLocLocalization.Automation -> C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Binaries\DotNET\AutomationScripts\XLocLocalization.Automation.dll
+[2019.04.03-02.29.02:629][324]UATHelper: Packaging (Windows (64-bit)): Took 3.5234425s to run MSBuild.exe, ExitCode=0
+[2019.04.03-02.29.03:739][425]UATHelper: Packaging (Windows (64-bit)): Setting up ProjectParams for F:\Game Development\BoofStudios\BoofStudios_OneShotAnims\Boof_Core\Boof_Core.uproject
+[2019.04.03-02.29.04:174][465]UATHelper: Packaging (Windows (64-bit)): ********** BUILD COMMAND STARTED **********
+[2019.04.03-02.29.04:200][467]UATHelper: Packaging (Windows (64-bit)): Running: C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\MSBuild.exe "C:/Program Files/Epic Games/UnrealEngine-FleX-4.19.2/Engine/Source/Programs/UnrealBuildTool/UnrealBuildTool.csproj" /verbosity:minimal /nologo /property:Configuration=Development /property:Platform=AnyCPU
+[2019.04.03-02.29.04:651][508]UATHelper: Packaging (Windows (64-bit)):     DotNETUtilities -> C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Binaries\DotNET\DotNETUtilities.dll
+[2019.04.03-02.29.04:724][515]UATHelper: Packaging (Windows (64-bit)):     UnrealBuildTool -> C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Binaries\DotNET\UnrealBuildTool.exe
+[2019.04.03-02.29.04:727][515]UATHelper: Packaging (Windows (64-bit)): Took 0.5363431s to run MSBuild.exe, ExitCode=0
+[2019.04.03-02.29.04:738][516]UATHelper: Packaging (Windows (64-bit)): Running: C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Binaries\DotNET\UnrealBuildTool.exe Boof_Core Win64 Development -Project="F:\Game Development\BoofStudios\BoofStudios_OneShotAnims\Boof_Core\Boof_Core.uproject"  "F:\Game Development\BoofStudios\BoofStudios_OneShotAnims\Boof_Core\Boof_Core.uproject" -NoUBTMakefiles  -remoteini="F:\Game Development\BoofStudios\BoofStudios_OneShotAnims\Boof_Core" -skipdeploy -noxge -generatemanifest -NoHotReload
+[2019.04.03-02.29.05:142][553]UATHelper: Packaging (Windows (64-bit)):   Using 'git status' to determine working set for adaptive non-unity build.
+[2019.04.03-02.29.11:687][148]UATHelper: Packaging (Windows (64-bit)):   While compiling C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Intermediate\Build\BuildRules\UE4Rules.dll:
+[2019.04.03-02.29.11:687][148]UATHelper: Packaging (Windows (64-bit)):   WARNING: c:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Plugins\GameWorks\Flex\Source\ThirdParty\FlexLibrary\FlexLibrary.Build.cs(101,21) : warning CS0618: 'UnrealBuildTool.ModuleRules.RuntimeDependencyList.Add(UnrealBuildTool.ModuleRules.RuntimeDependency)' is obsolete: 'Constructing a RuntimeDependency object is deprecated. Call RuntimeDependencies.Add() with the path to the file to stage.'
+[2019.04.03-02.29.11:687][148]UATHelper: Packaging (Windows (64-bit)):   WARNING: c:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Plugins\GameWorks\Flex\Source\ThirdParty\FlexLibrary\FlexLibrary.Build.cs(119,21) : warning CS0618: 'UnrealBuildTool.ModuleRules.RuntimeDependencyList.Add(UnrealBuildTool.ModuleRules.RuntimeDependency)' is obsolete: 'Constructing a RuntimeDependency object is deprecated. Call RuntimeDependencies.Add() with the path to the file to stage.'
+[2019.04.03-02.29.11:687][148]UATHelper: Packaging (Windows (64-bit)):   WARNING: c:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Plugins\GameWorks\Flex\Source\ThirdParty\FlexLibrary\FlexLibrary.Build.cs(185,21) : warning CS0618: 'UnrealBuildTool.ModuleRules.RuntimeDependencyList.Add(UnrealBuildTool.ModuleRules.RuntimeDependency)' is obsolete: 'Constructing a RuntimeDependency object is deprecated. Call RuntimeDependencies.Add() with the path to the file to stage.'
+[2019.04.03-02.29.11:687][148]UATHelper: Packaging (Windows (64-bit)):   WARNING: c:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Plugins\GameWorks\Flex\Source\ThirdParty\FlexLibrary\FlexLibrary.Build.cs(205,21) : warning CS0618: 'UnrealBuildTool.ModuleRules.RuntimeDependencyList.Add(UnrealBuildTool.ModuleRules.RuntimeDependency)' is obsolete: 'Constructing a RuntimeDependency object is deprecated. Call RuntimeDependencies.Add() with the path to the file to stage.'
+[2019.04.03-02.29.11:687][148]PackagingResults: Warning: c:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Plugins\GameWorks\Flex\Source\ThirdParty\FlexLibrary\FlexLibrary.Build.cs(101,21) : warning CS0618: 'UnrealBuildTool.ModuleRules.RuntimeDependencyList.Add(UnrealBuildTool.ModuleRules.RuntimeDependency)' is obsolete: 'Constructing a RuntimeDependency object is deprecated. Call RuntimeDependencies.Add() with the path to the file to stage.'
+[2019.04.03-02.29.11:687][148]UATHelper: Packaging (Windows (64-bit)):   WARNING: c:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Plugins\GameWorks\Flex\Source\ThirdParty\FlexLibrary\FlexLibrary.Build.cs(14,13) : warning CS0618: 'UnrealBuildTool.ModuleRules.Definitions' is obsolete: 'The 'Definitions' property has been deprecated. Please use 'PublicDefinitions' instead.'
+[2019.04.03-02.29.11:687][148]PackagingResults: Warning: c:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Plugins\GameWorks\Flex\Source\ThirdParty\FlexLibrary\FlexLibrary.Build.cs(119,21) : warning CS0618: 'UnrealBuildTool.ModuleRules.RuntimeDependencyList.Add(UnrealBuildTool.ModuleRules.RuntimeDependency)' is obsolete: 'Constructing a RuntimeDependency object is deprecated. Call RuntimeDependencies.Add() with the path to the file to stage.'
+[2019.04.03-02.29.11:687][148]UATHelper: Packaging (Windows (64-bit)):   WARNING: c:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Plugins\GameWorks\Flex\Source\ThirdParty\FlexLibrary\FlexLibrary.Build.cs(18,9) : warning CS0618: 'UnrealBuildTool.ModuleRules.Definitions' is obsolete: 'The 'Definitions' property has been deprecated. Please use 'PublicDefinitions' instead.'
+[2019.04.03-02.29.11:687][148]PackagingResults: Warning: c:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Plugins\GameWorks\Flex\Source\ThirdParty\FlexLibrary\FlexLibrary.Build.cs(185,21) : warning CS0618: 'UnrealBuildTool.ModuleRules.RuntimeDependencyList.Add(UnrealBuildTool.ModuleRules.RuntimeDependency)' is obsolete: 'Constructing a RuntimeDependency object is deprecated. Call RuntimeDependencies.Add() with the path to the file to stage.'
+[2019.04.03-02.29.11:687][148]UATHelper: Packaging (Windows (64-bit)):   WARNING: c:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Plugins\GameWorks\Flex\Source\ThirdParty\FlexLibrary\FlexLibrary.Build.cs(22,13) : warning CS0618: 'UnrealBuildTool.ModuleRules.Definitions' is obsolete: 'The 'Definitions' property has been deprecated. Please use 'PublicDefinitions' instead.'
+[2019.04.03-02.29.11:687][148]PackagingResults: Warning: c:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Plugins\GameWorks\Flex\Source\ThirdParty\FlexLibrary\FlexLibrary.Build.cs(205,21) : warning CS0618: 'UnrealBuildTool.ModuleRules.RuntimeDependencyList.Add(UnrealBuildTool.ModuleRules.RuntimeDependency)' is obsolete: 'Constructing a RuntimeDependency object is deprecated. Call RuntimeDependencies.Add() with the path to the file to stage.'
+[2019.04.03-02.29.11:687][148]UATHelper: Packaging (Windows (64-bit)):   WARNING: c:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Plugins\GameWorks\Flex\Source\ThirdParty\FlexLibrary\FlexLibrary.Build.cs(23,13) : warning CS0618: 'UnrealBuildTool.ModuleRules.Definitions' is obsolete: 'The 'Definitions' property has been deprecated. Please use 'PublicDefinitions' instead.'
+[2019.04.03-02.29.11:687][148]PackagingResults: Warning: c:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Plugins\GameWorks\Flex\Source\ThirdParty\FlexLibrary\FlexLibrary.Build.cs(14,13) : warning CS0618: 'UnrealBuildTool.ModuleRules.Definitions' is obsolete: 'The 'Definitions' property has been deprecated. Please use 'PublicDefinitions' instead.'
+[2019.04.03-02.29.11:687][148]UATHelper: Packaging (Windows (64-bit)):   WARNING: c:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Plugins\GameWorks\Flex\Source\ThirdParty\FlexLibrary\FlexLibrary.Build.cs(28,13) : warning CS0618: 'UnrealBuildTool.ModuleRules.Definitions' is obsolete: 'The 'Definitions' property has been deprecated. Please use 'PublicDefinitions' instead.'
+[2019.04.03-02.29.11:687][148]PackagingResults: Warning: c:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Plugins\GameWorks\Flex\Source\ThirdParty\FlexLibrary\FlexLibrary.Build.cs(18,9) : warning CS0618: 'UnrealBuildTool.ModuleRules.Definitions' is obsolete: 'The 'Definitions' property has been deprecated. Please use 'PublicDefinitions' instead.'
+[2019.04.03-02.29.11:687][148]UATHelper: Packaging (Windows (64-bit)):   WARNING: c:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Plugins\GameWorks\Flex\Source\ThirdParty\FlexLibrary\FlexLibrary.Build.cs(29,13) : warning CS0618: 'UnrealBuildTool.ModuleRules.Definitions' is obsolete: 'The 'Definitions' property has been deprecated. Please use 'PublicDefinitions' instead.'
+[2019.04.03-02.29.11:687][148]PackagingResults: Warning: c:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Plugins\GameWorks\Flex\Source\ThirdParty\FlexLibrary\FlexLibrary.Build.cs(22,13) : warning CS0618: 'UnrealBuildTool.ModuleRules.Definitions' is obsolete: 'The 'Definitions' property has been deprecated. Please use 'PublicDefinitions' instead.'
+[2019.04.03-02.29.11:688][148]PackagingResults: Warning: c:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Plugins\GameWorks\Flex\Source\ThirdParty\FlexLibrary\FlexLibrary.Build.cs(23,13) : warning CS0618: 'UnrealBuildTool.ModuleRules.Definitions' is obsolete: 'The 'Definitions' property has been deprecated. Please use 'PublicDefinitions' instead.'
+[2019.04.03-02.29.11:688][148]PackagingResults: Warning: c:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Plugins\GameWorks\Flex\Source\ThirdParty\FlexLibrary\FlexLibrary.Build.cs(28,13) : warning CS0618: 'UnrealBuildTool.ModuleRules.Definitions' is obsolete: 'The 'Definitions' property has been deprecated. Please use 'PublicDefinitions' instead.'
+[2019.04.03-02.29.11:688][148]PackagingResults: Warning: c:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Plugins\GameWorks\Flex\Source\ThirdParty\FlexLibrary\FlexLibrary.Build.cs(29,13) : warning CS0618: 'UnrealBuildTool.ModuleRules.Definitions' is obsolete: 'The 'Definitions' property has been deprecated. Please use 'PublicDefinitions' instead.'
+[2019.04.03-02.29.14:166][373]UATHelper: Packaging (Windows (64-bit)): Took 9.4289301s to run UnrealBuildTool.exe, ExitCode=0
+[2019.04.03-02.29.14:200][376]UATHelper: Packaging (Windows (64-bit)): Running: C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Binaries\DotNET\UnrealBuildTool.exe Boof_Core Win64 Development -Project="F:\Game Development\BoofStudios\BoofStudios_OneShotAnims\Boof_Core\Boof_Core.uproject"  "F:\Game Development\BoofStudios\BoofStudios_OneShotAnims\Boof_Core\Boof_Core.uproject" -NoUBTMakefiles  -remoteini="F:\Game Development\BoofStudios\BoofStudios_OneShotAnims\Boof_Core" -skipdeploy -noxge -NoHotReload -ignorejunk
+[2019.04.03-02.29.14:400][394]UATHelper: Packaging (Windows (64-bit)):   Using 'git status' to determine working set for adaptive non-unity build.
+[2019.04.03-02.29.59:009][445]UATHelper: Packaging (Windows (64-bit)):   Building UnrealHeaderTool...
+[2019.04.03-02.29.59:209][463]UATHelper: Packaging (Windows (64-bit)):   Creating makefile for UnrealHeaderTool (UnrealBuildTool.exe is newer)
+[2019.04.03-02.30.01:427][665]UATHelper: Packaging (Windows (64-bit)):   Target is up to date
+[2019.04.03-02.30.01:446][667]UATHelper: Packaging (Windows (64-bit)):   Total build time: 2.26 seconds (NoActionsToExecute executor: 0.00 seconds)
+[2019.04.03-02.30.01:459][668]UATHelper: Packaging (Windows (64-bit)):   Parsing headers for Boof_Core
+[2019.04.03-02.30.01:503][672]UATHelper: Packaging (Windows (64-bit)):     Running UnrealHeaderTool "F:\Game Development\BoofStudios\BoofStudios_OneShotAnims\Boof_Core\Boof_Core.uproject" "F:\Game Development\BoofStudios\BoofStudios_OneShotAnims\Boof_Core\Intermediate\Build\Win64\Boof_Core\Development\Boof_Core.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors
+[2019.04.03-02.30.10:543][490]LogSlate: Took 0.009484 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2019.04.03-02.30.44:455][402]UATHelper: Packaging (Windows (64-bit)):   Reflection code generated for Boof_Core in 42.9540857 seconds
+[2019.04.03-02.31.09:404][578]UATHelper: Packaging (Windows (64-bit)):   Performing 457 actions (12 in parallel)
+[2019.04.03-02.31.09:494][584]UATHelper: Packaging (Windows (64-bit)):   SharedPCH.CoreUObject.cpp
+[2019.04.03-02.31.09:494][584]UATHelper: Packaging (Windows (64-bit)):   SharedPCH.Core.cpp
+[2019.04.03-02.31.09:511][585]UATHelper: Packaging (Windows (64-bit)):   PCH.Core.cpp
+[2019.04.03-02.31.09:512][585]UATHelper: Packaging (Windows (64-bit)):   PCH.OpenExrWrapper.cpp
+[2019.04.03-02.31.09:530][586]UATHelper: Packaging (Windows (64-bit)):   PCH.CoreUObject.cpp
+[2019.04.03-02.31.09:561][588]UATHelper: Packaging (Windows (64-bit)):   SharedPCH.Slate.cpp
+[2019.04.03-02.31.09:562][588]UATHelper: Packaging (Windows (64-bit)):   SharedPCH.Slate.NonOptimized.cpp
+[2019.04.03-02.31.09:643][593]UATHelper: Packaging (Windows (64-bit)):   SharedPCH.Engine.cpp
+[2019.04.03-02.31.09:762][600]UATHelper: Packaging (Windows (64-bit)):   Module.Flex.cpp
+[2019.04.03-02.31.09:763][600]UATHelper: Packaging (Windows (64-bit)):   Module.SteamVR.cpp
+[2019.04.03-02.31.09:781][601]UATHelper: Packaging (Windows (64-bit)):   Module.OculusHMD.cpp
+[2019.04.03-02.31.09:861][605]UATHelper: Packaging (Windows (64-bit)):   PCH.Engine.cpp
+[2019.04.03-02.31.11:945][719]UATHelper: Packaging (Windows (64-bit)):   Module.OnlineSubsystemUtils.cpp
+[2019.04.03-02.31.14:801][875]UATHelper: Packaging (Windows (64-bit)):   Module.Paper2D.cpp
+[2019.04.03-02.31.15:750][927]UATHelper: Packaging (Windows (64-bit)):   Module.PhysXVehicles.cpp
+[2019.04.03-02.31.16:473][966]UATHelper: Packaging (Windows (64-bit)):   Module.MediaCompositing.cpp
+[2019.04.03-02.31.19:449][125]UATHelper: Packaging (Windows (64-bit)):   Module.ImmediatePhysics.cpp
+[2019.04.03-02.31.32:771][808]UATHelper: Packaging (Windows (64-bit)):   Module.AppleARKit.cpp
+[2019.04.03-02.31.33:350][839]UATHelper: Packaging (Windows (64-bit)):   Module.LiveLink.cpp
+[2019.04.03-02.31.51:548][806]UATHelper: Packaging (Windows (64-bit)):   C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Plugins\GameWorks\Flex\Source\Flex\Private\FlexRender.cpp(119): warning C4458: declaration of 'VertexBuffer' hides class member
+[2019.04.03-02.31.51:549][806]UATHelper: Packaging (Windows (64-bit)):   C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Plugins\GameWorks\Flex\Source\Flex\Public\FlexRender.h(138): note: see declaration of 'FFlexCPUVertexFactory::VertexBuffer'
+[2019.04.03-02.31.51:549][806]UATHelper: Packaging (Windows (64-bit)):   C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Plugins\GameWorks\Flex\Source\Flex\Private\FlexRender.cpp(119): warning C4458: declaration of 'AttributeBuffer' hides class member
+[2019.04.03-02.31.51:550][806]UATHelper: Packaging (Windows (64-bit)):   C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Plugins\GameWorks\Flex\Source\Flex\Public\FlexRender.h(139): note: see declaration of 'FFlexCPUVertexFactory::AttributeBuffer'
+[2019.04.03-02.32.03:202][351]UATHelper: Packaging (Windows (64-bit)):   Module.Paper2D.gen.cpp
+[2019.04.03-02.32.14:747][837]UATHelper: Packaging (Windows (64-bit)):   Module.Flex.gen.cpp
+[2019.04.03-02.32.19:162][992]UATHelper: Packaging (Windows (64-bit)):   Module.PhysXVehicles.gen.cpp
+[2019.04.03-02.32.21:137][ 83]UATHelper: Packaging (Windows (64-bit)):   Module.LiveLink.gen.cpp
+[2019.04.03-02.32.22:156][125]UATHelper: Packaging (Windows (64-bit)):   Module.ProceduralMeshComponent.cpp
+[2019.04.03-02.32.22:528][142]UATHelper: Packaging (Windows (64-bit)):   Module.OnlineSubsystemUtils.gen.cpp
+[2019.04.03-02.32.24:686][235]UATHelper: Packaging (Windows (64-bit)):   Module.CableComponent.cpp
+[2019.04.03-02.32.28:218][401]UATHelper: Packaging (Windows (64-bit)):   Module.CustomMeshComponent.cpp
+[2019.04.03-02.32.28:238][402]UATHelper: Packaging (Windows (64-bit)):   C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Plugins\GameWorks\Flex\Source\Flex\Classes/FlexFluidSurfaceActor.h(11): error C2504: 'AInfo': base class undefined
+[2019.04.03-02.32.28:239][402]UATHelper: Packaging (Windows (64-bit)):   C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Plugins\GameWorks\Flex\Source\Flex\Classes/FlexFluidSurfaceActor.h(12): error C3646: 'Super': unknown override specifier
+[2019.04.03-02.32.28:240][402]UATHelper: Packaging (Windows (64-bit)):   C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Plugins\GameWorks\Flex\Source\Flex\Classes/FlexFluidSurfaceActor.h(12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+[2019.04.03-02.32.28:241][402]UATHelper: Packaging (Windows (64-bit)):   C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Plugins\GameWorks\Flex\Intermediate\Build\Win64\Boof_Core\Inc\Flex\FlexFluidSurfaceActor.gen.cpp(63): error C2039: 'StaticConfigName': is not a member of 'AFlexFluidSurfaceActor'
+[2019.04.03-02.32.28:242][402]UATHelper: Packaging (Windows (64-bit)):   C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Plugins\GameWorks\Flex\Source\Flex\Classes/FlexFluidSurfaceActor.h(10): note: see declaration of 'AFlexFluidSurfaceActor'
+[2019.04.03-02.32.28:243][402]UATHelper: Packaging (Windows (64-bit)):   C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Plugins\GameWorks\Flex\Intermediate\Build\Win64\Boof_Core\Inc\Flex\FlexFluidSurfaceActor.gen.cpp(63): error C3861: 'StaticConfigName': identifier not found
+[2019.04.03-02.32.28:244][402]UATHelper: Packaging (Windows (64-bit)):   C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Plugins\GameWorks\Flex\Intermediate\Build\Win64\Boof_Core\Inc\Flex\FlexFluidSurfaceActor.gen.cpp(63): error C2039: 'AddReferencedObjects': is not a member of 'AFlexFluidSurfaceActor'
+[2019.04.03-02.32.28:245][402]UATHelper: Packaging (Windows (64-bit)):   C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Plugins\GameWorks\Flex\Source\Flex\Classes/FlexFluidSurfaceActor.h(10): note: see declaration of 'AFlexFluidSurfaceActor'
+[2019.04.03-02.32.28:246][402]UATHelper: Packaging (Windows (64-bit)):   C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Plugins\GameWorks\Flex\Intermediate\Build\Win64\Boof_Core\Inc\Flex\FlexFluidSurfaceActor.gen.cpp(63): error C2065: 'AddReferencedObjects': undeclared identifier
+[2019.04.03-02.32.28:247][402]UATHelper: Packaging (Windows (64-bit)):   C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Plugins\GameWorks\Flex\Intermediate\Build\Win64\Boof_Core\Inc\Flex\FlexFluidSurfaceActor.gen.cpp(63): error C3083: 'Super': the symbol to the left of a '::' must be a type
+[2019.04.03-02.32.28:248][402]UATHelper: Packaging (Windows (64-bit)):   C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Plugins\GameWorks\Flex\Intermediate\Build\Win64\Boof_Core\Inc\Flex\FlexFluidSurfaceActor.gen.cpp(63): error C3083: 'WithinClass': the symbol to the left of a '::' must be a type
+[2019.04.03-02.32.28:250][402]UATHelper: Packaging (Windows (64-bit)):   C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Plugins\GameWorks\Flex\Intermediate\Build\Win64\Boof_Core\Inc\Flex\FlexFluidSurfaceActor.gen.cpp(65): error C2614: 'AFlexFluidSurfaceActor': illegal member initialization: 'Super' is not a base or member
+[2019.04.03-02.32.28:506][414]UATHelper: Packaging (Windows (64-bit)):   Module.ImmediatePhysics.gen.cpp
+[2019.04.03-02.32.29:626][473]UATHelper: Packaging (Windows (64-bit)):   Module.AppleARKit.gen.cpp
+[2019.04.03-02.32.42:897][608]UATHelper: Packaging (Windows (64-bit)):   Module.OculusInput.cpp
+[2019.04.03-02.32.43:229][609]UATHelper: Packaging (Windows (64-bit)):   Module.SteamVRController.cpp
+[2019.04.03-02.32.46:902][620]UATHelper: Packaging (Windows (64-bit)):   Module.OnlineSubsystemNull.cpp
+[2019.04.03-02.32.51:573][634]UATHelper: Packaging (Windows (64-bit)):   Module.ArchVisCharacter.cpp
+[2019.04.03-02.32.57:581][652]UATHelper: Packaging (Windows (64-bit)):   Module.WmfMedia.cpp
+[2019.04.03-02.32.57:914][653]UATHelper: Packaging (Windows (64-bit)):   Module.LPVRuntime.cpp
+[2019.04.03-02.33.00:914][662]UATHelper: Packaging (Windows (64-bit)):   Module.OculusHMD.gen.cpp
+[2019.04.03-02.33.01:912][665]UATHelper: Packaging (Windows (64-bit)):   Module.HTML5Networking.cpp
+[2019.04.03-02.33.02:246][666]UATHelper: Packaging (Windows (64-bit)):   Module.MediaCompositing.gen.cpp
+[2019.04.03-02.33.03:916][671]UATHelper: Packaging (Windows (64-bit)):   Module.ArchVisCharacter.gen.cpp
+[2019.04.03-02.33.06:919][680]UATHelper: Packaging (Windows (64-bit)):   Module.ActorSequence.cpp
+[2019.04.03-02.33.08:254][684]UATHelper: Packaging (Windows (64-bit)):   Module.WindowsMoviePlayer.cpp
+[2019.04.03-02.33.18:282][714]UATHelper: Packaging (Windows (64-bit)):   Module.ActorSequence.gen.cpp
+[2019.04.03-02.33.18:931][716]UATHelper: Packaging (Windows (64-bit)):   Module.HTML5Networking.gen.cpp
+[2019.04.03-02.33.18:932][716]UATHelper: Packaging (Windows (64-bit)):   Module.ProceduralMeshComponent.gen.cpp
+[2019.04.03-02.33.20:595][721]UATHelper: Packaging (Windows (64-bit)):   C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\vcruntime_new.h(71): error C4577: 'noexcept' used with no exception handling mode specified; termination on exception is not guaranteed. Specify /EHsc
+[2019.04.03-02.33.20:596][721]UATHelper: Packaging (Windows (64-bit)):   Module.CableComponent.gen.cpp
+[2019.04.03-02.33.20:596][721]UATHelper: Packaging (Windows (64-bit)):   Module.AudioCapture.cpp
+[2019.04.03-02.33.20:597][721]UATHelper: Packaging (Windows (64-bit)):   Module.AudioCapture.gen.cpp
+[2019.04.03-02.33.20:597][721]UATHelper: Packaging (Windows (64-bit)):   Module.UdpMessaging.cpp
+[2019.04.03-02.33.20:931][722]UATHelper: Packaging (Windows (64-bit)):   Module.OnlineSubsystem.cpp
+[2019.04.03-02.33.21:270][723]UATHelper: Packaging (Windows (64-bit)):   Module.CustomMeshComponent.gen.cpp
+[2019.04.03-02.33.23:265][729]UATHelper: Packaging (Windows (64-bit)):   Module.FacialAnimation.cpp
+[2019.04.03-02.33.23:933][731]UATHelper: Packaging (Windows (64-bit)):   Module.FacialAnimation.gen.cpp
+[2019.04.03-02.33.30:970][752]UATHelper: Packaging (Windows (64-bit)):   Module.ImgMedia.cpp
+[2019.04.03-02.33.31:609][754]UATHelper: Packaging (Windows (64-bit)):   Module.TcpMessaging.cpp
+[2019.04.03-02.33.31:609][754]UATHelper: Packaging (Windows (64-bit)):   Module.LinearTimecode.cpp
+[2019.04.03-02.33.32:612][757]UATHelper: Packaging (Windows (64-bit)):   Module.DatasmithContent.gen.cpp
+[2019.04.03-02.33.32:973][758]UATHelper: Packaging (Windows (64-bit)):   Module.LinearTimecode.gen.cpp
+[2019.04.03-02.33.33:613][760]UATHelper: Packaging (Windows (64-bit)):   Module.SteamVR.gen.cpp
+[2019.04.03-02.33.33:943][761]UATHelper: Packaging (Windows (64-bit)):   Module.OnlineSubsystem.gen.cpp
+[2019.04.03-02.33.33:944][761]UATHelper: Packaging (Windows (64-bit)):   Module.MobilePatchingUtils.cpp
+[2019.04.03-02.33.35:614][766]UATHelper: Packaging (Windows (64-bit)):   Module.ImgMedia.gen.cpp
+[2019.04.03-02.33.36:967][770]UATHelper: Packaging (Windows (64-bit)):   Module.UdpMessaging.gen.cpp
+[2019.04.03-02.33.37:284][771]UATHelper: Packaging (Windows (64-bit)):   Module.MobilePatchingUtils.gen.cpp
+[2019.04.03-02.33.43:959][791]UATHelper: Packaging (Windows (64-bit)):   Module.LPVRuntime.gen.cpp
+[2019.04.03-02.33.44:291][792]UATHelper: Packaging (Windows (64-bit)):   Module.LocationServicesBPLibrary.gen.cpp
+[2019.04.03-02.33.44:292][792]UATHelper: Packaging (Windows (64-bit)):   Module.AndroidPermission.gen.cpp
+[2019.04.03-02.33.44:624][793]UATHelper: Packaging (Windows (64-bit)):   Module.WmfMediaFactory.cpp
+[2019.04.03-02.33.44:625][793]UATHelper: Packaging (Windows (64-bit)):   Module.SteamVRController.gen.cpp
+[2019.04.03-02.33.44:625][793]UATHelper: Packaging (Windows (64-bit)):   Module.AndroidPermission.cpp
+[2019.04.03-02.33.44:960][794]UATHelper: Packaging (Windows (64-bit)):   Module.ImgMediaFactory.cpp
+[2019.04.03-02.33.44:960][794]UATHelper: Packaging (Windows (64-bit)):   Module.ImgMediaFactory.gen.cpp
+[2019.04.03-02.33.45:627][796]UATHelper: Packaging (Windows (64-bit)):   Module.TcpMessaging.gen.cpp
+[2019.04.03-02.33.46:293][798]UATHelper: Packaging (Windows (64-bit)):   Module.WmfMediaFactory.gen.cpp
+[2019.04.03-02.33.46:625][799]UATHelper: Packaging (Windows (64-bit)):   Module.AvfMediaFactory.gen.cpp
+[2019.04.03-02.33.46:625][799]UATHelper: Packaging (Windows (64-bit)):   Module.AvfMediaFactory.cpp
+[2019.04.03-02.33.50:959][812]UATHelper: Packaging (Windows (64-bit)):   Module.LocationServicesBPLibrary.cpp
+[2019.04.03-02.33.51:626][814]UATHelper: Packaging (Windows (64-bit)):   Module.ExampleDeviceProfileSelector.cpp
+[2019.04.03-02.33.51:627][814]UATHelper: Packaging (Windows (64-bit)):   Module.OpenExrWrapper.cpp
+[2019.04.03-02.33.51:963][815]UATHelper: Packaging (Windows (64-bit)):   Module.CharacterAI.cpp
+[2019.04.03-02.33.51:963][815]UATHelper: Packaging (Windows (64-bit)):   Module.RuntimePhysXCooking.cpp
+[2019.04.03-02.33.52:294][816]UATHelper: Packaging (Windows (64-bit)):   [83/457] Resource PCLaunch.rc
+[2019.04.03-02.33.52:295][816]UATHelper: Packaging (Windows (64-bit)):   PCH.ImageWrapper.cpp
+[2019.04.03-02.33.52:295][816]UATHelper: Packaging (Windows (64-bit)):   Module.DatasmithContent.cpp
+[2019.04.03-02.33.52:632][817]UATHelper: Packaging (Windows (64-bit)):   [84/457] Resource PCLaunch.rc
+[2019.04.03-02.33.52:633][817]UATHelper: Packaging (Windows (64-bit)):   [85/457] Resource PCLaunch.rc
+[2019.04.03-02.33.52:960][818]UATHelper: Packaging (Windows (64-bit)):   [86/457] Resource PCLaunch.rc
+[2019.04.03-02.33.52:960][818]UATHelper: Packaging (Windows (64-bit)):   [87/457] Resource PCLaunch.rc
+[2019.04.03-02.33.52:960][818]UATHelper: Packaging (Windows (64-bit)):   [88/457] Resource PCLaunch.rc
+[2019.04.03-02.33.53:314][819]UATHelper: Packaging (Windows (64-bit)):   [89/457] Resource PCLaunch.rc
+[2019.04.03-02.33.53:315][819]UATHelper: Packaging (Windows (64-bit)):   [90/457] Resource PCLaunch.rc
+[2019.04.03-02.33.53:316][819]UATHelper: Packaging (Windows (64-bit)):   [91/457] Resource PCLaunch.rc
+[2019.04.03-02.33.53:317][819]UATHelper: Packaging (Windows (64-bit)):   [92/457] Resource PCLaunch.rc
+[2019.04.03-02.33.53:318][819]UATHelper: Packaging (Windows (64-bit)):   [93/457] Resource PCLaunch.rc
+[2019.04.03-02.33.53:318][819]UATHelper: Packaging (Windows (64-bit)):   [94/457] Resource PCLaunch.rc
+[2019.04.03-02.33.53:627][820]UATHelper: Packaging (Windows (64-bit)):   [95/457] Resource PCLaunch.rc
+[2019.04.03-02.33.53:627][820]UATHelper: Packaging (Windows (64-bit)):   [96/457] Resource PCLaunch.rc
+[2019.04.03-02.33.53:628][820]UATHelper: Packaging (Windows (64-bit)):   [97/457] Resource PCLaunch.rc
+[2019.04.03-02.33.53:628][820]UATHelper: Packaging (Windows (64-bit)):   [98/457] Resource PCLaunch.rc
+[2019.04.03-02.33.53:628][820]UATHelper: Packaging (Windows (64-bit)):   [99/457] Resource PCLaunch.rc
+[2019.04.03-02.33.53:965][821]UATHelper: Packaging (Windows (64-bit)):   [100/457] Resource PCLaunch.rc
+[2019.04.03-02.33.53:966][821]UATHelper: Packaging (Windows (64-bit)):   [101/457] Resource PCLaunch.rc
+[2019.04.03-02.33.53:966][821]UATHelper: Packaging (Windows (64-bit)):   [102/457] Resource PCLaunch.rc
+[2019.04.03-02.33.53:966][821]UATHelper: Packaging (Windows (64-bit)):   [103/457] Resource PCLaunch.rc
+[2019.04.03-02.33.54:294][822]UATHelper: Packaging (Windows (64-bit)):   [104/457] Resource PCLaunch.rc
+[2019.04.03-02.33.54:295][822]UATHelper: Packaging (Windows (64-bit)):   [105/457] Resource PCLaunch.rc
+[2019.04.03-02.33.54:296][822]UATHelper: Packaging (Windows (64-bit)):   [106/457] Resource PCLaunch.rc
+[2019.04.03-02.33.54:296][822]UATHelper: Packaging (Windows (64-bit)):   [107/457] Resource PCLaunch.rc
+[2019.04.03-02.33.54:296][822]UATHelper: Packaging (Windows (64-bit)):   [108/457] Resource PCLaunch.rc
+[2019.04.03-02.33.54:297][822]UATHelper: Packaging (Windows (64-bit)):   [109/457] Resource PCLaunch.rc
+[2019.04.03-02.33.54:297][822]UATHelper: Packaging (Windows (64-bit)):   [110/457] Resource PCLaunch.rc
+[2019.04.03-02.33.54:628][823]UATHelper: Packaging (Windows (64-bit)):   [111/457] Resource PCLaunch.rc
+[2019.04.03-02.33.54:629][823]UATHelper: Packaging (Windows (64-bit)):   [112/457] Resource PCLaunch.rc
+[2019.04.03-02.33.54:629][823]UATHelper: Packaging (Windows (64-bit)):   [113/457] Resource PCLaunch.rc
+[2019.04.03-02.33.54:629][823]UATHelper: Packaging (Windows (64-bit)):   [114/457] Resource PCLaunch.rc
+[2019.04.03-02.33.54:630][823]UATHelper: Packaging (Windows (64-bit)):   [115/457] Resource PCLaunch.rc
+[2019.04.03-02.33.54:630][823]UATHelper: Packaging (Windows (64-bit)):   [116/457] Resource PCLaunch.rc
+[2019.04.03-02.33.54:631][823]UATHelper: Packaging (Windows (64-bit)):   [117/457] Resource PCLaunch.rc
+[2019.04.03-02.33.54:631][823]UATHelper: Packaging (Windows (64-bit)):   [118/457] Resource PCLaunch.rc
+[2019.04.03-02.33.54:632][823]UATHelper: Packaging (Windows (64-bit)):   [119/457] Resource PCLaunch.rc
+[2019.04.03-02.33.54:632][823]UATHelper: Packaging (Windows (64-bit)):   [120/457] Resource PCLaunch.rc
+[2019.04.03-02.33.54:632][823]UATHelper: Packaging (Windows (64-bit)):   [121/457] Resource PCLaunch.rc
+[2019.04.03-02.33.54:965][824]UATHelper: Packaging (Windows (64-bit)):   [122/457] Resource PCLaunch.rc
+[2019.04.03-02.33.54:966][824]UATHelper: Packaging (Windows (64-bit)):   PCH.UELinkerFixups.cpp
+[2019.04.03-02.33.55:628][826]UATHelper: Packaging (Windows (64-bit)):   Module.AIModule.2_of_4.cpp
+[2019.04.03-02.33.55:628][826]UATHelper: Packaging (Windows (64-bit)):   Module.MovieSceneTracks.cpp
+[2019.04.03-02.33.55:629][826]UATHelper: Packaging (Windows (64-bit)):   Module.Engine.37_of_39.cpp
+[2019.04.03-02.33.55:629][826]UATHelper: Packaging (Windows (64-bit)):   Module.UMG.cpp
+[2019.04.03-02.33.55:963][827]UATHelper: Packaging (Windows (64-bit)):   Module.Engine.30_of_39.cpp
+[2019.04.03-02.33.55:964][827]UATHelper: Packaging (Windows (64-bit)):   Module.Engine.16_of_39.cpp
+[2019.04.03-02.33.55:964][827]UATHelper: Packaging (Windows (64-bit)):   Module.Engine.17_of_39.cpp
+[2019.04.03-02.33.55:965][827]UATHelper: Packaging (Windows (64-bit)):   Module.Engine.21_of_39.cpp
+[2019.04.03-02.33.56:963][830]UATHelper: Packaging (Windows (64-bit)):   Module.Engine.39_of_39.cpp
+[2019.04.03-02.33.57:295][831]UATHelper: Packaging (Windows (64-bit)):   Module.Engine.34_of_39.cpp
+[2019.04.03-02.33.57:295][831]UATHelper: Packaging (Windows (64-bit)):   Module.Engine.19_of_39.cpp
+[2019.04.03-02.33.58:628][835]UATHelper: Packaging (Windows (64-bit)):   Module.AIModule.3_of_4.cpp
+[2019.04.03-02.34.20:643][901]UATHelper: Packaging (Windows (64-bit)):   Module.Engine.8_of_39.cpp
+[2019.04.03-02.34.44:678][973]UATHelper: Packaging (Windows (64-bit)):   Module.Engine.22_of_39.cpp
+[2019.04.03-02.34.49:685][988]UATHelper: Packaging (Windows (64-bit)):   Module.Engine.20_of_39.cpp
+[2019.04.03-02.34.52:688][997]UATHelper: Packaging (Windows (64-bit)):   C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Source\Runtime\Engine\Private\Materials\MaterialExpressions.cpp(2548): warning C4996: 'UEnum::GetEnumName': GetEnumName is deprecated, call GetNameStringByIndex instead Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+[2019.04.03-02.34.52:691][997]UATHelper: Packaging (Windows (64-bit)):   C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Source\Runtime\CoreUObject\Public\UObject/Class.h(1808): note: see declaration of 'UEnum::GetEnumName'
+[2019.04.03-02.34.55:022][  4]UATHelper: Packaging (Windows (64-bit)):   Module.Engine.12_of_39.cpp
+[2019.04.03-02.34.55:727][  6]UATHelper: Packaging (Windows (64-bit)):   Module.Engine.1_of_39.cpp
+[2019.04.03-02.34.57:389][ 11]UATHelper: Packaging (Windows (64-bit)):   Module.Engine.27_of_39.cpp
+[2019.04.03-02.35.02:037][ 25]UATHelper: Packaging (Windows (64-bit)):   Module.MovieSceneTracks.gen.cpp
+[2019.04.03-02.35.05:705][ 36]UATHelper: Packaging (Windows (64-bit)):   Module.Engine.6_of_39.cpp
+[2019.04.03-02.35.09:594][ 46]UATHelper: Packaging (Windows (64-bit)):   Module.Engine.18_of_39.cpp
+[2019.04.03-02.35.10:594][ 49]UATHelper: Packaging (Windows (64-bit)):   Module.AnimGraphRuntime.cpp
+[2019.04.03-02.35.19:608][ 76]UATHelper: Packaging (Windows (64-bit)):   Module.Engine.9_of_39.cpp
+[2019.04.03-02.35.33:044][116]UATHelper: Packaging (Windows (64-bit)):   Module.Engine.38_of_39.cpp
+[2019.04.03-02.35.37:630][130]UATHelper: Packaging (Windows (64-bit)):   Module.AIModule.1_of_4.cpp
+[2019.04.03-02.35.47:311][159]UATHelper: Packaging (Windows (64-bit)):   Module.Engine.25_of_39.cpp
+[2019.04.03-02.35.47:312][159]UATHelper: Packaging (Windows (64-bit)):   Module.Engine.11_of_39.cpp
+[2019.04.03-02.35.58:326][192]UATHelper: Packaging (Windows (64-bit)):   Module.Engine.13_of_39.cpp
+[2019.04.03-02.35.59:998][197]UATHelper: Packaging (Windows (64-bit)):   Module.Engine.28_of_39.cpp
+[2019.04.03-02.36.00:331][198]UATHelper: Packaging (Windows (64-bit)):   Module.UMG.gen.2_of_6.cpp
+[2019.04.03-02.36.16:008][245]UATHelper: Packaging (Windows (64-bit)):   Module.Engine.36_of_39.cpp
+[2019.04.03-02.36.26:680][277]UATHelper: Packaging (Windows (64-bit)):   Module.Engine.26_of_39.cpp
+[2019.04.03-02.36.28:015][281]UATHelper: Packaging (Windows (64-bit)):   Module.Engine.24_of_39.cpp
+[2019.04.03-02.36.28:684][283]UATHelper: Packaging (Windows (64-bit)):   Module.Engine.15_of_39.cpp
+[2019.04.03-02.36.36:030][305]UATHelper: Packaging (Windows (64-bit)):   Module.Launch.cpp
+[2019.04.03-02.36.37:701][310]UATHelper: Packaging (Windows (64-bit)):   Module.Engine.29_of_39.cpp
+[2019.04.03-02.36.39:368][315]UATHelper: Packaging (Windows (64-bit)):   Module.AnimGraphRuntime.gen.cpp
+[2019.04.03-02.36.46:047][335]UATHelper: Packaging (Windows (64-bit)):   Module.Engine.5_of_39.cpp
+[2019.04.03-02.36.46:714][337]UATHelper: Packaging (Windows (64-bit)):   Module.MovieSceneCapture.cpp
+[2019.04.03-02.36.48:382][342]UATHelper: Packaging (Windows (64-bit)):   Module.Engine.31_of_39.cpp
+[2019.04.03-02.36.50:052][347]UATHelper: Packaging (Windows (64-bit)):   Module.Engine.33_of_39.cpp
+[2019.04.03-02.37.03:409][387]UATHelper: Packaging (Windows (64-bit)):   Module.Engine.3_of_39.cpp
+[2019.04.03-02.37.03:741][388]UATHelper: Packaging (Windows (64-bit)):   Module.Landscape.1_of_3.cpp
+[2019.04.03-02.37.08:081][401]UATHelper: Packaging (Windows (64-bit)):   Module.Engine.14_of_39.cpp
+[2019.04.03-02.37.16:425][426]UATHelper: Packaging (Windows (64-bit)):   Module.Landscape.2_of_3.cpp
+[2019.04.03-02.37.21:431][441]UATHelper: Packaging (Windows (64-bit)):   Module.AIModule.gen.4_of_5.cpp
+[2019.04.03-02.37.28:096][461]UATHelper: Packaging (Windows (64-bit)):   Module.Engine.4_of_39.cpp
+[2019.04.03-02.37.33:097][476]UATHelper: Packaging (Windows (64-bit)):   Module.Engine.2_of_39.cpp
+[2019.04.03-02.37.48:447][522]UATHelper: Packaging (Windows (64-bit)):   Module.Engine.35_of_39.cpp
+[2019.04.03-02.37.49:121][524]UATHelper: Packaging (Windows (64-bit)):   Module.HeadMountedDisplay.cpp
+[2019.04.03-02.37.52:434][534]UATHelper: Packaging (Windows (64-bit)):   Module.AIModule.gen.3_of_5.cpp
+[2019.04.03-02.37.58:791][553]UATHelper: Packaging (Windows (64-bit)):   Module.Engine.32_of_39.cpp
+[2019.04.03-02.38.05:434][573]UATHelper: Packaging (Windows (64-bit)):   Module.Renderer.8_of_11.cpp
+[2019.04.03-02.38.09:435][585]UATHelper: Packaging (Windows (64-bit)):   Module.Engine.gen.28_of_41.cpp
+[2019.04.03-02.38.14:104][599]UATHelper: Packaging (Windows (64-bit)):   Module.ClothingSystemRuntime.cpp
+[2019.04.03-02.38.19:464][615]UATHelper: Packaging (Windows (64-bit)):   Module.Renderer.6_of_11.cpp
+[2019.04.03-02.38.20:100][617]UATHelper: Packaging (Windows (64-bit)):   Module.GameplayDebugger.cpp
+[2019.04.03-02.38.21:434][621]UATHelper: Packaging (Windows (64-bit)):   Module.Renderer.7_of_11.cpp
+[2019.04.03-02.38.24:469][630]UATHelper: Packaging (Windows (64-bit)):   Module.Renderer.9_of_11.cpp
+[2019.04.03-02.38.27:484][639]UATHelper: Packaging (Windows (64-bit)):   Module.Engine.10_of_39.cpp
+[2019.04.03-02.38.33:572][740]UATHelper: Packaging (Windows (64-bit)):   Module.LevelSequence.cpp
+[2019.04.03-02.38.33:929][755]UATHelper: Packaging (Windows (64-bit)):   Module.Renderer.5_of_11.cpp
+[2019.04.03-02.38.37:975][875]UATHelper: Packaging (Windows (64-bit)):   Module.Renderer.11_of_11.cpp
+[2019.04.03-02.38.45:399][ 56]UATHelper: Packaging (Windows (64-bit)):   Module.Engine.23_of_39.cpp
+[2019.04.03-02.38.49:921][ 97]UATHelper: Packaging (Windows (64-bit)):   Module.Engine.gen.7_of_41.cpp
+[2019.04.03-02.39.05:380][345]UATHelper: Packaging (Windows (64-bit)):   Module.Renderer.4_of_11.cpp
+[2019.04.03-02.39.08:053][353]UATHelper: Packaging (Windows (64-bit)):   Module.Engine.gen.27_of_41.cpp
+[2019.04.03-02.39.10:389][360]UATHelper: Packaging (Windows (64-bit)):   Module.Renderer.1_of_11.cpp
+[2019.04.03-02.39.27:418][411]UATHelper: Packaging (Windows (64-bit)):   Module.Engine.gen.29_of_41.cpp
+[2019.04.03-02.39.32:089][425]UATHelper: Packaging (Windows (64-bit)):   Module.SlateRHIRenderer.cpp
+[2019.04.03-02.39.32:755][427]UATHelper: Packaging (Windows (64-bit)):   Module.Engine.gen.21_of_41.cpp
+[2019.04.03-02.39.37:098][440]UATHelper: Packaging (Windows (64-bit)):   Module.UMG.gen.4_of_6.cpp
+[2019.04.03-02.39.37:099][440]UATHelper: Packaging (Windows (64-bit)):   Module.UMG.gen.5_of_6.cpp
+[2019.04.03-02.39.37:760][442]UATHelper: Packaging (Windows (64-bit)):   Module.Renderer.2_of_11.cpp
+[2019.04.03-02.39.41:429][453]UATHelper: Packaging (Windows (64-bit)):   Module.Engine.gen.26_of_41.cpp
+[2019.04.03-02.39.43:429][459]UATHelper: Packaging (Windows (64-bit)):   Module.UMG.gen.3_of_6.cpp
+[2019.04.03-02.39.48:431][474]UATHelper: Packaging (Windows (64-bit)):   Module.Foliage.cpp
+[2019.04.03-02.39.49:433][477]UATHelper: Packaging (Windows (64-bit)):   Module.AIModule.4_of_4.cpp
+[2019.04.03-02.39.51:534][483]UATHelper: Packaging (Windows (64-bit)):   Module.Engine.gen.4_of_41.cpp
+[2019.04.03-02.40.00:861][511]UATHelper: Packaging (Windows (64-bit)):   Module.Engine.gen.8_of_41.cpp
+[2019.04.03-02.40.03:118][518]UATHelper: Packaging (Windows (64-bit)):   Module.Engine.gen.25_of_41.cpp
+[2019.04.03-02.40.06:117][527]UATHelper: Packaging (Windows (64-bit)):   Module.Renderer.3_of_11.cpp
+[2019.04.03-02.40.09:841][538]UATHelper: Packaging (Windows (64-bit)):   Module.UMG.gen.1_of_6.cpp
+[2019.04.03-02.40.14:460][552]UATHelper: Packaging (Windows (64-bit)):   Module.Engine.gen.3_of_41.cpp
+[2019.04.03-02.40.14:460][552]UATHelper: Packaging (Windows (64-bit)):   Module.Engine.7_of_39.cpp
+[2019.04.03-02.40.21:142][572]UATHelper: Packaging (Windows (64-bit)):   Module.Renderer.10_of_11.cpp
+[2019.04.03-02.40.22:461][576]UATHelper: Packaging (Windows (64-bit)):   Module.Engine.gen.30_of_41.cpp
+[2019.04.03-02.40.29:797][598]UATHelper: Packaging (Windows (64-bit)):   Module.MoviePlayer.cpp
+[2019.04.03-02.40.30:899][601]UATHelper: Packaging (Windows (64-bit)):   Module.MovieScene.cpp
+[2019.04.03-02.40.35:136][614]UATHelper: Packaging (Windows (64-bit)):   Module.GeometryCache.cpp
+[2019.04.03-02.40.36:803][619]UATHelper: Packaging (Windows (64-bit)):   Module.Engine.gen.15_of_41.cpp
+[2019.04.03-02.40.37:199][620]UATHelper: Packaging (Windows (64-bit)):   Module.CinematicCamera.cpp
+[2019.04.03-02.40.42:138][635]UATHelper: Packaging (Windows (64-bit)):   Module.LevelSequence.gen.cpp
+[2019.04.03-02.40.46:137][647]UATHelper: Packaging (Windows (64-bit)):   Module.Foliage.gen.cpp
+[2019.04.03-02.40.48:470][654]UATHelper: Packaging (Windows (64-bit)):   Module.MRMesh.cpp
+[2019.04.03-02.40.51:138][662]UATHelper: Packaging (Windows (64-bit)):   Module.StreamingPauseRendering.cpp
+[2019.04.03-02.40.52:805][667]UATHelper: Packaging (Windows (64-bit)):   Module.Engine.gen.38_of_41.cpp
+[2019.04.03-02.40.53:869][670]UATHelper: Packaging (Windows (64-bit)):   Module.Engine.gen.39_of_41.cpp
+[2019.04.03-02.40.57:824][682]UATHelper: Packaging (Windows (64-bit)):   Module.AIModule.gen.2_of_5.cpp
+[2019.04.03-02.41.00:145][689]UATHelper: Packaging (Windows (64-bit)):   Module.GeometryCache.gen.cpp
+[2019.04.03-02.41.00:477][690]UATHelper: Packaging (Windows (64-bit)):   Module.MovieSceneCapture.gen.cpp
+[2019.04.03-02.41.01:484][693]UATHelper: Packaging (Windows (64-bit)):   Module.GameplayDebugger.gen.cpp
+[2019.04.03-02.41.05:151][704]UATHelper: Packaging (Windows (64-bit)):   Module.Engine.gen.41_of_41.cpp
+[2019.04.03-02.41.06:152][707]UATHelper: Packaging (Windows (64-bit)):   Module.AudioMixer.cpp
+[2019.04.03-02.41.08:154][713]UATHelper: Packaging (Windows (64-bit)):   Boof_Player.gen.cpp
+[2019.04.03-02.41.08:155][713]UATHelper: Packaging (Windows (64-bit)):   Module.Engine.gen.36_of_41.cpp
+[2019.04.03-02.41.08:155][713]UATHelper: Packaging (Windows (64-bit)):   Module.VulkanRHI.cpp
+[2019.04.03-02.41.10:489][720]UATHelper: Packaging (Windows (64-bit)):   Boof_Player.cpp
+[2019.04.03-02.41.14:168][731]UATHelper: Packaging (Windows (64-bit)):   Module.PhysXCooking.cpp
+[2019.04.03-02.41.14:838][733]UATHelper: Packaging (Windows (64-bit)):   Boof_Actors.gen.cpp
+[2019.04.03-02.41.15:164][734]UATHelper: Packaging (Windows (64-bit)):   Boof_Actors.cpp
+[2019.04.03-02.41.15:496][735]UATHelper: Packaging (Windows (64-bit)):   Module.Engine.gen.10_of_41.cpp
+[2019.04.03-02.41.15:496][735]UATHelper: Packaging (Windows (64-bit)):   Module.AutomationWorker.cpp
+[2019.04.03-02.41.15:828][736]UATHelper: Packaging (Windows (64-bit)):   Module.D3D12RHI.1_of_2.cpp
+[2019.04.03-02.41.16:828][739]UATHelper: Packaging (Windows (64-bit)):   Module.D3D11RHI.cpp
+[2019.04.03-02.41.17:161][740]UATHelper: Packaging (Windows (64-bit)):   Module.OpenGLDrv.2_of_2.cpp
+[2019.04.03-02.41.21:521][753]UATHelper: Packaging (Windows (64-bit)):   Module.GameplayTags.cpp
+[2019.04.03-02.41.22:835][757]UATHelper: Packaging (Windows (64-bit)):   Module.D3D12RHI.2_of_2.cpp
+[2019.04.03-02.41.26:171][767]UATHelper: Packaging (Windows (64-bit)):   Module.AIModule.gen.1_of_5.cpp
+[2019.04.03-02.41.26:835][769]UATHelper: Packaging (Windows (64-bit)):   Module.Engine.gen.11_of_41.cpp
+[2019.04.03-02.41.27:512][771]UATHelper: Packaging (Windows (64-bit)):   Module.Engine.gen.13_of_41.cpp
+[2019.04.03-02.41.34:511][792]UATHelper: Packaging (Windows (64-bit)):   Module.Landscape.3_of_3.cpp
+[2019.04.03-02.41.35:178][794]UATHelper: Packaging (Windows (64-bit)):   Module.ClothingSystemRuntime.gen.cpp
+[2019.04.03-02.41.37:847][802]UATHelper: Packaging (Windows (64-bit)):   Module.UMG.gen.6_of_6.cpp
+[2019.04.03-02.41.39:184][806]UATHelper: Packaging (Windows (64-bit)):   Module.MediaAssets.cpp
+[2019.04.03-02.41.41:230][812]UATHelper: Packaging (Windows (64-bit)):   Module.Engine.gen.32_of_41.cpp
+[2019.04.03-02.41.43:522][819]UATHelper: Packaging (Windows (64-bit)):   Module.AugmentedReality.cpp
+[2019.04.03-02.41.45:857][826]UATHelper: Packaging (Windows (64-bit)):   Module.Engine.gen.9_of_41.cpp
+[2019.04.03-02.41.46:886][829]UATHelper: Packaging (Windows (64-bit)):   Module.Slate.2_of_5.cpp
+[2019.04.03-02.41.47:858][832]UATHelper: Packaging (Windows (64-bit)):   Module.Engine.gen.23_of_41.cpp
+[2019.04.03-02.41.51:199][842]UATHelper: Packaging (Windows (64-bit)):   Module.AudioMixerXAudio2.cpp
+[2019.04.03-02.41.54:536][852]UATHelper: Packaging (Windows (64-bit)):   Module.AudioMixer.gen.cpp
+[2019.04.03-02.41.54:895][853]UATHelper: Packaging (Windows (64-bit)):   Module.Landscape.gen.cpp
+[2019.04.03-02.41.54:896][853]UATHelper: Packaging (Windows (64-bit)):   Module.Engine.gen.20_of_41.cpp
+[2019.04.03-02.41.55:546][855]UATHelper: Packaging (Windows (64-bit)):   Module.Voice.cpp
+[2019.04.03-02.41.56:215][857]UATHelper: Packaging (Windows (64-bit)):   Module.XAudio2.cpp
+[2019.04.03-02.41.56:545][858]UATHelper: Packaging (Windows (64-bit)):   Module.Engine.gen.16_of_41.cpp
+[2019.04.03-02.42.02:560][876]UATHelper: Packaging (Windows (64-bit)):   Module.Engine.gen.37_of_41.cpp
+[2019.04.03-02.42.03:890][880]UATHelper: Packaging (Windows (64-bit)):   Module.Slate.3_of_5.cpp
+[2019.04.03-02.42.05:224][884]UATHelper: Packaging (Windows (64-bit)):   Module.Engine.gen.2_of_41.cpp
+[2019.04.03-02.42.07:228][890]UATHelper: Packaging (Windows (64-bit)):   Module.Engine.gen.22_of_41.cpp
+[2019.04.03-02.42.09:227][896]UATHelper: Packaging (Windows (64-bit)):   Module.GameplayTasks.cpp
+[2019.04.03-02.42.13:568][909]UATHelper: Packaging (Windows (64-bit)):   Module.SlateReflector.cpp
+[2019.04.03-02.42.13:918][910]UATHelper: Packaging (Windows (64-bit)):   Module.AppFramework.cpp
+[2019.04.03-02.42.13:919][910]UATHelper: Packaging (Windows (64-bit)):   Module.Slate.4_of_5.cpp
+[2019.04.03-02.42.15:570][915]UATHelper: Packaging (Windows (64-bit)):   Module.Engine.gen.35_of_41.cpp
+[2019.04.03-02.42.16:904][919]UATHelper: Packaging (Windows (64-bit)):   Module.Engine.gen.31_of_41.cpp
+[2019.04.03-02.42.18:238][923]UATHelper: Packaging (Windows (64-bit)):   Module.SlateCore.cpp
+[2019.04.03-02.42.18:572][924]UATHelper: Packaging (Windows (64-bit)):   Module.Engine.gen.40_of_41.cpp
+[2019.04.03-02.42.18:904][925]UATHelper: Packaging (Windows (64-bit)):   Module.MediaAssets.gen.cpp
+[2019.04.03-02.42.20:242][929]UATHelper: Packaging (Windows (64-bit)):   Module.Slate.1_of_5.cpp
+[2019.04.03-02.42.21:288][932]UATHelper: Packaging (Windows (64-bit)):   Module.BuildPatchServices.cpp
+[2019.04.03-02.42.23:240][938]UATHelper: Packaging (Windows (64-bit)):   Module.Engine.gen.24_of_41.cpp
+[2019.04.03-02.42.23:240][938]UATHelper: Packaging (Windows (64-bit)):   Module.Engine.gen.6_of_41.cpp
+[2019.04.03-02.42.24:909][943]UATHelper: Packaging (Windows (64-bit)):   Module.MovieScene.gen.cpp
+[2019.04.03-02.42.25:908][946]UATHelper: Packaging (Windows (64-bit)):   Module.Engine.gen.17_of_41.cpp
+[2019.04.03-02.42.30:244][959]UATHelper: Packaging (Windows (64-bit)):   Module.Engine.gen.19_of_41.cpp
+[2019.04.03-02.42.32:246][965]UATHelper: Packaging (Windows (64-bit)):   Module.MessageLog.cpp
+[2019.04.03-02.42.33:594][969]UATHelper: Packaging (Windows (64-bit)):   Module.TaskGraph.cpp
+[2019.04.03-02.42.38:961][985]UATHelper: Packaging (Windows (64-bit)):   Module.SourceControl.cpp
+[2019.04.03-02.42.59:247][ 46]UATHelper: Packaging (Windows (64-bit)):   Module.Engine.gen.33_of_41.cpp
+[2019.04.03-02.43.14:056][ 90]UATHelper: Packaging (Windows (64-bit)):   Module.Slate.5_of_5.cpp
+[2019.04.03-02.43.19:582][107]UATHelper: Packaging (Windows (64-bit)):   Module.Engine.gen.5_of_41.cpp
+[2019.04.03-02.43.38:260][133]UATHelper: Packaging (Windows (64-bit)):   Module.RealtimeProfiler.cpp
+[2019.04.03-02.43.38:575][134]UATHelper: Packaging (Windows (64-bit)):   Module.Slate.gen.cpp
+[2019.04.03-02.43.38:576][134]UATHelper: Packaging (Windows (64-bit)):   Module.MoviePlayer.gen.cpp
+[2019.04.03-02.43.38:939][135]UATHelper: Packaging (Windows (64-bit)):   Boof_CoreGameModeBase.gen.cpp
+[2019.04.03-02.43.39:240][136]UATHelper: Packaging (Windows (64-bit)):   Module.Engine.gen.14_of_41.cpp
+[2019.04.03-02.43.39:245][136]UATHelper: Packaging (Windows (64-bit)):   Module.CoreUObject.1_of_6.cpp
+[2019.04.03-02.43.41:237][142]UATHelper: Packaging (Windows (64-bit)):   Module.CoreUObject.2_of_6.cpp
+[2019.04.03-02.43.42:240][145]UATHelper: Packaging (Windows (64-bit)):   Boof_CoreGameModeBase.cpp
+[2019.04.03-02.43.44:608][152]UATHelper: Packaging (Windows (64-bit)):   Module.AIModule.gen.5_of_5.cpp
+[2019.04.03-02.43.44:608][152]UATHelper: Packaging (Windows (64-bit)):   Module.AutomationController.cpp
+[2019.04.03-02.43.47:251][160]UATHelper: Packaging (Windows (64-bit)):   Module.EditorStyle.cpp
+[2019.04.03-02.43.49:622][167]UATHelper: Packaging (Windows (64-bit)):   Module.Localization.cpp
+[2019.04.03-02.43.50:256][169]UATHelper: Packaging (Windows (64-bit)):   Module.HeadMountedDisplay.gen.cpp
+[2019.04.03-02.43.54:258][181]UATHelper: Packaging (Windows (64-bit)):   Module.Core.1_of_9.cpp
+[2019.04.03-02.43.55:258][184]UATHelper: Packaging (Windows (64-bit)):   Module.Core.5_of_9.cpp
+[2019.04.03-02.43.55:590][185]UATHelper: Packaging (Windows (64-bit)):   Module.CoreUObject.5_of_6.cpp
+[2019.04.03-02.43.55:952][186]UATHelper: Packaging (Windows (64-bit)):   Module.SlateNullRenderer.cpp
+[2019.04.03-02.43.56:635][188]UATHelper: Packaging (Windows (64-bit)):   Module.Engine.gen.18_of_41.cpp
+[2019.04.03-02.44.03:258][208]UATHelper: Packaging (Windows (64-bit)):   Module.CoreUObject.3_of_6.cpp
+[2019.04.03-02.44.04:596][212]UATHelper: Packaging (Windows (64-bit)):   Module.SlateCore.gen.cpp
+[2019.04.03-02.44.15:483][214]UATHelper: Packaging (Windows (64-bit)):   Module.CoreUObject.4_of_6.cpp
+[2019.04.03-02.44.18:510][224]UATHelper: Packaging (Windows (64-bit)):   Module.Core.6_of_9.cpp
+[2019.04.03-02.44.27:848][252]UATHelper: Packaging (Windows (64-bit)):   Module.AssetRegistry.cpp
+[2019.04.03-02.44.50:068][336]UATHelper: Packaging (Windows (64-bit)):   Module.Core.2_of_9.cpp
+[2019.04.03-02.44.52:394][343]UATHelper: Packaging (Windows (64-bit)):   Module.Core.3_of_9.cpp
+[2019.04.03-02.45.01:585][370]UATHelper: Packaging (Windows (64-bit)):   Module.CoreUObject.6_of_6.cpp
+[2019.04.03-02.45.09:579][394]UATHelper: Packaging (Windows (64-bit)):   Module.MRMesh.gen.cpp
+[2019.04.03-02.45.10:085][396]UATHelper: Packaging (Windows (64-bit)):   Module.ScreenShotComparisonTools.cpp
+[2019.04.03-02.45.15:089][411]UATHelper: Packaging (Windows (64-bit)):   Module.GameplayTasks.gen.cpp
+[2019.04.03-02.45.15:424][412]UATHelper: Packaging (Windows (64-bit)):   Module.CinematicCamera.gen.cpp
+[2019.04.03-02.45.21:762][431]UATHelper: Packaging (Windows (64-bit)):   Module.Core.7_of_9.cpp
+[2019.04.03-02.45.22:101][432]UATHelper: Packaging (Windows (64-bit)):   Module.Core.8_of_9.cpp
+[2019.04.03-02.45.29:329][591]UATHelper: Packaging (Windows (64-bit)):   Module.Engine.gen.1_of_41.cpp
+[2019.04.03-02.45.29:864][613]UATHelper: Packaging (Windows (64-bit)):   Module.AutomationController.gen.cpp
+[2019.04.03-02.45.30:530][633]UATHelper: Packaging (Windows (64-bit)):   Module.OpenGLDrv.1_of_2.cpp
+[2019.04.03-02.45.34:312][776]UATHelper: Packaging (Windows (64-bit)):   Module.Serialization.cpp
+[2019.04.03-02.45.34:690][787]UATHelper: Packaging (Windows (64-bit)):   Module.Core.4_of_9.cpp
+[2019.04.03-02.45.38:794][940]UATHelper: Packaging (Windows (64-bit)):   Module.Engine.gen.34_of_41.cpp
+[2019.04.03-02.45.38:794][940]UATHelper: Packaging (Windows (64-bit)):   InteractableObject.gen.cpp
+[2019.04.03-02.45.40:432][  1]UATHelper: Packaging (Windows (64-bit)):   Module.ShaderCore.cpp
+[2019.04.03-02.45.45:790][207]UATHelper: Packaging (Windows (64-bit)):   Module.ProfilerService.cpp
+[2019.04.03-02.45.50:288][364]UATHelper: Packaging (Windows (64-bit)):   Module.ApplicationCore.cpp
+[2019.04.03-02.45.52:810][468]UATHelper: Packaging (Windows (64-bit)):   Module.AssetRegistry.gen.cpp
+[2019.04.03-02.45.53:399][493]UATHelper: Packaging (Windows (64-bit)):   InteractableObject.cpp
+[2019.04.03-02.45.53:474][496]UATHelper: Packaging (Windows (64-bit)):   Module.HTTP.cpp
+[2019.04.03-02.45.55:236][566]UATHelper: Packaging (Windows (64-bit)):   Module.SessionServices.cpp
+[2019.04.03-02.45.56:558][612]UATHelper: Packaging (Windows (64-bit)):   Module.AutomationMessages.gen.cpp
+[2019.04.03-02.45.56:749][620]UATHelper: Packaging (Windows (64-bit)):   Module.MaterialShaderQualitySettings.cpp
+[2019.04.03-02.45.57:302][639]UATHelper: Packaging (Windows (64-bit)):   Module.RHI.cpp
+[2019.04.03-02.46.01:184][783]UATHelper: Packaging (Windows (64-bit)):   Module.Engine.gen.12_of_41.cpp
+[2019.04.03-02.46.08:155][  6]UATHelper: Packaging (Windows (64-bit)):   Module.AugmentedReality.gen.cpp
+[2019.04.03-02.46.10:331][ 71]UATHelper: Packaging (Windows (64-bit)):   Module.RenderCore.cpp
+[2019.04.03-02.46.13:668][173]UATHelper: Packaging (Windows (64-bit)):   Module.UtilityShaders.cpp
+[2019.04.03-02.46.15:568][227]UATHelper: Packaging (Windows (64-bit)):   Module.Overlay.cpp
+[2019.04.03-02.46.15:789][230]UATHelper: Packaging (Windows (64-bit)):   Module.Messaging.cpp
+[2019.04.03-02.46.16:237][247]UATHelper: Packaging (Windows (64-bit)):   Module.LiveLinkMessageBusFramework.cpp
+[2019.04.03-02.46.17:017][261]UATHelper: Packaging (Windows (64-bit)):   Module.GameplayTags.gen.cpp
+[2019.04.03-02.46.17:725][285]UATHelper: Packaging (Windows (64-bit)):   Module.EngineSettings.gen.cpp
+[2019.04.03-02.46.19:476][340]UATHelper: Packaging (Windows (64-bit)):   Module.Localization.gen.cpp
+[2019.04.03-02.46.20:683][383]UATHelper: Packaging (Windows (64-bit)):   Module.PacketHandler.cpp
+[2019.04.03-02.46.24:363][508]UATHelper: Packaging (Windows (64-bit)):   Module.SSL.cpp
+[2019.04.03-02.46.28:508][655]UATHelper: Packaging (Windows (64-bit)):   Module.NetworkFile.cpp
+[2019.04.03-02.46.28:668][661]UATHelper: Packaging (Windows (64-bit)):   Module.InputCore.cpp
+[2019.04.03-02.46.29:341][688]UATHelper: Packaging (Windows (64-bit)):   Module.Sockets.cpp
+[2019.04.03-02.46.29:484][692]UATHelper: Packaging (Windows (64-bit)):   Module.JsonUtilities.cpp
+[2019.04.03-02.46.31:401][749]UATHelper: Packaging (Windows (64-bit)):   Module.ClothingSystemRuntimeInterface.gen.cpp
+[2019.04.03-02.46.31:995][773]UATHelper: Packaging (Windows (64-bit)):   Module.ImageWrapper.cpp
+[2019.04.03-02.46.34:165][857]UATHelper: Packaging (Windows (64-bit)):   Module.EditorStyle.gen.cpp
+[2019.04.03-02.46.34:659][875]UATHelper: Packaging (Windows (64-bit)):   Module.AnimationCore.gen.cpp
+[2019.04.03-02.46.34:812][882]UATHelper: Packaging (Windows (64-bit)):   Module.BuildPatchServices.gen.cpp
+[2019.04.03-02.46.37:264][963]UATHelper: Packaging (Windows (64-bit)):   Module.LiveLinkInterface.gen.cpp
+[2019.04.03-02.46.37:758][981]UATHelper: Packaging (Windows (64-bit)):   Module.Networking.cpp
+[2019.04.03-02.46.38:998][ 27]UATHelper: Packaging (Windows (64-bit)):   Module.MaterialShaderQualitySettings.gen.cpp
+[2019.04.03-02.46.39:340][ 39]UATHelper: Packaging (Windows (64-bit)):   Module.EngineSettings.cpp
+[2019.04.03-02.46.40:097][ 71]UATHelper: Packaging (Windows (64-bit)):   Module.Overlay.gen.cpp
+[2019.04.03-02.46.43:108][182]UATHelper: Packaging (Windows (64-bit)):   Module.Projects.cpp
+[2019.04.03-02.46.43:152][184]UATHelper: Packaging (Windows (64-bit)):   Module.Json.cpp
+[2019.04.03-02.46.43:699][205]UATHelper: Packaging (Windows (64-bit)):   Module.LiveLinkMessageBusFramework.gen.cpp
+[2019.04.03-02.46.43:949][214]UATHelper: Packaging (Windows (64-bit)):   Module.UnrealEdMessages.gen.cpp
+[2019.04.03-02.46.43:990][216]UATHelper: Packaging (Windows (64-bit)):   Module.CoreUObject.gen.cpp
+[2019.04.03-02.46.44:426][236]UATHelper: Packaging (Windows (64-bit)):   Module.AnimationCore.cpp
+[2019.04.03-02.46.45:751][277]UATHelper: Packaging (Windows (64-bit)):   Module.LiveLinkInterface.cpp
+[2019.04.03-02.46.46:650][311]UATHelper: Packaging (Windows (64-bit)):   Module.IOSRuntimeSettings.cpp
+[2019.04.03-02.46.46:760][316]UATHelper: Packaging (Windows (64-bit)):   Module.IOSRuntimeSettings.gen.cpp
+[2019.04.03-02.46.47:003][326]UATHelper: Packaging (Windows (64-bit)):   Module.SourceControl.gen.cpp
+[2019.04.03-02.46.48:028][364]UATHelper: Packaging (Windows (64-bit)):   Module.InputCore.gen.cpp
+[2019.04.03-02.46.49:838][433]UATHelper: Packaging (Windows (64-bit)):   Module.Serialization.gen.cpp
+[2019.04.03-02.46.50:094][443]UATHelper: Packaging (Windows (64-bit)):   Module.PacketHandler.gen.cpp
+[2019.04.03-02.46.50:797][473]UATHelper: Packaging (Windows (64-bit)):   Module.SessionMessages.gen.cpp
+[2019.04.03-02.46.50:798][473]UATHelper: Packaging (Windows (64-bit)):   Module.EngineMessages.gen.cpp
+[2019.04.03-02.46.50:842][475]UATHelper: Packaging (Windows (64-bit)):   Module.ScreenShotComparisonTools.gen.cpp
+[2019.04.03-02.46.51:267][493]UATHelper: Packaging (Windows (64-bit)):   Module.SlateReflector.gen.cpp
+[2019.04.03-02.46.51:335][496]UATHelper: Packaging (Windows (64-bit)):   Module.ProfilerMessages.gen.cpp
+[2019.04.03-02.46.53:022][573]UATHelper: Packaging (Windows (64-bit)):   Module.JsonUtilities.gen.cpp
+[2019.04.03-02.46.53:152][579]UATHelper: Packaging (Windows (64-bit)):   Module.ClothingSystemRuntimeInterface.cpp
+[2019.04.03-02.46.53:410][591]UATHelper: Packaging (Windows (64-bit)):   Module.Renderer.gen.cpp
+[2019.04.03-02.46.53:595][599]UATHelper: Packaging (Windows (64-bit)):   Module.PakFile.cpp
+[2019.04.03-02.46.54:697][641]UATHelper: Packaging (Windows (64-bit)):   Module.MediaUtils.cpp
+[2019.04.03-02.46.55:628][681]UATHelper: Packaging (Windows (64-bit)):   Module.AnalyticsET.cpp
+[2019.04.03-02.46.55:879][692]UATHelper: Packaging (Windows (64-bit)):   Module.SynthBenchmark.cpp
+[2019.04.03-02.46.55:991][697]UATHelper: Packaging (Windows (64-bit)):   Module.Navmesh.2_of_3.cpp
+[2019.04.03-02.46.56:014][698]UATHelper: Packaging (Windows (64-bit)):   Module.AVIWriter.cpp
+[2019.04.03-02.46.56:131][702]UATHelper: Packaging (Windows (64-bit)):   Module.NullDrv.cpp
+[2019.04.03-02.46.56:155][703]UATHelper: Packaging (Windows (64-bit)):   Boof_Core.init.gen.cpp
+[2019.04.03-02.46.57:700][762]UATHelper: Packaging (Windows (64-bit)):   Module.Core.9_of_9.cpp
+[2019.04.03-02.46.58:338][789]UATHelper: Packaging (Windows (64-bit)):   Module.HttpNetworkReplayStreaming.cpp
+[2019.04.03-02.46.58:966][814]UATHelper: Packaging (Windows (64-bit)):   Module.Navmesh.1_of_3.cpp
+[2019.04.03-02.47.01:701][920]UATHelper: Packaging (Windows (64-bit)):   Module.Media.cpp
+[2019.04.03-02.47.02:031][934]UATHelper: Packaging (Windows (64-bit)):   Module.CookedIterativeFile.cpp
+[2019.04.03-02.47.03:531][995]UATHelper: Packaging (Windows (64-bit)):   Module.HardwareSurvey.cpp
+[2019.04.03-02.47.04:274][ 23]UATHelper: Packaging (Windows (64-bit)):   Module.NetworkReplayStreaming.cpp
+[2019.04.03-02.47.05:876][ 86]UATHelper: Packaging (Windows (64-bit)):   Module.StreamingFile.cpp
+[2019.04.03-02.47.06:162][ 99]UATHelper: Packaging (Windows (64-bit)):   Module.NullNetworkReplayStreaming.cpp
+[2019.04.03-02.47.06:937][131]UATHelper: Packaging (Windows (64-bit)):   Module.DatabaseSupport.cpp
+[2019.04.03-02.47.07:892][168]UATHelper: Packaging (Windows (64-bit)):   Module.SandboxFile.cpp
+[2019.04.03-02.47.09:949][253]UATHelper: Packaging (Windows (64-bit)):   Module.Analytics.cpp
+[2019.04.03-02.47.11:235][303]UATHelper: Packaging (Windows (64-bit)):   Module.ReliabilityHandlerComponent.cpp
+[2019.04.03-02.47.11:457][311]UATHelper: Packaging (Windows (64-bit)):   Module.InputDevice.cpp
+[2019.04.03-02.47.11:769][322]UATHelper: Packaging (Windows (64-bit)):   Module.ImageCore.cpp
+[2019.04.03-02.47.12:227][342]UATHelper: Packaging (Windows (64-bit)):   Module.Navmesh.3_of_3.cpp
+[2019.04.03-02.47.12:351][345]UATHelper: Packaging (Windows (64-bit)):   Boof_Core.cpp
+[2019.04.03-02.47.12:352][345]UATHelper: Packaging (Windows (64-bit)):   Module.Advertising.cpp
+[2019.04.03-02.47.13:881][399]UATHelper: Packaging (Windows (64-bit)):   Module.UnrealEdMessages.cpp
+[2019.04.03-02.47.14:640][430]UATHelper: Packaging (Windows (64-bit)):   Module.MessagingCommon.cpp
+[2019.04.03-02.47.14:818][438]UATHelper: Packaging (Windows (64-bit)):   Module.SessionMessages.cpp
+[2019.04.03-02.47.14:840][439]UATHelper: Packaging (Windows (64-bit)):   Module.AutomationMessages.cpp
+[2019.04.03-02.47.14:932][443]UATHelper: Packaging (Windows (64-bit)):   [415/457] Resource PCLaunch.rc
+[2019.04.03-02.47.14:932][443]UATHelper: Packaging (Windows (64-bit)):   [417/457] Link Boof_Core-AvfMediaFactory.lib
+[2019.04.03-02.47.14:954][444]UATHelper: Packaging (Windows (64-bit)):   Module.ProfilerMessages.cpp
+[2019.04.03-02.47.15:015][447]UATHelper: Packaging (Windows (64-bit)):   UELinkerFixups.cpp
+[2019.04.03-02.47.15:055][449]UATHelper: Packaging (Windows (64-bit)):   Module.EngineMessages.cpp
+[2019.04.03-02.47.15:138][453]UATHelper: Packaging (Windows (64-bit)):   [418/457] Link Boof_Core-Paper2D.lib
+[2019.04.03-02.47.15:355][460]UATHelper: Packaging (Windows (64-bit)):   [419/457] Link Boof_Core-MobilePatchingUtils.lib
+[2019.04.03-02.47.15:449][464]UATHelper: Packaging (Windows (64-bit)):   [420/457] Link Boof_Core-SteamVR.lib
+[2019.04.03-02.47.15:564][468]UATHelper: Packaging (Windows (64-bit)):   [421/457] Link Boof_Core-ImgMedia.lib
+[2019.04.03-02.47.15:651][472]UATHelper: Packaging (Windows (64-bit)):   [422/457] Link Boof_Core-ImgMediaFactory.lib
+[2019.04.03-02.47.15:758][477]UATHelper: Packaging (Windows (64-bit)):   [423/457] Link Boof_Core-OculusHMD.lib
+[2019.04.03-02.47.15:759][477]UATHelper: Packaging (Windows (64-bit)):   [424/457] Link Boof_Core-OpenExrWrapper.lib
+[2019.04.03-02.47.15:759][477]UATHelper: Packaging (Windows (64-bit)):   [425/457] Link Boof_Core-HTML5Networking.lib
+[2019.04.03-02.47.15:759][477]UATHelper: Packaging (Windows (64-bit)):   [426/457] Link Boof_Core-LightPropagationVolumeRuntime.lib
+[2019.04.03-02.47.15:760][477]UATHelper: Packaging (Windows (64-bit)):   [427/457] Link Boof_Core-PhysXVehicles.lib
+[2019.04.03-02.47.15:846][481]UATHelper: Packaging (Windows (64-bit)):   [428/457] Link Boof_Core-LinearTimecode.lib
+[2019.04.03-02.47.15:847][481]UATHelper: Packaging (Windows (64-bit)):   [429/457] Link Boof_Core-DatasmithContent.lib
+[2019.04.03-02.47.15:947][486]UATHelper: Packaging (Windows (64-bit)):   [430/457] Link Boof_Core-MediaCompositing.lib
+[2019.04.03-02.47.16:060][491]UATHelper: Packaging (Windows (64-bit)):   [431/457] Link Boof_Core-FacialAnimation.lib
+[2019.04.03-02.47.16:060][491]UATHelper: Packaging (Windows (64-bit)):   [432/457] Link Boof_Core-CableComponent.lib
+[2019.04.03-02.47.16:061][491]UATHelper: Packaging (Windows (64-bit)):   [433/457] Link Boof_Core-LiveLink.lib
+[2019.04.03-02.47.16:061][491]UATHelper: Packaging (Windows (64-bit)):   [434/457] Link Boof_Core-ProceduralMeshComponent.lib
+[2019.04.03-02.47.16:062][491]UATHelper: Packaging (Windows (64-bit)):   [435/457] Link Boof_Core-AppleARKit.lib
+[2019.04.03-02.47.16:165][496]UATHelper: Packaging (Windows (64-bit)):   [436/457] Link Boof_Core-CustomMeshComponent.lib
+[2019.04.03-02.47.16:166][496]UATHelper: Packaging (Windows (64-bit)):   [437/457] Link Boof_Core-AndroidPermission.lib
+[2019.04.03-02.47.16:166][496]UATHelper: Packaging (Windows (64-bit)):   [438/457] Link Boof_Core-AudioCapture.lib
+[2019.04.03-02.47.16:167][496]UATHelper: Packaging (Windows (64-bit)):   [439/457] Link Boof_Core-OnlineSubsystemUtils.lib
+[2019.04.03-02.47.16:275][501]UATHelper: Packaging (Windows (64-bit)):   [440/457] Link Boof_Core-ActorSequence.lib
+[2019.04.03-02.47.16:370][505]UATHelper: Packaging (Windows (64-bit)):   [441/457] Link Boof_Core-UdpMessaging.lib
+[2019.04.03-02.47.16:371][505]UATHelper: Packaging (Windows (64-bit)):   [442/457] Link Boof_Core-ImmediatePhysics.lib
+[2019.04.03-02.47.16:477][510]UATHelper: Packaging (Windows (64-bit)):   [443/457] Link Boof_Core-TcpMessaging.lib
+[2019.04.03-02.47.16:573][514]UATHelper: Packaging (Windows (64-bit)):   [444/457] Link Boof_Core-WmfMediaFactory.lib
+[2019.04.03-02.47.16:574][514]UATHelper: Packaging (Windows (64-bit)):   [445/457] Link Boof_Core-SteamVRController.lib
+[2019.04.03-02.47.16:575][514]UATHelper: Packaging (Windows (64-bit)):   [446/457] Link Boof_Core-LocationServicesBPLibrary.lib
+[2019.04.03-02.47.16:575][514]UATHelper: Packaging (Windows (64-bit)):   [447/457] Link Boof_Core-OnlineSubsystem.lib
+[2019.04.03-02.47.16:576][514]UATHelper: Packaging (Windows (64-bit)):   [448/457] Link Boof_Core-ArchVisCharacter.lib
+[2019.04.03-02.47.16:688][519]UATHelper: Packaging (Windows (64-bit)):   [449/457] Link Boof_Core-OnlineSubsystemNull.lib
+[2019.04.03-02.47.16:688][519]UATHelper: Packaging (Windows (64-bit)):   [450/457] Link Boof_Core-OculusInput.lib
+[2019.04.03-02.47.16:689][519]UATHelper: Packaging (Windows (64-bit)):   [451/457] Link Boof_Core-ExampleDeviceProfileSelector.lib
+[2019.04.03-02.47.16:801][524]UATHelper: Packaging (Windows (64-bit)):   [452/457] Link Boof_Core-CharacterAI.lib
+[2019.04.03-02.47.16:802][524]UATHelper: Packaging (Windows (64-bit)):   [453/457] Link Boof_Core-RuntimePhysXCooking.lib
+[2019.04.03-02.47.16:917][529]UATHelper: Packaging (Windows (64-bit)):   [454/457] Link Boof_Core-WindowsMoviePlayer.lib
+[2019.04.03-02.47.23:258][ 91]UATHelper: Packaging (Windows (64-bit)):   ERROR: UBT ERROR: Failed to produce item: C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Plugins\GameWorks\Flex\Binaries\Win64\Boof_Core-Flex.lib
+[2019.04.03-02.47.23:258][ 91]PackagingResults: Error: UBT ERROR: Failed to produce item: C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Plugins\GameWorks\Flex\Binaries\Win64\Boof_Core-Flex.lib
+[2019.04.03-02.47.23:374][103]UATHelper: Packaging (Windows (64-bit)):   Total build time: 1088.98 seconds (Local executor: 0.00 seconds)
+[2019.04.03-02.47.23:386][104]UATHelper: Packaging (Windows (64-bit)): Took 1089.1754396s to run UnrealBuildTool.exe, ExitCode=5
+[2019.04.03-02.47.23:409][106]UATHelper: Packaging (Windows (64-bit)): ERROR: Command failed (Result:5): C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Binaries\DotNET\UnrealBuildTool.exe Boof_Core Win64 Development -Project="F:\Game Development\BoofStudios\BoofStudios_OneShotAnims\Boof_Core\Boof_Core.uproject"  "F:\Game Development\BoofStudios\BoofStudios_OneShotAnims\Boof_Core\Boof_Core.uproject" -NoUBTMakefiles  -remoteini="F:\Game Development\BoofStudios\BoofStudios_OneShotAnims\Boof_Core" -skipdeploy -noxge -NoHotReload -ignorejunk. See logfile for details: 'UnrealBuildTool-2019.04.02-20.29.14.txt' 
+[2019.04.03-02.47.23:410][106]UATHelper: Packaging (Windows (64-bit)):        (see C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Programs\AutomationTool\Saved\Logs\UAT_Log.txt for full exception trace)
+[2019.04.03-02.47.23:411][106]PackagingResults: Error: Command failed (Result:5): C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Binaries\DotNET\UnrealBuildTool.exe Boof_Core Win64 Development -Project="F:\Game Development\BoofStudios\BoofStudios_OneShotAnims\Boof_Core\Boof_Core.uproject"  "F:\Game Development\BoofStudios\BoofStudios_OneShotAnims\Boof_Core\Boof_Core.uproject" -NoUBTMakefiles  -remoteini="F:\Game Development\BoofStudios\BoofStudios_OneShotAnims\Boof_Core" -skipdeploy -noxge -NoHotReload -ignorejunk. See logfile for details: 'UnrealBuildTool-2019.04.02-20.29.14.txt' 
+[2019.04.03-02.47.23:447][109]UATHelper: Packaging (Windows (64-bit)): AutomationTool exiting with ExitCode=5 (5)
+[2019.04.03-02.47.23:482][112]UATHelper: Packaging (Windows (64-bit)): BUILD FAILED
+[2019.04.03-02.47.23:501][113]PackagingResults: Error: Unknown Error
+[2019.04.03-02.47.33:361][138]LogSlate: Window 'Output Log' being destroyed
+[2019.04.03-02.47.33:372][138]LogSlate: Window 'Output Log' being destroyed
+[2019.04.03-02.47.40:134][740]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cae643af20, Size=24
+[2019.04.03-02.47.40:267][740]LogSlate: Window 'Boof_Core - Unreal Editor' being destroyed
+[2019.04.03-02.47.40:269][740]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.04.03-02.47.40:495][741]Cmd: QUIT_EDITOR
+[2019.04.03-02.47.40:678][741]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.04.03-02.47.40:678][741]LogExit: Preparing to exit.
+[2019.04.03-02.47.41:272][741]LogExit: Editor shut down
+[2019.04.03-02.47.41:276][741]LogExit: Transaction tracking system shut down
+[2019.04.03-02.47.41:277][741]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cadb247ac0, Size=192
+[2019.04.03-02.47.41:278][741]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cb5626d700, Size=232
+[2019.04.03-02.47.41:278][741]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cae69f3400, Size=184
+[2019.04.03-02.47.41:278][741]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cae6439930, Size=24
+[2019.04.03-02.47.41:283][741]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001cb5b1e1c00, Size=96
+[2019.04.03-02.47.41:498][741]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2019.04.03-02.47.41:498][741]LogDirectoryWatcher: A directory notification for 'F:/Game Development/BoofStudios/BoofStudios_OneShotAnims/Boof_Core/Content/' was aborted.
+[2019.04.03-02.47.41:498][741]LogDirectoryWatcher: A directory notification for '../../Plugins/2D/Paper2D/Content/' was aborted.
+[2019.04.03-02.47.41:498][741]LogDirectoryWatcher: A directory notification for '../../Plugins/Enterprise/DatasmithContent/Content/' was aborted.
+[2019.04.03-02.47.41:498][741]LogDirectoryWatcher: A directory notification for '../../Plugins/Media/MediaCompositing/Content/' was aborted.
+[2019.04.03-02.47.41:498][741]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2019.04.03-02.47.41:499][741]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2019.04.03-02.47.41:499][741]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2019.04.03-02.47.41:649][741]LogExit: Object subsystem successfully closed.
+[2019.04.03-02.47.41:708][741]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.04.03-02.47.41:713][741]LogD3D11RHI: Shutdown
+[2019.04.03-02.47.41:714][741]LogD3D11RHI: CleanupD3DDevice
+[2019.04.03-02.47.41:718][741]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.04.03-02.47.41:745][741]LogModuleManager: Shutting down and abandoning module UATHelper (574)
+[2019.04.03-02.47.41:745][741]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (572)
+[2019.04.03-02.47.41:745][741]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (570)
+[2019.04.03-02.47.41:745][741]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (568)
+[2019.04.03-02.47.41:745][741]LogModuleManager: Shutting down and abandoning module DesktopPlatform (566)
+[2019.04.03-02.47.41:745][741]LogModuleManager: Shutting down and abandoning module SceneOutliner (564)
+[2019.04.03-02.47.41:745][741]LogModuleManager: Shutting down and abandoning module AddContentDialog (562)
+[2019.04.03-02.47.41:745][741]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UnrealEngine-FleX-4.19.2/FeaturePacks/' was aborted.
+[2019.04.03-02.47.41:746][741]LogModuleManager: Shutting down and abandoning module WidgetCarousel (561)
+[2019.04.03-02.47.41:746][741]LogModuleManager: Shutting down and abandoning module EditorWidgets (558)
+[2019.04.03-02.47.41:746][741]LogModuleManager: Shutting down and abandoning module CollectionManager (556)
+[2019.04.03-02.47.41:747][741]LogDirectoryWatcher: A directory notification for 'F:/Game Development/BoofStudios/BoofStudios_OneShotAnims/Boof_Core/Content/Collections/' was aborted.
+[2019.04.03-02.47.41:747][741]LogDirectoryWatcher: A directory notification for 'F:/Game Development/BoofStudios/BoofStudios_OneShotAnims/Boof_Core/Content/Developers/Dominic/Collections/' was aborted.
+[2019.04.03-02.47.41:747][741]LogDirectoryWatcher: A directory notification for 'F:/Game Development/BoofStudios/BoofStudios_OneShotAnims/Boof_Core/Saved/Collections/' was aborted.
+[2019.04.03-02.47.41:747][741]LogModuleManager: Shutting down and abandoning module StatsViewer (554)
+[2019.04.03-02.47.41:747][741]LogModuleManager: Shutting down and abandoning module FoliageEdit (552)
+[2019.04.03-02.47.41:747][741]LogModuleManager: Shutting down and abandoning module LandscapeEditor (550)
+[2019.04.03-02.47.41:747][741]LogModuleManager: Shutting down and abandoning module MeshPaintMode (548)
+[2019.04.03-02.47.41:747][741]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (546)
+[2019.04.03-02.47.41:747][741]LogModuleManager: Shutting down and abandoning module ActorPickerMode (544)
+[2019.04.03-02.47.41:747][741]LogModuleManager: Shutting down and abandoning module GeometryMode (542)
+[2019.04.03-02.47.41:747][741]LogModuleManager: Shutting down and abandoning module TextureAlignMode (540)
+[2019.04.03-02.47.41:747][741]LogModuleManager: Shutting down and abandoning module BspMode (538)
+[2019.04.03-02.47.41:747][741]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (536)
+[2019.04.03-02.47.41:747][741]LogModuleManager: Shutting down and abandoning module HardwareSurvey (534)
+[2019.04.03-02.47.41:747][741]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (532)
+[2019.04.03-02.47.41:747][741]LogModuleManager: Shutting down and abandoning module AutomationWorker (530)
+[2019.04.03-02.47.41:747][741]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (528)
+[2019.04.03-02.47.41:748][741]LogModuleManager: Shutting down and abandoning module SequenceRecorder (527)
+[2019.04.03-02.47.41:748][741]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (524)
+[2019.04.03-02.47.41:748][741]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (522)
+[2019.04.03-02.47.41:748][741]LogModuleManager: Shutting down and abandoning module PlacementMode (521)
+[2019.04.03-02.47.41:748][741]LogModuleManager: Shutting down and abandoning module MaterialEditor (520)
+[2019.04.03-02.47.41:748][741]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (516)
+[2019.04.03-02.47.41:748][741]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (514)
+[2019.04.03-02.47.41:748][741]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (512)
+[2019.04.03-02.47.41:748][741]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (510)
+[2019.04.03-02.47.41:748][741]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (508)
+[2019.04.03-02.47.41:748][741]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (506)
+[2019.04.03-02.47.41:748][741]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (504)
+[2019.04.03-02.47.41:748][741]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (502)
+[2019.04.03-02.47.41:748][741]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (500)
+[2019.04.03-02.47.41:748][741]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (498)
+[2019.04.03-02.47.41:748][741]LogModuleManager: Shutting down and abandoning module CharacterAI (496)
+[2019.04.03-02.47.41:748][741]LogModuleManager: Shutting down and abandoning module SmartSnapping (494)
+[2019.04.03-02.47.41:748][741]LogModuleManager: Shutting down and abandoning module SessionServices (492)
+[2019.04.03-02.47.41:748][741]LogModuleManager: Shutting down and abandoning module ViewportSnapping (490)
+[2019.04.03-02.47.41:748][741]LogModuleManager: Shutting down and abandoning module ViewportInteraction (488)
+[2019.04.03-02.47.41:748][741]LogModuleManager: Shutting down and abandoning module ClothPainter (486)
+[2019.04.03-02.47.41:748][741]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (485)
+[2019.04.03-02.47.41:748][741]LogModuleManager: Shutting down and abandoning module LogVisualizer (482)
+[2019.04.03-02.47.41:749][741]LogModuleManager: Shutting down and abandoning module IntroTutorials (480)
+[2019.04.03-02.47.41:749][741]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (479)
+[2019.04.03-02.47.41:749][741]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (476)
+[2019.04.03-02.47.41:749][741]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (474)
+[2019.04.03-02.47.41:749][741]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (472)
+[2019.04.03-02.47.41:749][741]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (471)
+[2019.04.03-02.47.41:816][741]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (468)
+[2019.04.03-02.47.41:816][741]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (466)
+[2019.04.03-02.47.41:816][741]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (464)
+[2019.04.03-02.47.41:816][741]LogModuleManager: Shutting down and abandoning module InputBindingEditor (462)
+[2019.04.03-02.47.41:816][741]LogModuleManager: Shutting down and abandoning module MergeActors (460)
+[2019.04.03-02.47.41:816][741]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (458)
+[2019.04.03-02.47.41:816][741]LogModuleManager: Shutting down and abandoning module LocalizationService (457)
+[2019.04.03-02.47.41:816][741]LogModuleManager: Shutting down and abandoning module HardwareTargeting (454)
+[2019.04.03-02.47.41:816][741]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (452)
+[2019.04.03-02.47.41:816][741]LogModuleManager: Shutting down and abandoning module UndoHistory (450)
+[2019.04.03-02.47.41:816][741]LogModuleManager: Shutting down and abandoning module XmlParser (448)
+[2019.04.03-02.47.41:816][741]LogModuleManager: Shutting down and abandoning module Blutility (446)
+[2019.04.03-02.47.41:816][741]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (444)
+[2019.04.03-02.47.41:816][741]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (443)
+[2019.04.03-02.47.41:816][741]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (440)
+[2019.04.03-02.47.41:816][741]LogModuleManager: Shutting down and abandoning module SettingsEditor (438)
+[2019.04.03-02.47.41:816][741]LogModuleManager: Shutting down and abandoning module ProjectLauncher (436)
+[2019.04.03-02.47.41:816][741]LogModuleManager: Shutting down and abandoning module SessionFrontend (434)
+[2019.04.03-02.47.41:816][741]LogModuleManager: Shutting down and abandoning module ProfilerClient (432)
+[2019.04.03-02.47.41:816][741]LogModuleManager: Shutting down and abandoning module DeviceManager (430)
+[2019.04.03-02.47.41:816][741]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (429)
+[2019.04.03-02.47.41:871][741]LogModuleManager: Shutting down and abandoning module AutomationController (426)
+[2019.04.03-02.47.41:871][741]LogModuleManager: Shutting down and abandoning module AutomationWindow (424)
+[2019.04.03-02.47.41:871][741]LogModuleManager: Shutting down and abandoning module Layers (422)
+[2019.04.03-02.47.41:871][741]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (420)
+[2019.04.03-02.47.41:871][741]LogModuleManager: Shutting down and abandoning module DetailCustomizations (418)
+[2019.04.03-02.47.41:871][741]LogModuleManager: Shutting down and abandoning module PackagesDialog (416)
+[2019.04.03-02.47.41:871][741]LogModuleManager: Shutting down and abandoning module Persona (414)
+[2019.04.03-02.47.41:871][741]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (413)
+[2019.04.03-02.47.41:871][741]LogModuleManager: Shutting down and abandoning module AnimGraph (411)
+[2019.04.03-02.47.41:871][741]LogModuleManager: Shutting down and abandoning module Kismet (408)
+[2019.04.03-02.47.41:872][741]LogModuleManager: Shutting down and abandoning module GraphEditor (406)
+[2019.04.03-02.47.41:872][741]LogModuleManager: Shutting down and abandoning module ClassViewer (404)
+[2019.04.03-02.47.41:872][741]LogModuleManager: Shutting down and abandoning module Toolbox (402)
+[2019.04.03-02.47.41:872][741]LogModuleManager: Shutting down and abandoning module ModuleUI (400)
+[2019.04.03-02.47.41:872][741]LogModuleManager: Shutting down and abandoning module MovieSceneTools (398)
+[2019.04.03-02.47.41:872][741]LogModuleManager: Shutting down and abandoning module OutputLog (396)
+[2019.04.03-02.47.41:872][741]LogModuleManager: Shutting down and abandoning module GammaUI (394)
+[2019.04.03-02.47.41:872][741]LogModuleManager: Shutting down and abandoning module Documentation (392)
+[2019.04.03-02.47.41:872][741]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (390)
+[2019.04.03-02.47.41:872][741]LogModuleManager: Shutting down and abandoning module MovieScene (388)
+[2019.04.03-02.47.41:872][741]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (386)
+[2019.04.03-02.47.41:872][741]LogModuleManager: Shutting down and abandoning module LauncherPlatform (384)
+[2019.04.03-02.47.41:872][741]LogModuleManager: Shutting down and abandoning module AnalyticsET (382)
+[2019.04.03-02.47.41:872][741]LogModuleManager: Shutting down and abandoning module PortalServices (380)
+[2019.04.03-02.47.41:872][741]LogModuleManager: Shutting down and abandoning module PortalRpc (378)
+[2019.04.03-02.47.41:872][741]LogModuleManager: Shutting down and abandoning module MessagingRpc (376)
+[2019.04.03-02.47.41:872][741]LogModuleManager: Shutting down and abandoning module AIModule (374)
+[2019.04.03-02.47.41:872][741]LogModuleManager: Shutting down and abandoning module GameplayDebugger (373)
+[2019.04.03-02.47.41:872][741]LogModuleManager: Shutting down and abandoning module AITestSuite (371)
+[2019.04.03-02.47.41:872][741]LogModuleManager: Shutting down and abandoning module ProfilerService (368)
+[2019.04.03-02.47.41:882][741]LogModuleManager: Shutting down and abandoning module TaskGraph (366)
+[2019.04.03-02.47.41:882][741]LogModuleManager: Shutting down and abandoning module SteamVRController (364)
+[2019.04.03-02.47.41:882][741]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (362)
+[2019.04.03-02.47.41:882][741]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (360)
+[2019.04.03-02.47.41:882][741]LogModuleManager: Shutting down and abandoning module OculusInput (358)
+[2019.04.03-02.47.41:882][741]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (356)
+[2019.04.03-02.47.41:882][741]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (354)
+[2019.04.03-02.47.41:882][741]LogModuleManager: Shutting down and abandoning module CableComponent (352)
+[2019.04.03-02.47.41:882][741]LogModuleManager: Shutting down and abandoning module AudioCapture (350)
+[2019.04.03-02.47.41:882][741]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (348)
+[2019.04.03-02.47.41:882][741]LogModuleManager: Shutting down and abandoning module AndroidPermission (346)
+[2019.04.03-02.47.41:882][741]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (342)
+[2019.04.03-02.47.41:883][741]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (340)
+[2019.04.03-02.47.41:883][741]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (338)
+[2019.04.03-02.47.41:883][741]LogModuleManager: Shutting down and abandoning module MediaCompositing (336)
+[2019.04.03-02.47.41:883][741]LogModuleManager: Shutting down and abandoning module LinearTimecode (334)
+[2019.04.03-02.47.41:883][741]LogModuleManager: Shutting down and abandoning module ImgMedia (332)
+[2019.04.03-02.47.41:890][741]LogModuleManager: Shutting down and abandoning module FlexEditor (330)
+[2019.04.03-02.47.41:890][741]LogModuleManager: Shutting down and abandoning module HTML5Networking (328)
+[2019.04.03-02.47.41:890][741]LogModuleManager: Shutting down and abandoning module AlembicImporter (326)
+[2019.04.03-02.47.41:890][741]LogModuleManager: Shutting down and abandoning module AlembicLibrary (325)
+[2019.04.03-02.47.41:890][741]LogModuleManager: Shutting down and abandoning module GeometryCache (324)
+[2019.04.03-02.47.41:890][741]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (323)
+[2019.04.03-02.47.41:890][741]LogModuleManager: Shutting down and abandoning module DatasmithContent (318)
+[2019.04.03-02.47.41:890][741]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (316)
+[2019.04.03-02.47.41:890][741]LogModuleManager: Shutting down and abandoning module PluginBrowser (314)
+[2019.04.03-02.47.41:890][741]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (312)
+[2019.04.03-02.47.41:890][741]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (310)
+[2019.04.03-02.47.41:890][741]LogModuleManager: Shutting down and abandoning module CryptoKeys (308)
+[2019.04.03-02.47.41:890][741]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (306)
+[2019.04.03-02.47.41:890][741]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (304)
+[2019.04.03-02.47.41:890][741]LogModuleManager: Shutting down and abandoning module UObjectPlugin (302)
+[2019.04.03-02.47.41:890][741]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (300)
+[2019.04.03-02.47.41:890][741]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (298)
+[2019.04.03-02.47.41:890][741]LogModuleManager: Shutting down and abandoning module GitSourceControl (296)
+[2019.04.03-02.47.41:890][741]LogModuleManager: Shutting down and abandoning module SourceControl (295)
+[2019.04.03-02.47.41:890][741]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (292)
+[2019.04.03-02.47.41:890][741]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (290)
+[2019.04.03-02.47.41:890][741]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (288)
+[2019.04.03-02.47.41:890][741]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (286)
+[2019.04.03-02.47.41:890][741]LogModuleManager: Shutting down and abandoning module Paper2DEditor (284)
+[2019.04.03-02.47.41:890][741]LogModuleManager: Shutting down and abandoning module MeshPaint (283)
+[2019.04.03-02.47.41:890][741]LogModuleManager: Shutting down and abandoning module Boof_Core (280)
+[2019.04.03-02.47.41:890][741]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (278)
+[2019.04.03-02.47.41:890][741]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (276)
+[2019.04.03-02.47.41:891][741]LogModuleManager: Shutting down and abandoning module PhysXVehicles (274)
+[2019.04.03-02.47.41:891][741]LogModuleManager: Shutting down and abandoning module OculusEditor (272)
+[2019.04.03-02.47.41:891][741]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (270)
+[2019.04.03-02.47.41:891][741]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (268)
+[2019.04.03-02.47.41:891][741]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (266)
+[2019.04.03-02.47.41:891][741]LogModuleManager: Shutting down and abandoning module ActorSequence (264)
+[2019.04.03-02.47.41:891][741]LogModuleManager: Shutting down and abandoning module UdpMessaging (262)
+[2019.04.03-02.47.41:993][741]LogModuleManager: Shutting down and abandoning module TcpMessaging (260)
+[2019.04.03-02.47.42:094][741]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (258)
+[2019.04.03-02.47.42:094][741]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (256)
+[2019.04.03-02.47.42:094][741]LogModuleManager: Shutting down and abandoning module FacialAnimation (254)
+[2019.04.03-02.47.42:094][741]LogModuleManager: Shutting down and abandoning module DataValidation (252)
+[2019.04.03-02.47.42:094][741]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (250)
+[2019.04.03-02.47.42:094][741]LogModuleManager: Shutting down and abandoning module LevelEditor (249)
+[2019.04.03-02.47.42:095][741]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (248)
+[2019.04.03-02.47.42:095][741]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (246)
+[2019.04.03-02.47.42:095][741]LogModuleManager: Shutting down and abandoning module MainFrame (244)
+[2019.04.03-02.47.42:095][741]LogModuleManager: Shutting down and abandoning module HotReload (243)
+[2019.04.03-02.47.42:095][741]LogDirectoryWatcher: A directory notification for 'F:/Game Development/BoofStudios/BoofStudios_OneShotAnims/Boof_Core/Binaries/Win64' was aborted.
+[2019.04.03-02.47.42:096][741]LogModuleManager: Shutting down and abandoning module ContentBrowser (239)
+[2019.04.03-02.47.42:097][741]LogModuleManager: Shutting down and abandoning module TreeMap (237)
+[2019.04.03-02.47.42:097][741]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (234)
+[2019.04.03-02.47.42:097][741]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (232)
+[2019.04.03-02.47.42:097][741]LogModuleManager: Shutting down and abandoning module LiveLink (230)
+[2019.04.03-02.47.42:863][741]LogModuleManager: Shutting down and abandoning module Paper2D (228)
+[2019.04.03-02.47.42:863][741]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (226)
+[2019.04.03-02.47.42:863][741]LogModuleManager: Shutting down and abandoning module WmfMedia (224)
+[2019.04.03-02.47.42:865][741]LogModuleManager: Shutting down and abandoning module Media (223)
+[2019.04.03-02.47.42:873][741]LogModuleManager: Shutting down and abandoning module PacketHandler (220)
+[2019.04.03-02.47.42:873][741]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (218)
+[2019.04.03-02.47.42:873][741]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (216)
+[2019.04.03-02.47.42:873][741]LogModuleManager: Shutting down and abandoning module MediaAssets (214)
+[2019.04.03-02.47.42:873][741]LogModuleManager: Shutting down and abandoning module Overlay (212)
+[2019.04.03-02.47.42:873][741]LogModuleManager: Shutting down and abandoning module OverlayEditor (211)
+[2019.04.03-02.47.42:873][741]LogModuleManager: Shutting down and abandoning module VREditor (208)
+[2019.04.03-02.47.42:873][741]LogModuleManager: Shutting down and abandoning module StringTableEditor (206)
+[2019.04.03-02.47.42:873][741]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (204)
+[2019.04.03-02.47.42:873][741]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (202)
+[2019.04.03-02.47.42:873][741]LogModuleManager: Shutting down and abandoning module FunctionalTesting (200)
+[2019.04.03-02.47.42:873][741]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (198)
+[2019.04.03-02.47.42:873][741]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (197)
+[2019.04.03-02.47.42:873][741]LogModuleManager: Shutting down and abandoning module UMG (194)
+[2019.04.03-02.47.42:873][741]LogModuleManager: Shutting down and abandoning module UMGEditor (193)
+[2019.04.03-02.47.42:873][741]LogModuleManager: Shutting down and abandoning module Sequencer (192)
+[2019.04.03-02.47.42:873][741]LogModuleManager: Shutting down and abandoning module MessageLog (189)
+[2019.04.03-02.47.42:874][741]LogModuleManager: Shutting down and abandoning module SlateReflector (184)
+[2019.04.03-02.47.42:874][741]LogModuleManager: Shutting down and abandoning module Slate (182)
+[2019.04.03-02.47.42:874][741]LogModuleManager: Shutting down and abandoning module EditorStyle (180)
+[2019.04.03-02.47.42:876][741]LogModuleManager: Shutting down and abandoning module MRMesh (178)
+[2019.04.03-02.47.42:876][741]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (176)
+[2019.04.03-02.47.42:876][741]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (174)
+[2019.04.03-02.47.42:876][741]LogModuleManager: Shutting down and abandoning module XAudio2 (172)
+[2019.04.03-02.47.42:877][741]LogModuleManager: Shutting down and abandoning module Networking (170)
+[2019.04.03-02.47.42:877][741]LogModuleManager: Shutting down and abandoning module Core (168)
+[2019.04.03-02.47.42:877][741]LogModuleManager: Shutting down and abandoning module LevelSequence (166)
+[2019.04.03-02.47.42:877][741]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2019.04.03-02.47.42:877][741]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2019.04.03-02.47.42:877][741]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2019.04.03-02.47.42:877][741]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2019.04.03-02.47.42:877][741]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (159)
+[2019.04.03-02.47.42:877][741]LogModuleManager: Shutting down and abandoning module MaterialBaking (155)
+[2019.04.03-02.47.42:877][741]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (151)
+[2019.04.03-02.47.42:884][741]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2019.04.03-02.47.42:908][741]LogDerivedDataCache: Shutdown
+[2019.04.03-02.47.42:908][741]LogModuleManager: Shutting down and abandoning module XGEController (146)
+[2019.04.03-02.47.42:908][741]LogXGEController: Cleaning working directory: C:/Users/Dominic/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.04.03-02.47.42:908][741]LogModuleManager: Shutting down and abandoning module TargetPlatform (144)
+[2019.04.03-02.47.42:908][741]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (143)
+[2019.04.03-02.47.42:908][741]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (141)
+[2019.04.03-02.47.42:908][741]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (139)
+[2019.04.03-02.47.42:908][741]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (137)
+[2019.04.03-02.47.42:908][741]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (135)
+[2019.04.03-02.47.42:908][741]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (133)
+[2019.04.03-02.47.42:908][741]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (131)
+[2019.04.03-02.47.42:908][741]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (129)
+[2019.04.03-02.47.42:908][741]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (127)
+[2019.04.03-02.47.42:909][741]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (125)
+[2019.04.03-02.47.42:909][741]LogModuleManager: Shutting down and abandoning module ImageWrapper (124)
+[2019.04.03-02.47.42:909][741]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (121)
+[2019.04.03-02.47.42:909][741]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (119)
+[2019.04.03-02.47.42:909][741]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (117)
+[2019.04.03-02.47.42:909][741]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (115)
+[2019.04.03-02.47.42:909][741]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (113)
+[2019.04.03-02.47.42:909][741]LogModuleManager: Shutting down and abandoning module Messaging (111)
+[2019.04.03-02.47.42:909][741]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (109)
+[2019.04.03-02.47.42:909][741]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (107)
+[2019.04.03-02.47.42:909][741]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (105)
+[2019.04.03-02.47.42:909][741]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (103)
+[2019.04.03-02.47.42:909][741]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (101)
+[2019.04.03-02.47.42:909][741]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (99)
+[2019.04.03-02.47.42:909][741]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (97)
+[2019.04.03-02.47.42:909][741]LogModuleManager: Shutting down and abandoning module Android_ETC1aTargetPlatform (95)
+[2019.04.03-02.47.42:909][741]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (93)
+[2019.04.03-02.47.42:909][741]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (91)
+[2019.04.03-02.47.42:909][741]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (89)
+[2019.04.03-02.47.42:909][741]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (87)
+[2019.04.03-02.47.42:909][741]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (85)
+[2019.04.03-02.47.42:909][741]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (83)
+[2019.04.03-02.47.42:909][741]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (81)
+[2019.04.03-02.47.42:909][741]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (79)
+[2019.04.03-02.47.42:909][741]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (77)
+[2019.04.03-02.47.42:909][741]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (75)
+[2019.04.03-02.47.42:909][741]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (73)
+[2019.04.03-02.47.42:910][741]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (71)
+[2019.04.03-02.47.42:910][741]LogModuleManager: Shutting down and abandoning module InputCore (68)
+[2019.04.03-02.47.42:910][741]LogModuleManager: Shutting down and abandoning module Settings (66)
+[2019.04.03-02.47.42:910][741]LogModuleManager: Shutting down and abandoning module PhysXCooking (64)
+[2019.04.03-02.47.42:910][741]LogModuleManager: Shutting down and abandoning module SteamVR (62)
+[2019.04.03-02.47.42:910][741]LogModuleManager: Shutting down and abandoning module OculusHMD (60)
+[2019.04.03-02.47.42:910][741]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (58)
+[2019.04.03-02.47.42:910][741]LogModuleManager: Shutting down and abandoning module AppleARKit (56)
+[2019.04.03-02.47.42:910][741]LogModuleManager: Shutting down and abandoning module AugmentedReality (53)
+[2019.04.03-02.47.42:910][741]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (50)
+[2019.04.03-02.47.42:910][741]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (46)
+[2019.04.03-02.47.42:910][741]LogModuleManager: Shutting down and abandoning module XMPP (45)
+[2019.04.03-02.47.42:910][741]LogModuleManager: Shutting down and abandoning module HTTP (43)
+[2019.04.03-02.47.42:910][741]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.04.03-02.47.42:910][741]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB41441EC-4D62-BB28-F355-1F95F6D8BE57%7D&AppID=UEEditor.UnrealEngine.Release&AppVersion=4.19.2-0%2B%2B%2BUE4%2BRelease-4.19&UserID=b2e8a3a94e80e8eee01f0b96db8a3a07%7C9a7113778c324a5ebfbe2ee726f02543%7Ccad36dd3-a8ba-4a5a-9ec2-676c9c97de17&AppEnvironment=datacollector-source&UploadType=eteventstream] status=Processing
+[2019.04.03-02.47.42:926][741]LogModuleManager: Shutting down and abandoning module SSL (42)
+[2019.04.03-02.47.42:927][741]LogModuleManager: Shutting down and abandoning module Flex (38)
+[2019.04.03-02.47.42:927][741]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.04.03-02.47.42:927][741]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.04.03-02.47.42:928][741]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.04.03-02.47.42:928][741]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.04.03-02.47.42:928][741]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.04.03-02.47.42:928][741]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.04.03-02.47.42:928][741]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.04.03-02.47.42:929][741]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.04.03-02.47.42:929][741]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.04.03-02.47.42:929][741]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.04.03-02.47.42:929][741]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.04.03-02.47.42:929][741]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.04.03-02.47.42:929][741]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.04.03-02.47.42:929][741]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.04.03-02.47.42:929][741]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.04.03-02.47.42:929][741]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.04.03-02.47.42:929][741]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.04.03-02.47.42:929][741]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.04.03-02.47.42:955][741]LogExit: Exiting.
+[2019.04.03-02.47.42:987][741]Log file closed, 04/02/19 20:47:42

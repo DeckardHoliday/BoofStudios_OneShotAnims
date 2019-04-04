@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 
-<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
 	<ItemGroup>
 		<None Include="C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Source\Programs\UnrealWatchdog\UnrealWatchdog.Target.cs" />
 		<None Include="C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Source\Programs\UnrealWatchdog\UnrealWatchdog.Build.cs" />
 		<Filter Include="Private">
-			<UniqueIdentifier>{51351A57-F9B8-4F56-B796-FAA25BD1629A}</UniqueIdentifier>
+			<UniqueIdentifier>{716FAF9D-9A55-45C9-815A-065F19E602C3}</UniqueIdentifier>
 		</Filter>
 		<ClCompile Include="C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Source\Programs\UnrealWatchdog\Private\UnrealWatchdog.cpp">
 			<Filter>Private</Filter>
@@ -20,19 +20,19 @@
 			<Filter>Private</Filter>
 		</ClInclude >
 		<Filter Include="Private\Linux">
-			<UniqueIdentifier>{21C136C5-69A6-4399-9EA2-83E25B0529ED}</UniqueIdentifier>
+			<UniqueIdentifier>{BABCACE9-E1F3-4836-A71B-D82ABD776C89}</UniqueIdentifier>
 		</Filter>
 		<ClCompile Include="C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Source\Programs\UnrealWatchdog\Private\Linux\UnrealWatchdogMainLinux.cpp">
 			<Filter>Private\Linux</Filter>
 		</ClCompile >
 		<Filter Include="Private\Mac">
-			<UniqueIdentifier>{7465480B-6B39-40AC-A51B-12433528467D}</UniqueIdentifier>
+			<UniqueIdentifier>{B8D5269F-0539-48AC-A1B1-0C68CE79948B}</UniqueIdentifier>
 		</Filter>
 		<ClCompile Include="C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Source\Programs\UnrealWatchdog\Private\Mac\UnrealWatchdogMainMac.cpp">
 			<Filter>Private\Mac</Filter>
 		</ClCompile >
 		<Filter Include="Private\Windows">
-			<UniqueIdentifier>{0185573D-BD4B-4D02-816B-FF50038C7FD0}</UniqueIdentifier>
+			<UniqueIdentifier>{38D6A46E-8BE8-40D2-A072-EC5B2D3105CB}</UniqueIdentifier>
 		</Filter>
 		<ClCompile Include="C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Source\Programs\UnrealWatchdog\Private\Windows\UnrealWatchdogMainWindows.cpp">
 			<Filter>Private\Windows</Filter>

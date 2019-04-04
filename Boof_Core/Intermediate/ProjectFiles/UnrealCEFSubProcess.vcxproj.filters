@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 
-<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
 	<ItemGroup>
 		<None Include="C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Source\Programs\UnrealCEFSubProcess\UnrealCEFSubProcess.Target.cs" />
 		<None Include="C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Source\Programs\UnrealCEFSubProcess\UnrealCEFSubProcess.Build.cs" />
 		<Filter Include="Private">
-			<UniqueIdentifier>{1D672CEB-10AD-4651-AE42-867274626168}</UniqueIdentifier>
+			<UniqueIdentifier>{B1F9E5F2-CB72-451C-A41A-FB73C32966B5}</UniqueIdentifier>
 		</Filter>
 		<ClCompile Include="C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Source\Programs\UnrealCEFSubProcess\Private\UnrealCEFSubProcess.cpp">
 			<Filter>Private</Filter>
@@ -38,28 +38,28 @@
 			<Filter>Private</Filter>
 		</ClInclude >
 		<Filter Include="Private\Linux">
-			<UniqueIdentifier>{150601D3-C14B-49C7-8ADD-B5075867E075}</UniqueIdentifier>
+			<UniqueIdentifier>{EB3DF61B-23E2-46E7-AB24-645E45D78CA8}</UniqueIdentifier>
 		</Filter>
 		<ClCompile Include="C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Source\Programs\UnrealCEFSubProcess\Private\Linux\UnrealCEFSubProcessLinux.cpp">
 			<Filter>Private\Linux</Filter>
 		</ClCompile >
 		<Filter Include="Private\Mac">
-			<UniqueIdentifier>{516B2867-20D6-4BE0-9782-76E555E8303F}</UniqueIdentifier>
+			<UniqueIdentifier>{48406575-01A7-41AA-A345-2F71A4280F65}</UniqueIdentifier>
 		</Filter>
 		<ClCompile Include="C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Source\Programs\UnrealCEFSubProcess\Private\Mac\UnrealCEFSubProcessMac.cpp">
 			<Filter>Private\Mac</Filter>
 		</ClCompile >
 		<Filter Include="Private\Windows">
-			<UniqueIdentifier>{7405238C-4FD1-45CC-B492-D8096A621FBF}</UniqueIdentifier>
+			<UniqueIdentifier>{F0478E21-355A-4094-BECA-5FCDE6E63B38}</UniqueIdentifier>
 		</Filter>
 		<ClCompile Include="C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Source\Programs\UnrealCEFSubProcess\Private\Windows\UnrealCEFSubProcessWindows.cpp">
 			<Filter>Private\Windows</Filter>
 		</ClCompile >
 		<Filter Include="Resources">
-			<UniqueIdentifier>{63F46182-D8E8-40E1-8F2D-1709D4415FC9}</UniqueIdentifier>
+			<UniqueIdentifier>{575E01F6-8E10-482F-A48B-067493C7AAD0}</UniqueIdentifier>
 		</Filter>
 		<Filter Include="Resources\Windows">
-			<UniqueIdentifier>{2FF229E4-7CE1-4B5A-838B-3D40FE21D3FC}</UniqueIdentifier>
+			<UniqueIdentifier>{5F4814B7-ECA5-418D-A408-D68362E7F5A0}</UniqueIdentifier>
 		</Filter>
 		<Manifest Include="C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Source\Programs\UnrealCEFSubProcess\Resources\Windows\Debug-UnrealCEFSubProcess-Win32.manifest">
 			<Filter>Resources\Windows</Filter>

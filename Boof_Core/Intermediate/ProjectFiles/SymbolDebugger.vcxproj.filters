@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 
-<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
 	<ItemGroup>
 		<None Include="C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Source\Programs\SymbolDebugger\SymbolDebugger.Target.cs" />
 		<None Include="C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Source\Programs\SymbolDebugger\SymbolDebugger.Build.cs" />
 		<Filter Include="Private">
-			<UniqueIdentifier>{6E4A57CD-5D48-4A98-BE1B-1F69452536A2}</UniqueIdentifier>
+			<UniqueIdentifier>{878CF3CA-C53D-45BD-A384-EDAB1D670A27}</UniqueIdentifier>
 		</Filter>
 		<ClCompile Include="C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Source\Programs\SymbolDebugger\Private\SSymbolDebugger.cpp">
 			<Filter>Private</Filter>
@@ -23,28 +23,28 @@
 			<Filter>Private</Filter>
 		</ClCompile >
 		<Filter Include="Private\Mac">
-			<UniqueIdentifier>{5FD8167E-D8AE-4615-8533-851E35643417}</UniqueIdentifier>
+			<UniqueIdentifier>{3EA07408-F1B1-4A9E-BABE-99C7BDB4AC45}</UniqueIdentifier>
 		</Filter>
 		<ClCompile Include="C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Source\Programs\SymbolDebugger\Private\Mac\SymbolDebuggerMainMac.cpp">
 			<Filter>Private\Mac</Filter>
 		</ClCompile >
 		<Filter Include="Private\Windows">
-			<UniqueIdentifier>{87B54921-267F-489A-A754-66FC5B84B0FF}</UniqueIdentifier>
+			<UniqueIdentifier>{886E61DC-8B8A-4F68-8F65-29E8D2AA5B52}</UniqueIdentifier>
 		</Filter>
 		<ClCompile Include="C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Source\Programs\SymbolDebugger\Private\Windows\SymbolDebuggerMainWindows.cpp">
 			<Filter>Private\Windows</Filter>
 		</ClCompile >
 		<Filter Include="Public">
-			<UniqueIdentifier>{55B4E053-53C2-47B5-9B1E-48B16BAB1130}</UniqueIdentifier>
+			<UniqueIdentifier>{091582AB-B7B3-49A2-93E5-B4DECA9F97F1}</UniqueIdentifier>
 		</Filter>
 		<ClInclude Include="C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Source\Programs\SymbolDebugger\Public\SymbolDebuggerApp.h">
 			<Filter>Public</Filter>
 		</ClInclude >
 		<Filter Include="Resources">
-			<UniqueIdentifier>{3EAFF106-B156-418A-B116-A1A51D5F713F}</UniqueIdentifier>
+			<UniqueIdentifier>{EBDBAAE1-F26A-4586-B0AF-54E566F0572A}</UniqueIdentifier>
 		</Filter>
 		<Filter Include="Resources\Windows">
-			<UniqueIdentifier>{BFC45BF6-9526-4B3D-AC64-3BAD3EEB353A}</UniqueIdentifier>
+			<UniqueIdentifier>{42FAA004-D6FF-4A92-8955-EF6C56F29ADB}</UniqueIdentifier>
 		</Filter>
 		<Manifest Include="C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Source\Programs\SymbolDebugger\Resources\Windows\Debug-PCLaunch-Win32.manifest">
 			<Filter>Resources\Windows</Filter>

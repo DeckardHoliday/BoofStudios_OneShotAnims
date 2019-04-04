@@ -1,22 +1,22 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 
-<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
 	<ItemGroup>
 		<None Include="C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Source\Programs\IOS\UnrealLaunchDaemon\UnrealLaunchDaemon.Target.cs" />
 		<None Include="C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Source\Programs\IOS\UnrealLaunchDaemon\UnrealLaunchDaemon.Build.cs" />
 		<None Include="C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Source\Programs\IOS\UnrealLaunchDaemon\UnrealLaunchDaemon.tps" />
 		<None Include="C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Source\Programs\IOS\UnrealLaunchDaemon\UnrealLaunchDaemon.uproject" />
 		<Filter Include="Build">
-			<UniqueIdentifier>{6726F646-0029-4484-8F97-D86D1BDCA927}</UniqueIdentifier>
+			<UniqueIdentifier>{5391EC78-0AB5-4B97-A4E9-FE598184151B}</UniqueIdentifier>
 		</Filter>
 		<Filter Include="Build\IOS">
-			<UniqueIdentifier>{9FB1EFA0-D837-4880-A0E8-575653D960BC}</UniqueIdentifier>
+			<UniqueIdentifier>{831962CA-DC05-4497-B657-32499C02C727}</UniqueIdentifier>
 		</Filter>
 		<None Include="C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Source\Programs\IOS\UnrealLaunchDaemon\Build\IOS\UnrealLaunchDaemon-Info.plist">
 			<Filter>Build\IOS</Filter>
 		</None >
 		<Filter Include="Private">
-			<UniqueIdentifier>{10D268D4-A5A3-47A0-8011-3B9EF3018478}</UniqueIdentifier>
+			<UniqueIdentifier>{262FA5B0-4B19-4CA1-9510-CA3BCE7E8DEB}</UniqueIdentifier>
 		</Filter>
 		<ClCompile Include="C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Source\Programs\IOS\UnrealLaunchDaemon\Private\LaunchDaemonMessageHandler.cpp">
 			<Filter>Private</Filter>
@@ -34,7 +34,7 @@
 			<Filter>Private</Filter>
 		</ClInclude >
 		<Filter Include="Private\IOS">
-			<UniqueIdentifier>{B44860BD-F600-4879-9F84-7D08F51C9184}</UniqueIdentifier>
+			<UniqueIdentifier>{3FABA2DC-83E0-456B-A31F-216A0AE1C290}</UniqueIdentifier>
 		</Filter>
 		<ClCompile Include="C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Source\Programs\IOS\UnrealLaunchDaemon\Private\IOS\IOSLaunchDaemonAppMain.cpp">
 			<Filter>Private\IOS</Filter>

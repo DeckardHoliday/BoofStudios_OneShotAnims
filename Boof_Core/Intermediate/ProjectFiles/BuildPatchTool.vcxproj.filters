@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 
-<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
 	<ItemGroup>
 		<None Include="C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Source\Programs\BuildPatchTool\BuildPatchTool.Target.cs" />
 		<Filter Include="Config">
-			<UniqueIdentifier>{B186464D-EC20-4AD7-ACE6-2D4A5666F978}</UniqueIdentifier>
+			<UniqueIdentifier>{37438505-8FF5-489E-A716-98247DB7E4D8}</UniqueIdentifier>
 		</Filter>
 		<None Include="C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Programs\BuildPatchTool\Config\DefaultEngine.ini">
 			<Filter>Config</Filter>
@@ -12,7 +12,7 @@
 		<None Include="C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Source\Programs\BuildPatchTool\BuildPatchTool.Automation.cs" />
 		<None Include="C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Source\Programs\BuildPatchTool\BuildPatchTool.Build.cs" />
 		<Filter Include="Private">
-			<UniqueIdentifier>{297EB184-A5D7-4D83-9C2B-AC6BD417D533}</UniqueIdentifier>
+			<UniqueIdentifier>{21C02044-3797-4C16-88C2-9041F15CE731}</UniqueIdentifier>
 		</Filter>
 		<ClCompile Include="C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Source\Programs\BuildPatchTool\Private\BuildPatchTool.cpp">
 			<Filter>Private</Filter>
@@ -21,7 +21,7 @@
 			<Filter>Private</Filter>
 		</ClCompile >
 		<Filter Include="Private\ToolModes">
-			<UniqueIdentifier>{57FBD095-0CA6-438A-8124-320C4911491F}</UniqueIdentifier>
+			<UniqueIdentifier>{F7979B4D-5B01-4C64-8213-D46F17F8CF31}</UniqueIdentifier>
 		</Filter>
 		<ClCompile Include="C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Source\Programs\BuildPatchTool\Private\ToolModes\AutomationMode.cpp">
 			<Filter>Private\ToolModes</Filter>
@@ -48,19 +48,19 @@
 			<Filter>Private\ToolModes</Filter>
 		</ClCompile >
 		<Filter Include="Public">
-			<UniqueIdentifier>{3B47757C-5F3A-4AB9-A9CD-BF9D4A2B251C}</UniqueIdentifier>
+			<UniqueIdentifier>{33DF740B-79C3-43D3-86AB-6F47D31D3EBF}</UniqueIdentifier>
 		</Filter>
 		<ClInclude Include="C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Source\Programs\BuildPatchTool\Public\BuildPatchTool.h">
 			<Filter>Public</Filter>
 		</ClInclude >
 		<Filter Include="Public\Interfaces">
-			<UniqueIdentifier>{30927F73-7243-4C89-AD05-A4C19A25E6FB}</UniqueIdentifier>
+			<UniqueIdentifier>{26D14842-293C-42B3-B50A-D70FA3ABCF30}</UniqueIdentifier>
 		</Filter>
 		<ClInclude Include="C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Source\Programs\BuildPatchTool\Public\Interfaces\ToolMode.h">
 			<Filter>Public\Interfaces</Filter>
 		</ClInclude >
 		<Filter Include="Public\ToolModes">
-			<UniqueIdentifier>{91C52746-90F3-4760-B5C3-05222A5BA858}</UniqueIdentifier>
+			<UniqueIdentifier>{32EBE964-CBCA-4EF8-9A47-563C62882584}</UniqueIdentifier>
 		</Filter>
 		<ClInclude Include="C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Source\Programs\BuildPatchTool\Public\ToolModes\AutomationMode.h">
 			<Filter>Public\ToolModes</Filter>
@@ -87,10 +87,10 @@
 			<Filter>Public\ToolModes</Filter>
 		</ClInclude >
 		<Filter Include="Resources">
-			<UniqueIdentifier>{67A75F74-99BD-449B-BB81-5ED695CC7F70}</UniqueIdentifier>
+			<UniqueIdentifier>{7D315C1D-7A4F-4205-BAF6-14601304BA8F}</UniqueIdentifier>
 		</Filter>
 		<Filter Include="Resources\Windows">
-			<UniqueIdentifier>{3528F622-7EAD-4DA0-BFDE-36396259B42C}</UniqueIdentifier>
+			<UniqueIdentifier>{EEC9F99E-1705-4F93-A313-3D70E24E328F}</UniqueIdentifier>
 		</Filter>
 		<None Include="C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Source\Programs\BuildPatchTool\Resources\Windows\BuildPatchTool.ico">
 			<Filter>Resources\Windows</Filter>

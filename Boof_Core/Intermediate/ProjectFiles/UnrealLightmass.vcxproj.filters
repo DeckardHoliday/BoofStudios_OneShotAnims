@@ -1,20 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 
-<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
 	<ItemGroup>
 		<None Include="C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Source\Programs\UnrealLightmass\UnrealLightmass.Target.cs" />
 		<Filter Include="Config">
-			<UniqueIdentifier>{1641C3FA-7A27-4785-8A29-8F4AA6795EFC}</UniqueIdentifier>
+			<UniqueIdentifier>{29652176-F462-4A61-B612-64A694B64841}</UniqueIdentifier>
 		</Filter>
 		<None Include="C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Programs\UnrealLightmass\Config\DefaultEngine.ini">
 			<Filter>Config</Filter>
 		</None >
 		<None Include="C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Source\Programs\UnrealLightmass\UnrealLightmass.Build.cs" />
 		<Filter Include="Private">
-			<UniqueIdentifier>{2D17C190-68DA-4F7B-BCD9-720CD34E32B1}</UniqueIdentifier>
+			<UniqueIdentifier>{60ABA703-9861-4D0B-9AD4-D9AE0ADB2073}</UniqueIdentifier>
 		</Filter>
 		<Filter Include="Private\CPUSolver">
-			<UniqueIdentifier>{18F794FC-DAD6-4CD8-A8E8-2A83EF028AAA}</UniqueIdentifier>
+			<UniqueIdentifier>{1471B384-A250-4C40-9E0D-A462DC55269A}</UniqueIdentifier>
 		</Filter>
 		<ClCompile Include="C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Source\Programs\UnrealLightmass\Private\CPUSolver\CPUSolver.cpp">
 			<Filter>Private\CPUSolver</Filter>
@@ -23,7 +23,7 @@
 			<Filter>Private\CPUSolver</Filter>
 		</ClInclude >
 		<Filter Include="Private\ImportExport">
-			<UniqueIdentifier>{15CACE09-8B88-4304-95D9-F3D6AFEFC784}</UniqueIdentifier>
+			<UniqueIdentifier>{5050058B-6CA0-45D8-AB07-E9928AAC8614}</UniqueIdentifier>
 		</Filter>
 		<ClCompile Include="C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Source\Programs\UnrealLightmass\Private\ImportExport\3DVisualizer.cpp">
 			<Filter>Private\ImportExport</Filter>
@@ -68,7 +68,7 @@
 			<Filter>Private\ImportExport</Filter>
 		</ClInclude >
 		<Filter Include="Private\Launch">
-			<UniqueIdentifier>{2C45EDED-1737-4354-BCEA-0E9E7A095848}</UniqueIdentifier>
+			<UniqueIdentifier>{C26AD708-2B81-4F03-980D-076309C20B46}</UniqueIdentifier>
 		</Filter>
 		<ClCompile Include="C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Source\Programs\UnrealLightmass\Private\Launch\UnitTest.cpp">
 			<Filter>Private\Launch</Filter>
@@ -83,7 +83,7 @@
 			<Filter>Private\Launch</Filter>
 		</ClInclude >
 		<Filter Include="Private\Lighting">
-			<UniqueIdentifier>{E39FD973-AF4E-4E71-BF8C-3B21D0F5D328}</UniqueIdentifier>
+			<UniqueIdentifier>{C8246AA2-C493-43A0-AA43-FE935D3C4507}</UniqueIdentifier>
 		</Filter>
 		<ClCompile Include="C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Source\Programs\UnrealLightmass\Private\Lighting\AdaptiveVolumetricLightmap.cpp">
 			<Filter>Private\Lighting</Filter>
@@ -203,7 +203,7 @@
 			<Filter>Private\Lighting</Filter>
 		</ClCompile >
 		<Filter Include="Private\LightmassCore">
-			<UniqueIdentifier>{9F9ABA51-3AB3-4C8D-8E99-8884C7AF61CE}</UniqueIdentifier>
+			<UniqueIdentifier>{5D405DF3-6A75-4E9B-8BD4-DE4AA3A69AD8}</UniqueIdentifier>
 		</Filter>
 		<ClCompile Include="C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Source\Programs\UnrealLightmass\Private\LightmassCore\LMCore.cpp">
 			<Filter>Private\LightmassCore</Filter>
@@ -212,7 +212,7 @@
 			<Filter>Private\LightmassCore</Filter>
 		</ClInclude >
 		<Filter Include="Private\LightmassCore\Math">
-			<UniqueIdentifier>{6671DFA5-C4F5-45B6-8E1F-2EDC543E0628}</UniqueIdentifier>
+			<UniqueIdentifier>{1AE27FA8-8BBC-4F9B-A29D-4118A3924090}</UniqueIdentifier>
 		</Filter>
 		<ClInclude Include="C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Source\Programs\UnrealLightmass\Private\LightmassCore\Math\LMCollision.h">
 			<Filter>Private\LightmassCore\Math</Filter>
@@ -239,7 +239,7 @@
 			<Filter>Private\LightmassCore\Math</Filter>
 		</ClCompile >
 		<Filter Include="Private\LightmassCore\Misc">
-			<UniqueIdentifier>{E36DB2AC-601F-41C9-B861-C1325AC55F0B}</UniqueIdentifier>
+			<UniqueIdentifier>{863DAC1B-8AC6-404C-91AA-00B3166E52F6}</UniqueIdentifier>
 		</Filter>
 		<ClCompile Include="C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Source\Programs\UnrealLightmass\Private\LightmassCore\Misc\LMDebug.cpp">
 			<Filter>Private\LightmassCore\Misc</Filter>
@@ -260,13 +260,13 @@
 			<Filter>Private\LightmassCore\Misc</Filter>
 		</ClInclude >
 		<Filter Include="Private\LightmassCore\Templates">
-			<UniqueIdentifier>{629AD363-A211-4441-810E-398B39E352A4}</UniqueIdentifier>
+			<UniqueIdentifier>{4342CE4B-6FC3-4DBD-95A4-B6576DFF4D90}</UniqueIdentifier>
 		</Filter>
 		<ClInclude Include="C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Source\Programs\UnrealLightmass\Private\LightmassCore\Templates\LMQueue.h">
 			<Filter>Private\LightmassCore\Templates</Filter>
 		</ClInclude >
 		<Filter Include="Public">
-			<UniqueIdentifier>{8A63E912-0398-42F1-BD18-371E5F130201}</UniqueIdentifier>
+			<UniqueIdentifier>{7170BBA3-6411-4DDC-8615-33085C189E3B}</UniqueIdentifier>
 		</Filter>
 		<ClInclude Include="C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Source\Programs\UnrealLightmass\Public\FluidExport.h">
 			<Filter>Public</Filter>
@@ -287,7 +287,7 @@
 			<Filter>Public</Filter>
 		</ClInclude >
 		<Filter Include="Resources">
-			<UniqueIdentifier>{2DC47453-24B3-4527-94A0-7A16D9B1F85B}</UniqueIdentifier>
+			<UniqueIdentifier>{D46BC415-0CCC-4332-AEC7-B6553848FEBD}</UniqueIdentifier>
 		</Filter>
 		<Manifest Include="C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Source\Programs\UnrealLightmass\Resources\Debug-Win32.manifest">
 			<Filter>Resources</Filter>

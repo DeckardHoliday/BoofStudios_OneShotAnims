@@ -1,23 +1,23 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 
-<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
 	<ItemGroup>
 		<None Include="C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Source\Programs\ShaderCompileWorker\ShaderCompileWorker.Target.cs" />
 		<Filter Include="Config">
-			<UniqueIdentifier>{72598E83-AB9D-4667-8FC5-3224CEEEA3BD}</UniqueIdentifier>
+			<UniqueIdentifier>{A3766B88-61A2-41E6-86A0-8E62B9022062}</UniqueIdentifier>
 		</Filter>
 		<None Include="C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Programs\ShaderCompileWorker\Config\DefaultEngine.ini">
 			<Filter>Config</Filter>
 		</None >
 		<Filter Include="Config\Mac">
-			<UniqueIdentifier>{5770A3A6-CEF4-4561-BED3-0BEB577CF343}</UniqueIdentifier>
+			<UniqueIdentifier>{3FD2BD9D-806F-4188-9FE1-74FDB3A83C1A}</UniqueIdentifier>
 		</Filter>
 		<None Include="C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Programs\ShaderCompileWorker\Config\Mac\MacEngine.ini">
 			<Filter>Config\Mac</Filter>
 		</None >
 		<None Include="C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Source\Programs\ShaderCompileWorker\ShaderCompileWorker.Build.cs" />
 		<Filter Include="Private">
-			<UniqueIdentifier>{00AEDF03-D5B7-4C8C-9309-09DB4AA0E9AE}</UniqueIdentifier>
+			<UniqueIdentifier>{FF23DC6A-C724-464D-867B-AEC5DAFB9264}</UniqueIdentifier>
 		</Filter>
 		<ClCompile Include="C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Source\Programs\ShaderCompileWorker\Private\ShaderCompileWorker.cpp">
 			<Filter>Private</Filter>
@@ -26,7 +26,7 @@
 			<Filter>Private</Filter>
 		</ClCompile >
 		<Filter Include="Resources">
-			<UniqueIdentifier>{9C24D839-7D89-4795-8876-AF26EC19E768}</UniqueIdentifier>
+			<UniqueIdentifier>{9A8C1B44-8383-4760-B4E1-6EACA57EAF6E}</UniqueIdentifier>
 		</Filter>
 		<Manifest Include="C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Source\Programs\ShaderCompileWorker\Resources\Debug-Win32.manifest">
 			<Filter>Resources</Filter>

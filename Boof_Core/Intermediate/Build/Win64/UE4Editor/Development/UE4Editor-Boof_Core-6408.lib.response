@@ -1,0 +1,22 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Boof_Core-6408.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"F:\Game Development\BoofStudios\BoofStudios_OneShotAnims\Boof_Core\Intermediate\Build\Win64\UE4Editor\Development\Boof_Core\Boof_Actors.cpp.obj"
+"F:\Game Development\BoofStudios\BoofStudios_OneShotAnims\Boof_Core\Intermediate\Build\Win64\UE4Editor\Development\Boof_Core\Boof_Core.cpp.obj"
+"F:\Game Development\BoofStudios\BoofStudios_OneShotAnims\Boof_Core\Intermediate\Build\Win64\UE4Editor\Development\Boof_Core\Boof_CoreGameModeBase.cpp.obj"
+"F:\Game Development\BoofStudios\BoofStudios_OneShotAnims\Boof_Core\Intermediate\Build\Win64\UE4Editor\Development\Boof_Core\Boof_Player.cpp.obj"
+"F:\Game Development\BoofStudios\BoofStudios_OneShotAnims\Boof_Core\Intermediate\Build\Win64\UE4Editor\Development\Boof_Core\InteractableObject.cpp.obj"
+"F:\Game Development\BoofStudios\BoofStudios_OneShotAnims\Boof_Core\Intermediate\Build\Win64\UE4Editor\Development\Boof_Core\Boof_Actors.gen.cpp.obj"
+"F:\Game Development\BoofStudios\BoofStudios_OneShotAnims\Boof_Core\Intermediate\Build\Win64\UE4Editor\Development\Boof_Core\Boof_Core.init.gen.cpp.obj"
+"F:\Game Development\BoofStudios\BoofStudios_OneShotAnims\Boof_Core\Intermediate\Build\Win64\UE4Editor\Development\Boof_Core\Boof_CoreGameModeBase.gen.cpp.obj"
+"F:\Game Development\BoofStudios\BoofStudios_OneShotAnims\Boof_Core\Intermediate\Build\Win64\UE4Editor\Development\Boof_Core\Boof_Player.gen.cpp.obj"
+"F:\Game Development\BoofStudios\BoofStudios_OneShotAnims\Boof_Core\Intermediate\Build\Win64\UE4Editor\Development\Boof_Core\InteractableObject.gen.cpp.obj"
+"C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Intermediate\Build\Win64\UE4Editor\Development\PCLaunch.rc.res"
+"C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"F:\Game Development\BoofStudios\BoofStudios_OneShotAnims\Boof_Core\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Boof_Core-6408.lib"

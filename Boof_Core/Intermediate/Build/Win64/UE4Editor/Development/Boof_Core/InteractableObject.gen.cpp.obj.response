@@ -23,9 +23,9 @@
 /wd4838
 /w44668
 /I "C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Source"
-/I "E:\Deckard\Game Development\BoofStudios\CoreSystem\BoofStudios_BaseSystem\Boof_Core\Source"
-/I "E:\Deckard\Game Development\BoofStudios\CoreSystem\BoofStudios_BaseSystem\Boof_Core\Intermediate\Build\Win64\UE4Editor\Inc\Boof_Core"
-/I "E:\Deckard\Game Development\BoofStudios\CoreSystem\BoofStudios_BaseSystem\Boof_Core\Source\Boof_Core"
+/I "F:\Game Development\BoofStudios\BoofStudios_OneShotAnims\Boof_Core\Source"
+/I "F:\Game Development\BoofStudios\BoofStudios_OneShotAnims\Boof_Core\Intermediate\Build\Win64\UE4Editor\Inc\Boof_Core"
+/I "F:\Game Development\BoofStudios\BoofStudios_OneShotAnims\Boof_Core\Source\Boof_Core"
 /I "C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Source\Runtime\Core\Public"
 /I "C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Source\Runtime\Core\Public\Internationalization"
 /I "C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Source\Runtime\Core\Public\Async"
@@ -365,9 +365,9 @@
 /FI"C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h"
 /Yu"C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h"
 /Fp"C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.pch"
-"E:\Deckard\Game Development\BoofStudios\CoreSystem\BoofStudios_BaseSystem\Boof_Core\Intermediate\Build\Win64\UE4Editor\Inc\Boof_Core\InteractableObject.gen.cpp"
-/FI"E:\Deckard\Game Development\BoofStudios\CoreSystem\BoofStudios_BaseSystem\Boof_Core\Intermediate\Build\Win64\UE4Editor\Development\Boof_Core\Definitions.Boof_Core.h"
-/Fo"E:\Deckard\Game Development\BoofStudios\CoreSystem\BoofStudios_BaseSystem\Boof_Core\Intermediate\Build\Win64\UE4Editor\Development\Boof_Core\InteractableObject.gen.cpp.obj"
+"F:\Game Development\BoofStudios\BoofStudios_OneShotAnims\Boof_Core\Intermediate\Build\Win64\UE4Editor\Inc\Boof_Core\InteractableObject.gen.cpp"
+/FI"F:\Game Development\BoofStudios\BoofStudios_OneShotAnims\Boof_Core\Intermediate\Build\Win64\UE4Editor\Development\Boof_Core\Definitions.Boof_Core.h"
+/Fo"F:\Game Development\BoofStudios\BoofStudios_OneShotAnims\Boof_Core\Intermediate\Build\Win64\UE4Editor\Development\Boof_Core\InteractableObject.gen.cpp.obj"
 /TP
 /GR-
 /W4

@@ -1,17 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 
-<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
 	<ItemGroup>
 		<None Include="C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Source\Programs\CrashReportClient\CrashReportClient.Target.cs" />
 		<Filter Include="Config">
-			<UniqueIdentifier>{66110C4B-FD51-4B33-9684-51328DF67EBC}</UniqueIdentifier>
+			<UniqueIdentifier>{A259239F-6152-4232-B26D-B2D830D7A053}</UniqueIdentifier>
 		</Filter>
 		<None Include="C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Programs\CrashReportClient\Config\DefaultEngine.ini">
 			<Filter>Config</Filter>
 		</None >
 		<None Include="C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Source\Programs\CrashReportClient\CrashReportClient.Build.cs" />
 		<Filter Include="Private">
-			<UniqueIdentifier>{1ABB5511-6381-4C93-A22A-4A08BCD9BC25}</UniqueIdentifier>
+			<UniqueIdentifier>{9E55BB20-DDC9-4E27-9DC4-0E8157A1134E}</UniqueIdentifier>
 		</Filter>
 		<ClCompile Include="C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Source\Programs\CrashReportClient\Private\CrashDescription.cpp">
 			<Filter>Private</Filter>
@@ -89,7 +89,7 @@
 			<Filter>Private</Filter>
 		</ClInclude >
 		<Filter Include="Private\Linux">
-			<UniqueIdentifier>{4AF6D5FB-6CE3-44EB-93CC-6946F54B0F8E}</UniqueIdentifier>
+			<UniqueIdentifier>{77F8EEDE-C3FA-42FE-938E-6E9FAFBEE62E}</UniqueIdentifier>
 		</Filter>
 		<ClCompile Include="C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Source\Programs\CrashReportClient\Private\Linux\CrashReportClientMainLinux.cpp">
 			<Filter>Private\Linux</Filter>
@@ -98,7 +98,7 @@
 			<Filter>Private\Linux</Filter>
 		</ClInclude >
 		<Filter Include="Private\Mac">
-			<UniqueIdentifier>{C2E94814-204F-4E45-A825-1FEB244A81CC}</UniqueIdentifier>
+			<UniqueIdentifier>{3C884669-B481-48FB-B743-1F5B21DAEB07}</UniqueIdentifier>
 		</Filter>
 		<ClCompile Include="C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Source\Programs\CrashReportClient\Private\Mac\CrashReportClientMainMac.cpp">
 			<Filter>Private\Mac</Filter>
@@ -110,7 +110,7 @@
 			<Filter>Private\Mac</Filter>
 		</ClInclude >
 		<Filter Include="Private\Windows">
-			<UniqueIdentifier>{04DDC126-F77E-4CB9-A16B-F25F53E1878C}</UniqueIdentifier>
+			<UniqueIdentifier>{83386D90-243E-48FD-9CD2-B0F8FCE8F26A}</UniqueIdentifier>
 		</Filter>
 		<ClCompile Include="C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Source\Programs\CrashReportClient\Private\Windows\CrashReportClientMainWindows.cpp">
 			<Filter>Private\Windows</Filter>
@@ -122,16 +122,16 @@
 			<Filter>Private\Windows</Filter>
 		</ClInclude >
 		<Filter Include="Public">
-			<UniqueIdentifier>{C6B54532-8EFE-4ED3-8DAB-28B6E9A93BE6}</UniqueIdentifier>
+			<UniqueIdentifier>{67373A90-07DC-4528-BE03-D615C1CE201C}</UniqueIdentifier>
 		</Filter>
 		<ClInclude Include="C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Source\Programs\CrashReportClient\Public\CrashReportClientApp.h">
 			<Filter>Public</Filter>
 		</ClInclude >
 		<Filter Include="Resources">
-			<UniqueIdentifier>{1ADBA372-CA26-4C9D-B3CC-711FC47057E5}</UniqueIdentifier>
+			<UniqueIdentifier>{7ABAEB39-6889-4494-8EC5-B37446A30A43}</UniqueIdentifier>
 		</Filter>
 		<Filter Include="Resources\Windows">
-			<UniqueIdentifier>{24C5151B-876F-4CF4-9DDA-21BB58DFBF89}</UniqueIdentifier>
+			<UniqueIdentifier>{03BE7910-4EE9-4801-A558-CDDD25D96B71}</UniqueIdentifier>
 		</Filter>
 		<Manifest Include="C:\Program Files\Epic Games\UnrealEngine-FleX-4.19.2\Engine\Source\Programs\CrashReportClient\Resources\Windows\CrashReportClient-Win32.manifest">
 			<Filter>Resources\Windows</Filter>
