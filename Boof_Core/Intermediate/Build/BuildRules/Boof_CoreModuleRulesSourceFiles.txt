@@ -1,3 +1,0 @@
-F:\Game Development\BoofStudios\BoofStudios_OneShotAnims\Boof_Core\Source\Boof_Core\Boof_Core.Build.cs
-F:\Game Development\BoofStudios\BoofStudios_OneShotAnims\Boof_Core\Source\Boof_Core.Target.cs
-F:\Game Development\BoofStudios\BoofStudios_OneShotAnims\Boof_Core\Source\Boof_CoreEditor.Target.cs
